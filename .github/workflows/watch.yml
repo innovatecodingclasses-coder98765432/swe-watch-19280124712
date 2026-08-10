@@ -1,0 +1,53 @@
+name: watch-simplify
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watch-simplify
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch README
+        run: curl -sL --fail https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md -o r.md
+
+      - name: Extract listings
+        run: python3 extract.py > listings.txt
+
+      - name: Diff and notify
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          touch snapshot.txt
+          comm -13 snapshot.txt listings.txt > added.txt || true
+          COUNT=$(wc -l < added.txt)
+          if [ ! -s snapshot.txt ]; then
+            echo "Seeding baseline, no alert."
+          elif [ "$COUNT" -gt 0 ]; then
+            head -c 3000 added.txt > body.txt
+            curl -s \
+              -H "Title: $COUNT new role(s) on Simplify" \
+              -H "Priority: high" \
+              -H "Tags: briefcase" \
+              -H "Click: https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles" \
+              --data-binary @body.txt \
+              "https://ntfy.sh/$NTFY_TOPIC"
+          fi
+
+      - name: Commit snapshot
+        run: |
+          cp listings.txt snapshot.txt
+          git config user.name "watch-bot"
+          git config user.email "watch-bot@users.noreply.github.com"
+          git add snapshot.txt
+          git diff --staged --quiet || git commit -m "snapshot $(date -u +%F_%T)"
+          git push
