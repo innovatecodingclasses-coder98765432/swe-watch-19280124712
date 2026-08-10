@@ -47,8 +47,10 @@ Palantir | Forward Deployed Software Engineer Intern - Commercial | Chicago, IL 
 Palantir | Privacy and Civil Liberties Software Engineer Intern | NYC | https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b/apply
 Pylon | Software Engineer Intern | SF | https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application
 Quadrillion | Software Engineering Intern | NYC | https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application
+RTX | Software Engineer Intern - Summer 2027 | Marlborough, MA | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158
 RTX | Software Engineer Intern | Anaheim, CA | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012
 RTX | Software Engineer Intern | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01864033
+RTX | Software Engineer Intern | Texas | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749
 Roblox | Software Engineer Intern | San Mateo, CA | https://careers.roblox.com/jobs/8072713
 SimonComputing | Software Development Internship | Alexandria, VA | https://simoncomputing.applicantpro.com/jobs/4115690
 SpaceX | Software Engineering Intern/Co-op | 8 locations Palo Alto, CA Bastrop, TX Irvine, CA Cape Canaveral, FL Brownsville, TX Redmond, WA McGregor, TX Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8621757002
@@ -80,6 +82,7 @@ TikTok | Software Engineer Intern - Data Architecture - E-commerce | Seattle, WA
 TikTok | Software Engineer Intern - Effects Performance | San Jose, CA | https://lifeattiktok.com/search/7668725183121000757
 TikTok | Software Engineer Intern - Foundation Platform | San Jose, CA | https://lifeattiktok.com/search/7670281449668905269
 TikTok | Software Engineer Intern - Global CRM | San Jose, CA | https://lifeattiktok.com/search/7669711844487399685
+TikTok | Software Engineer Intern - Global E-commerce-Search | Seattle, WA | https://lifeattiktok.com/search/7670839727059339525
 TikTok | Software Engineer Intern - Intelligent Creation-Camera | San Jose, CA | https://lifeattiktok.com/search/7668862422178318597
 TikTok | Software Engineer Intern - Media Engine | San Jose, CA | https://lifeattiktok.com/search/7670295535077427509
 TikTok | Software Engineer Intern - Social Friending | San Jose, CA | https://lifeattiktok.com/search/7667935399050692917
