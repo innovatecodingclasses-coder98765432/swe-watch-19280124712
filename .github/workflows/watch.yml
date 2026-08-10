@@ -1,4 +1,5 @@
 name: watch-simplify
+
 on:
   schedule:
     - cron: '*/5 * * * *'
@@ -28,19 +29,25 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: |
           touch snapshot.txt
+          wc -l snapshot.txt listings.txt
           comm -13 snapshot.txt listings.txt > added.txt || true
           COUNT=$(wc -l < added.txt)
+          echo "NEW COUNT: $COUNT"
+          cat added.txt
           if [ ! -s snapshot.txt ]; then
             echo "Seeding baseline, no alert."
           elif [ "$COUNT" -gt 0 ]; then
-            head -c 3000 added.txt > body.txt
-            curl -s \
+            sed -E 's/ \| (https?:\/\/[^ ]*)?$//' added.txt | head -c 3000 > body.txt
+            HTTP=$(curl -s -o resp.txt -w '%{http_code}' \
               -H "Title: $COUNT new role(s) on Simplify" \
               -H "Priority: high" \
-              -H "Tags: briefcase" \
               -H "Click: https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles" \
               --data-binary @body.txt \
-              "https://ntfy.sh/$NTFY_TOPIC"
+              "https://ntfy.sh/$NTFY_TOPIC")
+            echo "NTFY HTTP: $HTTP"
+            cat resp.txt
+          else
+            echo "No new roles."
           fi
 
       - name: Commit snapshot
