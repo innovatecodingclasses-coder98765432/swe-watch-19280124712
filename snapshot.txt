@@ -57,12 +57,10 @@ Palantir | Privacy and Civil Liberties Software Engineer Intern | NYC | https://
 Pylon | Software Engineer Intern | SF | https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application
 Quadrillion | Software Engineering Intern | NYC | https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application
 Quantbot Technologies | Software Engineer Intern | NYC | https://www.quantbot.com/careers/4299458009
-RTX | Enterprise Extended Reality Intern | NYC | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-NY-REMOTE/Enterprise-Extended-Reality--XR--Intern--Summer-2027---Remote-_01865894
 RTX | Software Development Intern - Summer 2027 | Tewksbury, MA | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635
 RTX | Software Engineer Intern - Summer 2027 | Marlborough, MA | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158
 RTX | Software Engineer Intern | Burnsville, MN | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--2027-_01865474
 RTX | Software Engineer Intern | Largo, FL | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1
-RTX | Software Engineer Intern | Texas | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749
 Roblox | Software Engineer Intern | San Mateo, CA | https://careers.roblox.com/jobs/8072713
 Sentry | Software Engineer Intern - Summer 2027 | SF | https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1/application
 SimonComputing | Software Development Internship | Alexandria, VA | https://simoncomputing.applicantpro.com/jobs/4115690
