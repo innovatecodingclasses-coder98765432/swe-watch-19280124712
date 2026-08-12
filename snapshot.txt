@@ -3,6 +3,7 @@ Ameren | DERMS Co-op/Intern | St. Louis, MO Illinois | https://ameren.wd1.mywork
 Ameren | Digital Co-op | St. Louis, MO | https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1
 Appian | Software Engineer Intern | McLean, VA | https://job-boards.greenhouse.io/appian/jobs/8041237
 Atoms | Machine Learning PhD Software Engineer Intern 🎓 | 4 locations Seattle, WA LA NYC Mountain View, CA | https://job-boards.greenhouse.io/cssmerge/jobs/8693034002
+Atoms | Software Engineer Intern - Summer 2027 | 5 locations Seattle, WA SF LA NYC Mountain View, CA | https://job-boards.greenhouse.io/cssmerge/jobs/8687896002
 Axon | Software Engineer Intern | Boston, MA Seattle, WA | https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003
 Axon | Software Engineering Intern | Boston, MA Seattle, WA | https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003
 Belvedere Trading | Software Engineer Intern - Summer 2027 | Chicago, IL | https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply
@@ -39,7 +40,6 @@ Gulfstream | Computer Science Intern - Advanced Structures and Materials | Savan
 HPR (Hyannis Port Research) | Software Engineer Intern | Needham, MA | https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003
 Heliux | Software Engineer Intern | SF | https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application
 Hudson River Trading | Software Engineer Intern - C++ or Python | Austin, TX Chicago, IL NYC | https://www.hudsonrivertrading.com/careers/job/
-ING | Technology Intern - Innovation | NYC | https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Innovation-_REQ-10119619
 JP Morgan Chase | Software Engineer Intern - Software Engineer Program | 9 locations Palo Alto, CA Houston, TX Tampa, FL Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759
 Kimley-Horn | Software Developer Intern | Cary, NC | https://careers-kimley-horn.icims.com/jobs/25761/job
 LPL Financial Holdings | Software Engineer Intern | Austin, TX Fort Mill, SC Charlotte, NC | https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921
@@ -64,6 +64,7 @@ RTX | Software Engineer Intern | Burnsville, MN | https://globalhr.wd5.myworkday
 RTX | Software Engineer Intern | Largo, FL | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1
 RTX | Software Engineer Intern | Texas | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749
 Roblox | Software Engineer Intern | San Mateo, CA | https://careers.roblox.com/jobs/8072713
+Sentry | Software Engineer Intern - Summer 2027 | SF | https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1/application
 SimonComputing | Software Development Internship | Alexandria, VA | https://simoncomputing.applicantpro.com/jobs/4115690
 SpaceX | Software Engineering Intern/Co-op | 8 locations Palo Alto, CA Bastrop, TX Irvine, CA Cape Canaveral, FL Brownsville, TX Redmond, WA McGregor, TX Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8621757002
 The Nuclear Company | Software Engineering Intern - Product - Platform | Washington, DC | https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008
