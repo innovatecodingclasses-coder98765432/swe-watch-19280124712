@@ -118,4 +118,3 @@ Uline | Software Development Intern | 5 locations Waukegan, IL Milwaukee, WI Gle
 Vertiv | Thermal Application Engineer Intern - Summer 2027 | Westerville, OH | https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278512
 Virtu Financial | Frontend Developer Internship | NYC | https://job-boards.greenhouse.io/virtu/jobs/8657500002
 Virtu Financial | Software Engineer Intern - Software Engineer | Austin, TX NYC | https://job-boards.greenhouse.io/virtu/jobs/8624410002
-Western Digital | Software Engineer Intern | 6 locations Fremont, CA Rochester, MN San Jose, CA Irvine, CA Colorado Springs, CO Longmont, CO | https://jobs.smartrecruiters.com/WesternDigital/744000138727213
