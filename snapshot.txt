@@ -4,7 +4,6 @@ Ameren | Digital Co-op | St. Louis, MO | https://ameren.wd1.myworkdayjobs.com/Ex
 Appian | Software Engineer Intern | McLean, VA | https://job-boards.greenhouse.io/appian/jobs/8041237
 Atoms | Machine Learning PhD Software Engineer Intern 🎓 | 4 locations Seattle, WA LA NYC Mountain View, CA | https://job-boards.greenhouse.io/cssmerge/jobs/8693034002
 Atoms | Software Engineer Intern - Summer 2027 | 5 locations Seattle, WA SF LA NYC Mountain View, CA | https://job-boards.greenhouse.io/cssmerge/jobs/8687896002
-Axon | Software Engineer Intern | Boston, MA Seattle, WA | https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003
 Axon | Software Engineering Intern | Boston, MA Seattle, WA | https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003
 Belvedere Trading | Software Engineer Intern - Summer 2027 | Chicago, IL | https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply
 ByteDance | AI Network Automation Engineer Intern - Global Physical Network Infrastructure | San Jose, CA | https://jobs.bytedance.com/en/position/7670690923748870405/detail
@@ -18,6 +17,9 @@ ByteDance | Software Engineer Intern - AI Platform | San Jose, CA | https://jobs
 ByteDance | Software Engineer Intern - AML-Engine-Orchestration | San Jose, CA | https://jobs.bytedance.com/en/position/7671162985123907845/detail
 ByteDance | Software Engineer Intern - AML-Engine-Orchestration | Seattle, WA | https://jobs.bytedance.com/en/position/7672386983965100341/detail
 ByteDance | Software Engineer Intern - Distributed NoSQL Database Systems | San Jose, CA | https://jobs.bytedance.com/en/position/7668374190764050741/detail
+ByteDance | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | https://jobs.bytedance.com/en/position/7668315137242351925/detail
+ByteDance | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | https://jobs.bytedance.com/en/position/7672557061679483189/detail
+ByteDance | Software Engineer Intern - Traffic Infrastructure | San Jose, CA | https://jobs.bytedance.com/en/position/7672626707586746629/detail
 ByteDance | Software Engineer Intern | Seattle, WA | https://jobs.bytedance.com/en/position/7668373268886161669/detail
 ByteDance | Video/Image AI/ML Software Engineer Intern - Multimedia 🎓 | San Diego, CA | https://jobs.bytedance.com/en/position/7670354329765464373/detail
 CTGT | Software Engineer Intern | SF | https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application
@@ -53,6 +55,7 @@ Melius | Software Engineer Intern | NYC | https://jobs.ashbyhq.com/melius/b61f06
 Motorola | Android Platform Software Engineer Intern - Summer 2027 | Schaumburg, IL Plantation, FL | https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1
 Northrop Grumman | Software Engineer Intern - Aeronautics Systems | Melbourne, FL | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395
 Northrop Grumman | Software Engineer Intern - Aeronautics Systems | Melbourne, FL | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255
+Notion | Software Engineer Intern - Summer 2027 | SF NYC | https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application
 Optiver | Software Engineer Intern | Austin, TX | https://www.optiver.com/join-us/jobs/8401052002/
 Optiver | Software Engineer Intern | Chicago, IL | https://www.optiver.com/join-us/jobs/8604760002/
 PDT Partners | Software Engineer Intern | NYC | https://job-boards.greenhouse.io/pdtpartners/jobs/8077685
@@ -64,10 +67,13 @@ RRS Group | Software Engineer Intern - Placement Year | SF | https://jobs.smartr
 RTX | Methods Intern - Hot Section Engineering | East Hartford, CT | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Intern---Hot-Section-Engineering--Summer-2027---Onsite-_01864520
 RTX | Software Development Intern - Summer 2027 | Tewksbury, MA | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635
 RTX | Software Engineer Intern - Summer 2027 | Annapolis, MD | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864370
+RTX | Software Engineer Intern - Summer 2027 | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129
+RTX | Software Engineer Intern - Summer 2027 | Fullerton, CA | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineering-Intern--Summer-2027-_01867439
 RTX | Software Engineer Intern - Summer 2027 | Marlborough, MA | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158
 RTX | Software Engineer Intern | Annapolis, MD | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864400
 RTX | Software Engineer Intern | Burnsville, MN | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--2027-_01865474
 RTX | Software Engineer Intern | Largo, FL | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1
+RTX | Software Engineer Intern | West Valley City, UT | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952
 Roblox | Software Engineer Intern | San Mateo, CA | https://careers.roblox.com/jobs/8072713
 Sentry | Software Engineer Intern - Summer 2027 | SF | https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1/application
 SimonComputing | Software Development Internship | Alexandria, VA | https://simoncomputing.applicantpro.com/jobs/4115690
@@ -118,7 +124,6 @@ TikTok | Software Engineer Intern | San Jose, CA | https://lifeattiktok.com/sear
 TikTok | Software Engineer Intern | San Jose, CA | https://lifeattiktok.com/search/7669712589169117445
 TikTok | Software Engineer Intern | Seattle, WA | https://lifeattiktok.com/search/7668582086899763461
 Trillium | Software Engineer Intern - Summer 2027 | NYC | https://www.trlm.com/apply/5207089007
-Truist Bank | Technology and Operations Intern Conversion - Data | Charlotte, NC Atlanta, GA | https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship---Intern-Conversion-_R0117276
 Uline | Software Development Intern | 5 locations Waukegan, IL Milwaukee, WI Glenview, IL Pleasant Prairie, WI Kenosha, WI | https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684
 Vertiv | Thermal Application Engineer Intern - Summer 2027 | Westerville, OH | https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278512
 Virtu Financial | Frontend Developer Internship | NYC | https://job-boards.greenhouse.io/virtu/jobs/8657500002
