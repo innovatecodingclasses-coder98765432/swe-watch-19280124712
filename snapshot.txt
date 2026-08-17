@@ -1,8 +1,12 @@
 Altamira Technologies | Software Development Intern | Fairborn, OH | https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8
 Ameren | DERMS Co-op/Intern | St. Louis, MO Illinois | https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/DERMS-Co-Op-Intern_033809-1
 Ameren | Digital Co-op | St. Louis, MO | https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1
+American Express | AI Engineer Intern - Enterprise Technology Services | NYC | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698
+American Express | Software Engineer Intern - Enterprise Technology Services | Charlotte, NC | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679
 American Express | Software Engineer Intern - Enterprise Technology Services 🎓 | Charlotte, NC | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987
 American Express | Software Engineer Intern - Enterprise Technology Services 🎓 | NYC | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082
+American Express | Software Engineer Intern - Enterprise Technology Services 🎓 | Sunrise, FL | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084
+American Express | Software Engineer Intern - Technology | NYC | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970
 Appian | Software Engineer Intern | McLean, VA | https://job-boards.greenhouse.io/appian/jobs/8041237
 Atoms | Machine Learning PhD Software Engineer Intern 🎓 | 4 locations Seattle, WA LA NYC Mountain View, CA | https://job-boards.greenhouse.io/cssmerge/jobs/8693034002
 Atoms | Software Engineer Intern - Summer 2027 | 5 locations Seattle, WA SF LA NYC Mountain View, CA | https://job-boards.greenhouse.io/cssmerge/jobs/8687896002
@@ -20,6 +24,7 @@ ByteDance | Software Engineer Intern - AML-Engine-Orchestration | San Jose, CA |
 ByteDance | Software Engineer Intern - AML-Engine-Orchestration | Seattle, WA | https://jobs.bytedance.com/en/position/7672386983965100341/detail
 ByteDance | Software Engineer Intern - Distributed NoSQL Database Systems | San Jose, CA | https://jobs.bytedance.com/en/position/7668374190764050741/detail
 ByteDance | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | https://jobs.bytedance.com/en/position/7668315137242351925/detail
+ByteDance | Software Engineer Intern - Global Payment | San Jose, CA | https://jobs.bytedance.com/en/position/7668650945276168453/detail
 ByteDance | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | https://jobs.bytedance.com/en/position/7672557061679483189/detail
 ByteDance | Software Engineer Intern - Traffic Infrastructure | San Jose, CA | https://jobs.bytedance.com/en/position/7672626707586746629/detail
 ByteDance | Software Engineer Intern | Seattle, WA | https://jobs.bytedance.com/en/position/7668373268886161669/detail
@@ -36,16 +41,21 @@ Cybernetic Labs | Software Engineer Intern - Agent Platform | SF | https://jobs.
 DV Trading | Software Engineer Intern - DV Commodities | London, UK | https://job-boards.greenhouse.io/dvtrading/jobs/4719125005
 DV Trading | Software Engineer Intern | NYC | https://job-boards.greenhouse.io/dvtrading/jobs/4719119005
 FAST Enterprises | Implementation Intern | United States | https://careers.fastenterprises.com/jobs/1709
+GE Aerospace | Digital Technology Intern - Multiple Teams | Atlanta, GA | https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078
+GE Aerospace | Digital Technology Intern - Multiple Teams | Evendale, OH | https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Intern---US---Cincinnati--OH---Summer-2027_R5029739-1
+GE Aerospace | Digital Technology Intern - Summer 2027 | Livonia, MI | https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Livonia/Digital-Technology-Intern---US---Livonia--MI---Summer-2027_R5038079-1
 GE Appliances | Engineering Co-op | LaFayette, GA | https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Summer-2027_REQ-26431
 GE Appliances | Software Engineer Co-op - Software Engineering | Louisville, KY | https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427
 Genworth Financial | IT Development Program Intern - IT Development Program | Richmond, VA | https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1
 GoDaddy | Software Development Engineer Intern | Tempe, AZ | https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003
 HPR (Hyannis Port Research) | Software Engineer Intern | Needham, MA | https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003
 Heliux | Software Engineer Intern | SF | https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application
+Hilton Worldwide | Corporate Summer Internship - Technology, Software Engineering and Cyber | Dallas, TX McLean, VA Memphis, TN | https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257
 Hudson River Trading | Software Engineer Intern - C++ or Python | Austin, TX Chicago, IL NYC | https://www.hudsonrivertrading.com/careers/job/
 JP Morgan Chase | Software Engineer Intern - Software Engineer Program | 9 locations Palo Alto, CA Houston, TX Tampa, FL Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759
 KPMG | Product Specialist Intern Co-op - Asset Management Digital Solutions | Toronto, ON, Canada | https://careers.kpmg.ca/jobs/33301
 KPMG | Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer | Toronto, ON, Canada | https://careers.kpmg.ca/jobs/33306
+KeyBank | Technology Track Intern - Key Technology and Services | Brooklyn, OH | https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Technology-Track-Internship--Cleveland_R-41382
 Kimley-Horn | Software Developer Intern | Cary, NC | https://careers-kimley-horn.icims.com/jobs/25761/job
 LPL Financial Holdings | Software Engineer Intern | Austin, TX Fort Mill, SC Charlotte, NC | https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921
 Marshall Wace | Technology Intern | London, UK | https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002
