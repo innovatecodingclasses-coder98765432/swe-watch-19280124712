@@ -56,6 +56,7 @@ GE Appliances | Software Engineer Co-op - Software Engineering | Louisville, KY 
 GE Vernova | Application Engineer Co-op/Intern - PCS | Findlay Township, PA | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-1
 GE Vernova | Application Engineer Co-op/Intern - PCS | Findlay Township, PA | https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2
 Garda Capital Partners | Software Engineer Intern | NYC | https://job-boards.greenhouse.io/gardacp/jobs/6146213004
+General Matter | Software Engineering Intern | LA | https://job-boards.greenhouse.io/generalmatter/jobs/5377118008
 Genworth Financial | IT Development Program Intern - IT Development Program | Richmond, VA | https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1
 HPR (Hyannis Port Research) | Software Engineer Intern | Needham, MA | https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003
 Heliux | Software Engineer Intern | SF | https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application
@@ -99,7 +100,6 @@ RTX | Software Engineer Intern - Summer 2027 | Marlborough, MA | https://globalh
 RTX | Software Engineer Intern - Summer 2027 | Sterling, VA | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01864691
 RTX | Software Engineer Intern | San Jose, CA | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392
 RTX | Software Engineer Intern | West Valley City, UT | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952
-RTX | Software Engineer Intern | Westford, MA | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Software-Engineering-Intern--Summer-2027-_01867678
 RTX | Software Engineering Intern | Cambridge, MA | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698
 Replit | Software Engineer Intern - Summer 2027 | Foster City, CA | https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application
 Roblox | Software Engineer Intern | San Mateo, CA | https://careers.roblox.com/jobs/8072713
@@ -140,7 +140,11 @@ TikTok | Software Engineer Intern - Global CRM | San Jose, CA | https://lifeatti
 TikTok | Software Engineer Intern - Global E-commerce-Search | Seattle, WA | https://lifeattiktok.com/search/7670839727059339525
 TikTok | Software Engineer Intern - Intelligent Creation-Camera | San Jose, CA | https://lifeattiktok.com/search/7668862422178318597
 TikTok | Software Engineer Intern - Media Engine | San Jose, CA | https://lifeattiktok.com/search/7670295535077427509
+TikTok | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure | San Jose, CA | https://lifeattiktok.com/search/7672930401597671733
+TikTok | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure | Seattle, WA | https://lifeattiktok.com/search/7672926068681951493
+TikTok | Software Engineer Intern - Recommendation Infra - Performance Efficiency | San Jose, CA | https://lifeattiktok.com/search/7675159726676101381
 TikTok | Software Engineer Intern - Social Friending | San Jose, CA | https://lifeattiktok.com/search/7667935399050692917
+TikTok | Software Engineer Intern - TikTok Search Architecture | San Jose, CA | https://lifeattiktok.com/search/7675517686256863541
 TikTok | Software Engineer Intern - TikTok Search Data Infra | San Jose, CA | https://lifeattiktok.com/search/7675128776856029445
 TikTok | Software Engineer Intern - Transaction Platform | San Jose, CA | https://lifeattiktok.com/search/7669943120351906053
 TikTok | Software Engineer Intern - Trust and Safety Engineering | Seattle, WA | https://lifeattiktok.com/search/7662684280234232117
