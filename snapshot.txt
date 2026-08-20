@@ -15,7 +15,6 @@ American Express | Software Engineer Intern - Technology | NYC | https://egug.fa
 Appian | Software Engineer Intern | McLean, VA | https://job-boards.greenhouse.io/appian/jobs/8041237
 Atoms | Machine Learning PhD Software Engineer Intern 🎓 | 4 locations Seattle, WA LA NYC Mountain View, CA | https://job-boards.greenhouse.io/cssmerge/jobs/8693034002
 Atoms | Software Engineer Intern - Summer 2027 | 5 locations Seattle, WA SF LA NYC Mountain View, CA | https://job-boards.greenhouse.io/cssmerge/jobs/8687896002
-Axon | Software Engineering Intern | Boston, MA Seattle, WA | https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003
 Belvedere Trading | Software Engineer Intern - Summer 2027 | Chicago, IL | https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply
 ByteDance | AI Network Automation Engineer Intern - Global Physical Network Infrastructure | San Jose, CA | https://jobs.bytedance.com/en/position/7670690923748870405/detail
 ByteDance | GPU/AI Application System Software Engineer Intern - System Technologies and Engineering | San Jose, CA | https://jobs.bytedance.com/en/position/7668464504736876853/detail
@@ -72,7 +71,6 @@ KeyBank | Technology Track Intern - Key Technology and Services | Brooklyn, OH |
 LPL Financial Holdings | Software Engineer Intern | Austin, TX Fort Mill, SC Charlotte, NC | https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921
 Marshall Wace | Technology Intern | London, UK | https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002
 Marshall Wace | Technology Intern | NYC | https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002
-McKesson | Technology Intern | Columbus, OH | https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979
 Medtronic | Software Engineer Intern | 21 locations Boston, MA Santa Ana, CA Fridley, MN Santa Rosa, CA Irvine, CA Mansfield, MA Mounds View, MN Tempe, AZ Memphis, TN Brooklyn Center, MN Plymouth, MN Brooklyn Park, MN Fort Worth, TX Dexter, MI North Haven, CT Lafayette, CO Minneapolis, MN Newton, MA Jacksonville, FL Eatontown, NJ Boulder, CO | https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630
 Melius | Software Engineer Intern | NYC | https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application
 Motorola | Android Platform Software Engineer Intern - Summer 2027 | Schaumburg, IL Plantation, FL | https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1
