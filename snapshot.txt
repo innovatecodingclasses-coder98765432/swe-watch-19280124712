@@ -62,7 +62,6 @@ DuCharme, McMillen & Associates | Software Developer Intern | Indianapolis, IN F
 Ecolab | Digital & AI Technology Intern | Naperville, IL Eagan, MN St Paul, MN | https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249
 FAST Enterprises | Implementation Intern | United States | https://careers.fastenterprises.com/jobs/1709
 Fannie Mae | Technology Program Intern | Plano, TX Reston, VA | https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Campus---Technology-Program-Intern_JR2810
-Fifth Third Bank | Software Engineer Co-op - Enterprise Finance Applications - Summer 2027 | Cincinnati, OH | https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588
 Freddie Mac | Multifamily Software Development Intern - Summer 2027 | McLean, VA | https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564
 Freddie Mac | Software Developer Intern - Single-Family | McLean, VA | https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544
 Freddie Mac | Technology Intern - Enterprise Operations + Technology | McLean, VA | https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542
@@ -125,11 +124,15 @@ RTX | Software Engineer Intern - Summer 2027 | Tucson, AZ | https://globalhr.wd5
 RTX | Software Engineering Intern | Cambridge, MA | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698
 Replit | Software Engineer Intern - Summer 2027 | Foster City, CA | https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application
 Roblox | Software Engineer Intern | San Mateo, CA | https://careers.roblox.com/jobs/8072713
+Sage | Software Engineer Intern - Edge - Summer 2027 | NYC | https://job-boards.greenhouse.io/sage49/jobs/6131191004
+Sage | Software Engineer Intern - Full Stack | NYC | https://job-boards.greenhouse.io/sage49/jobs/6131185004
 SpaceX | Software Engineering Intern/Co-op | 8 locations Palo Alto, CA Bastrop, TX Irvine, CA Cape Canaveral, FL Brownsville, TX Redmond, WA McGregor, TX Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8621757002
 Specter Aerospace | Full Stack Developer Co-op | Boston, MA Peabody, MA | https://specteraerospace.bamboohr.com/careers/122/
 Springs Window Fashions | Application Engineering Intern - Summer 2027 | Long Island City, Queens, NY | https://careers-springswindowfashions.icims.com/jobs/12893/job
+Springs Window Fashions | Software Engineering Intern - Summer 2027 | Long Island City, Queens, NY | https://careers-springswindowfashions.icims.com/jobs/12891/job
 Teledyne | Software Engineer Intern - NHRC | Huntsville, AL | https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193
 Teledyne | Software Engineer Intern - NHRC | Huntsville, AL | https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2
+The Hartford | Software Engineer Intern - Tech & Data Program | Hartford, CT | https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1
 The Nuclear Company | Software Engineering Intern - Product - Platform | Washington, DC | https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008
 TikTok | Backend Software Engineer Intern - Creation Platform | San Jose, CA | https://lifeattiktok.com/search/7670289874020993285
 TikTok | Backend Software Engineer Intern - Digital Content Center | San Jose, CA | https://lifeattiktok.com/search/7667934302872537397
@@ -183,4 +186,5 @@ Vertiv | Thermal Application Engineer Intern - Summer 2027 | Westerville, OH | h
 Virtu Financial | Frontend Developer Internship | NYC | https://job-boards.greenhouse.io/virtu/jobs/8657500002
 Virtu Financial | Software Engineer Intern - Software Engineer | Austin, TX NYC | https://job-boards.greenhouse.io/virtu/jobs/8624410002
 W.W. Grainger | Software Engineer Intern - Grainger Technology Group | Chicago, IL | https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/
+Westinghouse Electric Company | Computer Engineering / Software Engineering Intern | Cranberry Township, PA | https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/
 Zipline | Software Engineer Intern - Summer 2027 | South SF | https://www.zipline.com/open-roles
