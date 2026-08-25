@@ -18,7 +18,6 @@ American Express | Software Engineer Intern - Enterprise Technology Services ðŸŽ
 American Express | Software Engineer Intern - Technology | NYC | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970
 Appian | Software Engineer Intern | McLean, VA | https://job-boards.greenhouse.io/appian/jobs/8041237
 Atoms | Machine Learning PhD Software Engineer Intern ðŸŽ“ | 4 locations Seattle, WA LA NYC Mountain View, CA | https://job-boards.greenhouse.io/cssmerge/jobs/8693034002
-Atoms | Software Engineer Intern - Summer 2027 | 5 locations Seattle, WA SF LA NYC Mountain View, CA | https://job-boards.greenhouse.io/cssmerge/jobs/8687896002
 Axon | Software Engineer Intern | Boston, MA Seattle, WA | https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003
 BNY | Engineering Developer Intern - Engineering | Lake Mary, FL | https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252
 BNY | Engineering Intern - Developer | Greater Manchester, UK | https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81318
@@ -105,6 +104,7 @@ NVIDIA | Software Engineering Intern | Canada Santa Clara, CA | https://nvidia.w
 Northrop Grumman | Software Engineer Intern - Aeronautics Systems | Melbourne, FL | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395
 Northrop Grumman | Software Engineer Intern - Aeronautics Systems | Melbourne, FL | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573
 Northrop Grumman | Software Engineer Intern - Aeronautics Systems | Melbourne, FL | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255
+Northrop Grumman | Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel | Huntsville, AL | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486
 Notion | Software Engineer Intern - Summer 2027 | SF NYC | https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application
 Old Mission | Software Engineer Intern | Chicago, IL | https://www.oldmissioncapital.com/careers/
 Optiver | Software Engineer Intern | Austin, TX | https://www.optiver.com/join-us/jobs/8401052002/
