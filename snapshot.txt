@@ -62,6 +62,7 @@ CTGT | Software Engineer Intern | SF | https://jobs.ashbyhq.com/ctgt/f657c2f5-12
 Capital One | Technology Intern | Nottingham, UK | https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Technology-Summer-Internship_R999269
 Castleton Commodities International | Front Office Software Engineer Intern | London, UK | https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Front-Office-Software-Engineer-Internship--Summer-2027-_R1347
 Castleton Commodities International | Full-Stack Software Engineer Intern | Houston, TX Stamford, CT | https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350
+Charles Schwab | Software Engineering Intern - Technology | 6 locations Austin, TX Westlake, TX Ann Arbor, MI Southlake, TX Omaha, NE Phoenix, AZ | https://career-schwab.icims.com/jobs/126228/job
 Chicago Trading Company | Software Engineer Intern | Chicago, IL | https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005
 Chicago Trading Company | Software Engineering Intern | Chicago, IL | https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005
 Circleback | Software Engineer Intern | SF | https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application
@@ -111,6 +112,7 @@ Honeywell | Software Engineer Intern - Computer Science | United States | https:
 Hudson River Trading | Software Engineer Intern - C++ or Python | Austin, TX Chicago, IL NYC | https://www.hudsonrivertrading.com/careers/job/
 Humana | Technology Intern - Early ID Participants | Louisville, KY | https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027--Early-ID-Participants-_R-427451
 IMC Trading | Performance Engineer Intern | Chicago, IL | https://job-boards.eu.greenhouse.io/imc/jobs/4842595101
+Intuit | Software Engineer Intern - Full Stack | 5 locations Charlotte, NC NYC Mountain View, CA Atlanta, GA San Diego, CA | https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864
 JP Morgan Chase | Software Engineer Intern - Software Engineer Program | 9 locations Palo Alto, CA Houston, TX Tampa, FL Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759
 Johnson & Johnson | Technology Intern - Technology LDP | 11 locations West Chester, PA Horsham, PA Spring House, PA New Brunswick, NJ Irvine, CA Raritan, NJ Santa Clara, CA Hopewell Township, NJ Fort Washington, PA Jacksonville, FL Palm Beach Gardens, FL | https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602
 KPMG | Product Specialist Intern Co-op - Asset Management Digital Solutions | Toronto, ON, Canada | https://careers.kpmg.ca/jobs/33301
@@ -141,6 +143,7 @@ PDT Partners | Software Engineer Intern | NYC | https://job-boards.greenhouse.io
 PIMCO | Software Engineering Intern - Technology Analyst | Austin, TX | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745
 Palantir | Forward Deployed Software Engineer Intern - Commercial | Chicago, IL | https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply
 Parsons | Software Intern - Summer 2027 | Denver, CO | https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Denver/Software-Intern--Summer-2027-_R185388
+Persona AI | Robotics Software Intern - Manipulation | Houston, TX | https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application
 PricewaterhouseCoopers (PwC) | Summer Intern - SAP | Calgary, AB, Canada | https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/May-2027---SAP---Summer-Intern---Calgary_752589WD
 Pylon | Software Engineer Intern | SF | https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application
 Quadrillion | Software Engineering Intern | NYC | https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application
