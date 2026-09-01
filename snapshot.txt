@@ -1,5 +1,8 @@
+AMD | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | https://careers.amd.com/jobs/90305
 AMD | Software Engineer Intern/Co-op - Masters 🎓 | San Jose, CA Santa Clara, CA | https://careers.amd.com/jobs/91176
 AMD | Software Engineer Intern/Co-op | 6 locations Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | https://careers.amd.com/jobs/90947
+AMD | Software Engineer Intern/Co-op | Calgary, AB, Canada | https://careers.amd.com/jobs/91366
+AMD | Software Engineer Intern/Co-op | Markham, ON, Canada | https://careers.amd.com/jobs/91368
 AMD | Software Engineer Intern/Co-op | San Jose, CA Santa Clara, CA | https://careers.amd.com/jobs/90891
 AMD | Software Engineer Intern/Co-op 🎓 | 6 locations Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | https://careers.amd.com/jobs/91180
 AbbVie | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | North Chicago, IL | https://jobs.smartrecruiters.com/AbbVie/3743990014697918
@@ -140,6 +143,7 @@ Manulife Financial | Software Engineering Intern | Boston, MA | https://manulife
 Manulife Financial | Software Engineering Intern | Toronto, ON, Canada | https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684
 Marshall Wace | Technology Intern | London, UK | https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002
 Marshall Wace | Technology Intern | NYC | https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002
+Maven Securities | Software Developer Intern | London, UK | https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987
 Medline | RPA & Agentic AI Software Technologies Intern - Summer 2027 | Northbrook, IL | https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/RPA---Agentic-AI-Software-Technologies-Intern---Summer-2027_R2617378
 Medpace | Python Intern - Summer 2027 | Cincinnati, OH | https://careers.medpace.com/jobs/12962
 Medtronic | Engineering Intern | 20 locations Boston, MA Santa Ana, CA Santa Rosa, CA Irvine, CA Mansfield, MA Mounds View, MN Tempe, AZ Memphis, TN Brooklyn Center, MN Plymouth, MN Brooklyn Park, MN Fort Worth, TX Dexter, MI North Haven, CT Lafayette, CO Minneapolis, MN Newton, MA Jacksonville, FL Eatontown, NJ Boulder, CO | https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021
@@ -194,6 +198,10 @@ TELUS Digital | Software Engineer Intern - US - Summer 2027 | Durham, NC Columbu
 Teledyne | Software Engineer Intern - NHRC | Huntsville, AL | https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193
 Teledyne | Software Engineer Intern - NHRC | Huntsville, AL | https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2
 Tesla | Software Engineer Intern - Vehicle Software - Summer 2027 | Palo Alto, CA | https://www.tesla.com/careers/search/job/281097
+Textron | Software Engineer Co-op - Uncrewed Land & Air | Hunt Valley, Cockeysville, MD | https://textron.taleo.net/careersection/textron/jobdetail.ftl
+Textron | Software Engineer Intern - Crewed Land | Slidell, LA | https://textron.taleo.net/careersection/textron/jobdetail.ftl
+Textron | Software Engineer Intern - Electronic Systems | Hunt Valley, Cockeysville, MD | https://textron.taleo.net/careersection/textron/jobdetail.ftl
+Textron | Software Engineer Intern | Waterboro, ME | https://textron.taleo.net/careersection/textron/jobdetail.ftl
 The Hartford | Software Engineer Intern - Tech & Data Program | Hartford, CT | https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1
 The Hartford | Software Engineer Intern - Technology & Data | Columbus, OH | https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609
 The Hartford | Software Engineer Intern - Technology, Data, AI, and Operations | Charlotte, NC | https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649
