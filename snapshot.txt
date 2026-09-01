@@ -106,6 +106,7 @@ DV Trading | Software Engineer Intern | NYC | https://job-boards.greenhouse.io/d
 Dee Zee | Software Development Intern | Des Moines, IA | https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368
 Deloitte | AI Innovation Summer Scholar Intern - AI Innovation | McLean, VA | https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-AI-Innovation/364696
 Deutsche Bank | Technology, Data and Innovation Intern - Technology, Data and Innovation | NYC | https://db.recsolu.com/external/requisitions/utrM7YhSIN2pudx_g6Rh2w
+Dev Technology Group | React/Node Developer Intern - Summer 2027 | Reston, VA | https://job-boards.greenhouse.io/devtechnology/jobs/8726212002
 DraftKings | Software Engineer Intern - Summer 2027 | Boston, MA | https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928
 DuCharme, McMillen & Associates | Software Developer Intern | Indianapolis, IN Fort Wayne, IN | https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636
 Ecolab | Digital & AI Technology Intern | Naperville, IL Eagan, MN St Paul, MN | https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249
@@ -186,6 +187,9 @@ PDT Partners | Software Engineer Intern | NYC | https://job-boards.greenhouse.io
 PIMCO | Software Engineering Intern - Technology Analyst | Austin, TX | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745
 PIMCO | Software Engineering Intern - Technology Analyst | London, UK | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800
 Panasonic Holdings | Back-End Cloud Developer Intern | Bridgeton, MO | https://careers.na.panasonic.com/jobs/50754
+Pella | Product Engineer Intern - Summer 2027 | Macomb, IL | https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253231
+Pella | Product Engineer Intern - Summer 2027 | Ocala, FL | https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/252714
+Pella | Software Intern | Pella, IA Urbandale, IA | https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253299
 Persona AI | Robotics Software Intern - Manipulation | Houston, TX | https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application
 PricewaterhouseCoopers (PwC) | Connected Physical Products Intern - Summer 2027 | 14 locations Boston, MA Seattle, WA Houston, TX Washington, DC SF LA Dallas, TX Philadelphia, PA Rosemont, IL Chicago, IL Silicon Valley, CA NYC Minneapolis, MN Atlanta, GA | https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Connected-Physical-Products-Intern---Summer-2027_757231WD
 PricewaterhouseCoopers (PwC) | Summer Intern - SAP | Calgary, AB, Canada | https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/May-2027---SAP---Summer-Intern---Calgary_752589WD
@@ -221,6 +225,7 @@ TC Energy | Engineering Intern | Charleston, WV | https://tcenergy.wd3.myworkday
 TELUS Digital | Software Engineer Intern - US - Summer 2027 | Durham, NC Columbus, OH Charlottesville, VA | https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application
 Teledyne | Software Engineer Intern - NHRC | Huntsville, AL | https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193
 Teledyne | Software Engineer Intern - NHRC | Huntsville, AL | https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2
+Teledyne | Software Engineer Intern | Huntsville, AL | https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667
 Tesla | Software Engineer Intern - Vehicle Software - Summer 2027 | Palo Alto, CA | https://www.tesla.com/careers/search/job/281097
 Textron | Software Engineer Co-op - Uncrewed Land & Air | Hunt Valley, Cockeysville, MD | https://textron.taleo.net/careersection/textron/jobdetail.ftl
 Textron | Software Engineer Intern - Crewed Land | Slidell, LA | https://textron.taleo.net/careersection/textron/jobdetail.ftl
