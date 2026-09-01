@@ -1,3 +1,7 @@
+AMD | Compiler Engineer Intern/Co-op - Masters 🎓 | 5 locations Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | https://careers.amd.com/jobs/91867
+AMD | Compiler Engineer Intern/Co-op | 5 locations Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | https://careers.amd.com/jobs/91864
+AMD | Compiler Engineer Intern/Co-op | San Jose, CA Santa Clara, CA | https://careers.amd.com/jobs/91865
+AMD | Compiler Engineer Intern/Co-op 🎓 | San Jose, CA Santa Clara, CA | https://careers.amd.com/jobs/91866
 AMD | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | https://careers.amd.com/jobs/90305
 AMD | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | https://careers.amd.com/jobs/91359
 AMD | Software Engineer Intern/Co-op - Masters 🎓 | San Jose, CA Santa Clara, CA | https://careers.amd.com/jobs/91176
@@ -25,6 +29,7 @@ American Express | Software Engineer Intern - Enterprise Technology Services �
 American Express | Software Engineer Intern - Enterprise Technology Services 🎓 | NYC | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082
 American Express | Software Engineer Intern - Enterprise Technology Services 🎓 | Sunrise, FL | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084
 American Express | Software Engineer Intern - Technology | NYC | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970
+American Express | Software Engineering Apprentice - Technology | London, UK | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25022281
 AnaVation | Computer Science Intern | Huntsville, AL | https://jobs.lever.co/anavationllc/f7c83978-8510-409c-a5a3-17618511f819/apply
 Anheuser-Busch | Technology Intern | St. Louis, MO | https://abinbev.wd1.myworkdayjobs.com/en-US/USA/job/St-Louis-Missouri/Technology-Internship_30102525
 Appian | Software Engineer Intern | McLean, VA | https://job-boards.greenhouse.io/appian/jobs/8041237
@@ -46,6 +51,14 @@ Booz Allen | Software Developer Intern - Summer Games | San Diego, CA | https://
 Booz Allen | Software Developer Intern - University - 2027 Summer Games | Colorado Springs, CO | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130
 Booz Allen | Software Developer Intern - University | Atlanta, GA | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138
 Booz Allen | Software Developer Intern - University | Charleston, SC | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Software-Developer-Intern_R0248134
+Booz Allen | Systems Engineer Intern - Summer Games | Atlanta, GA | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games--Systems-Engineer-Intern---Atlanta--GA_R0248381
+Booz Allen | Systems Engineer Intern - Summer Games | Honolulu, HI | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370
+Booz Allen | Systems Engineer Intern - Summer Games | San Diego, CA | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0248366
+Booz Allen | Systems Engineer Intern - University | Colorado Springs, CO | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369
+Booz Allen | Systems Engineer Intern - University | Colorado Springs, CO | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368
+Booz Allen | Systems Engineer Intern - University | Rome, NY | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386
+Booz Allen | Systems Engineer Intern | McLean, VA | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361
+Booz Allen | Systems Engineer Intern | San Diego, CA | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365
 Bosch Home Comfort | Software Engineer Intern | Farmington Hills, MI | https://jobs.smartrecruiters.com/BoschGroup/744000146546849
 Brunswick | Systems Engineer Co-op - Software Engineering | Fond du Lac, WI | https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212
 ByteDance | AI Network Automation Engineer Intern - Global Physical Network Infrastructure | San Jose, CA | https://jobs.bytedance.com/en/position/7670690923748870405/detail
@@ -70,7 +83,6 @@ CACI | GMU Scholar Program Intern | Sterling, VA | https://caci.wd1.myworkdayjob
 CACI | Software Engineer Co-op - Spring & Summer 2027 | Danbury, CT | https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1
 CACI | Software Engineer Co-op - Summer & Fall 2027 | Danbury, CT | https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354
 CACI | Software Engineer Intern | Sarasota, FL | https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_331359
-CTGT | Software Engineer Intern | SF | https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application
 Capital One | Technology Intern | Nottingham, UK | https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Technology-Summer-Internship_R999269
 Castleton Commodities International | Front Office Software Engineer Intern | London, UK | https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Front-Office-Software-Engineer-Internship--Summer-2027-_R1347
 Castleton Commodities International | Full-Stack Software Engineer Intern | Houston, TX Stamford, CT | https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350
@@ -153,6 +165,9 @@ Medtronic | Software Engineer Intern | 21 locations Boston, MA Santa Ana, CA Fri
 Melius | Software Engineer Intern | NYC | https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application
 Merchants Bank of Indiana | Business Technology Intern - Application Development | Carmel, IN | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464054
 Merchants Bank of Indiana | Business Technology Intern - Summer 2027 | Carmel, IN | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464029
+Microsoft | Software Engineer Intern - AI and ML Projects | Mountain View, CA | https://apply.careers.microsoft.com/careers/job/1970393556972687
+Microsoft | Software Engineer Intern - AI and ML | Boston, MA | https://apply.careers.microsoft.com/careers/job/1970393556972698
+Microsoft | Software Engineer Intern - CoreAI | Redmond, WA | https://apply.careers.microsoft.com/careers/job/1970393556951950
 Motorola | Android Application Developer Intern - Summer 2027 | Chicago, IL | https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740
 NVIDIA | Software Engineering Intern | Canada Santa Clara, CA | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495
 Nationwide | Technology Intern | Des Moines, IA Scottsdale, AZ Columbus, OH | https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Summer-2027-Technology-Internship_100105
@@ -176,6 +191,7 @@ PricewaterhouseCoopers (PwC) | Tax Innovation Delivery Experience Intern - Multi
 Pylon | Software Engineer Intern | SF | https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application
 Qorvo | Full-Stack Web Developer Intern | Richardson, TX | https://careers.qorvo.com/job/Richardson-Full-Stack-Web-Developer-Intern-TX-75080/1424716200/
 Quadrillion | Software Engineering Intern | NYC | https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application
+RTX | Digital Technology Intern - Summer 2027 | Tucson, AZ | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Digital-Technology-Intern--Summer-2027-_01871049
 RTX | Software Engineer Intern - Intelligent Software & Systems | Cambridge, MA | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914
 RTX | Software Engineer Intern - Summer 2027 | Huntsville, AL | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007
 RTX | Software Engineer Intern - Summer 2027 | Richardson, TX | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868869
@@ -193,6 +209,7 @@ Specter Aerospace | Full Stack Developer Co-op | Boston, MA Peabody, MA | https:
 Springs Window Fashions | Application Engineering Intern - Summer 2027 | Long Island City, Queens, NY | https://careers-springswindowfashions.icims.com/jobs/12893/job
 Springs Window Fashions | Software Engineering Intern - Summer 2027 | Long Island City, Queens, NY | https://careers-springswindowfashions.icims.com/jobs/12891/job
 Steven's Capital Management | Software Engineer | Radnor, PA | https://grnh.se/abfli75k1us
+Stoke Space | Software Intern | Kent, WA | https://stokespace.com/careers/current-openings
 Stryker | Software Engineering Intern - Multiple Teams | Fort Wayne, IN | https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631
 Stryker | Software Engineering Intern - Multiple Teams | Fremont, CA San Jose, CA | https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624
 Stryker | Software Engineering Intern - Software Engineering | Fort Lauderdale, FL | https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1
