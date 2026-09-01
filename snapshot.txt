@@ -119,6 +119,7 @@ Edison International | Computer Science Intern | Santa Ana, CA | https://apply.e
 Empirical Foods | Software Engineer Intern - Summer 2027 | Dakota Dunes, SD | https://careers-empiricalfoods.icims.com/jobs/4161/job
 Epic Games | Frontend Programmer Intern | Cary, NC | https://epicgames.com/careers/jobs/6173862004
 Epic Games | Gameplay Programmer Intern | Cary, NC | https://epicgames.com/careers/jobs/6152263004
+Eulerity | Backend Developer Intern | NYC | https://job-boards.greenhouse.io/eulerity/jobs/4709040006
 FAST Enterprises | Implementation Intern | United States | https://careers.fastenterprises.com/jobs/1709
 Fannie Mae | Technology Program Intern | Plano, TX Reston, VA | https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Campus---Technology-Program-Intern_JR2810
 Freddie Mac | Multifamily Software Development Intern - Summer 2027 | McLean, VA | https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564
@@ -168,6 +169,7 @@ Johnson & Johnson | Technology Intern - Technology LDP | 11 locations West Chest
 KPMG | Product Specialist Intern Co-op - Asset Management Digital Solutions | Toronto, ON, Canada | https://careers.kpmg.ca/jobs/33301
 KPMG | Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer | Toronto, ON, Canada | https://careers.kpmg.ca/jobs/33306
 KeyBank | Technology Track Intern - Key Technology and Services | Brooklyn, OH | https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Technology-Track-Internship--Cleveland_R-41382
+Kinder Morgan | Information Technology Intern - Application Development | Houston, TX | https://careers.kindermorgan.com/jobs/6032
 LPL Financial Holdings | Software Engineer Intern | Austin, TX Fort Mill, SC Charlotte, NC | https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921
 Manulife Financial | Software Engineering Intern | Boston, MA | https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680
 Manulife Financial | Software Engineering Intern | Toronto, ON, Canada | https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684
