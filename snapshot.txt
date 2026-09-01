@@ -1,9 +1,11 @@
 AMD | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | https://careers.amd.com/jobs/90305
+AMD | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | https://careers.amd.com/jobs/91359
 AMD | Software Engineer Intern/Co-op - Masters 🎓 | San Jose, CA Santa Clara, CA | https://careers.amd.com/jobs/91176
 AMD | Software Engineer Intern/Co-op | 6 locations Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | https://careers.amd.com/jobs/90947
 AMD | Software Engineer Intern/Co-op | Calgary, AB, Canada | https://careers.amd.com/jobs/91366
 AMD | Software Engineer Intern/Co-op | Markham, ON, Canada | https://careers.amd.com/jobs/91368
 AMD | Software Engineer Intern/Co-op | San Jose, CA Santa Clara, CA | https://careers.amd.com/jobs/90891
+AMD | Software Engineer Intern/Co-op | Vancouver, BC, Canada | https://careers.amd.com/jobs/91367
 AMD | Software Engineer Intern/Co-op 🎓 | 6 locations Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | https://careers.amd.com/jobs/91180
 AbbVie | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | North Chicago, IL | https://jobs.smartrecruiters.com/AbbVie/3743990014697918
 AbbVie | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | South SF | https://jobs.smartrecruiters.com/AbbVie/3743990014860391
@@ -193,6 +195,7 @@ Stryker | Software Engineering Intern - Multiple Teams | Fort Wayne, IN | https:
 Stryker | Software Engineering Intern - Multiple Teams | Fremont, CA San Jose, CA | https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624
 Stryker | Software Engineering Intern - Software Engineering | Fort Lauderdale, FL | https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1
 Stryker | Software Engineering Intern - Software Engineering | Portage, MI | https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1
+TC Energy | Engineering Intern - Engineering | Houston, TX | https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Office-TC-Energy-Cente/Student-Intern--Engineering_JR-10742
 TC Energy | Engineering Intern | Charleston, WV | https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Student-Intern--Engineering_JR-10741
 TELUS Digital | Software Engineer Intern - US - Summer 2027 | Durham, NC Columbus, OH Charlottesville, VA | https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application
 Teledyne | Software Engineer Intern - NHRC | Huntsville, AL | https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193
