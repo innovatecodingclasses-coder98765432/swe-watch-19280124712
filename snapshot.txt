@@ -5,6 +5,7 @@ AMD | Software Engineer Intern/Co-op 🎓 | 6 locations Rochester, NY Austin, TX
 AbbVie | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | North Chicago, IL | https://jobs.smartrecruiters.com/AbbVie/3743990014697918
 AbbVie | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | South SF | https://jobs.smartrecruiters.com/AbbVie/3743990014860391
 AbbVie | Business Technology Solutions Intern - Data & Software Engineering | Irvine, CA | https://jobs.smartrecruiters.com/AbbVie/3743990014860306
+Aerotech | Software Engineering Intern Co-op - Enterprise Development Team - Application Development Team | Pittsburgh, PA | https://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027
 Air Products | Information Technology/Digital Technology Intern - Infrastructure Services | Allentown, PA | https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT-Digital-Technology--2027-_JR-2026-21953
 Altamira Technologies | Software Development Intern | Fairborn, OH | https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8
 Ameren | DERMS Co-op/Intern | St. Louis, MO Illinois | https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/DERMS-Co-Op-Intern_033809-1
@@ -75,6 +76,7 @@ Compeer Financial | Engineering Intern | Lakeville, MN Mankato, MN | https://job
 Compeer Financial | Engineering Intern | Sun Prairie, WI Mankato, MN Bloomington, IL | https://job-boards.greenhouse.io/compeerfinancial/jobs/5404850008
 Compeer Financial | Engineering Intern | Sun Prairie, WI Mankato, MN Bloomington, IL | https://job-boards.greenhouse.io/compeerfinancial/jobs/5404994008
 Compeer Financial | Engineering Intern | Sun Prairie, WI | https://job-boards.greenhouse.io/compeerfinancial/jobs/5405015008
+Cvent | Software Engineer Intern - Summer 2027 | Tysons, VA | https://careers.cvent.com/jobs/10806
 Cybernetic Labs | Forward Deployed Engineer Intern | SF | https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application
 Cybernetic Labs | Full-Stack Software Engineer Intern - Product | SF | https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application
 Cybernetic Labs | Software Engineer Intern - Agent Platform | SF | https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application
@@ -158,6 +160,7 @@ Persona AI | Robotics Software Intern - Manipulation | Houston, TX | https://job
 PricewaterhouseCoopers (PwC) | Connected Physical Products Intern - Summer 2027 | 14 locations Boston, MA Seattle, WA Houston, TX Washington, DC SF LA Dallas, TX Philadelphia, PA Rosemont, IL Chicago, IL Silicon Valley, CA NYC Minneapolis, MN Atlanta, GA | https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Connected-Physical-Products-Intern---Summer-2027_757231WD
 PricewaterhouseCoopers (PwC) | Summer Intern - SAP | Calgary, AB, Canada | https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/May-2027---SAP---Summer-Intern---Calgary_752589WD
 PricewaterhouseCoopers (PwC) | Tax Innovation Delivery Experience Intern - Multiple Teams | Rosemont, IL | https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-Innovation-Delivery-Experience--TIDE----Software-Engineering---Intern---Summer-2027_756410WD
+Pylon | Software Engineer Intern | SF | https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application
 Qorvo | Full-Stack Web Developer Intern | Richardson, TX | https://careers.qorvo.com/job/Richardson-Full-Stack-Web-Developer-Intern-TX-75080/1424716200/
 Quadrillion | Software Engineering Intern | NYC | https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application
 RTX | Software Engineer Intern - Intelligent Software & Systems | Cambridge, MA | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914
@@ -249,5 +252,6 @@ Virtu Financial | Frontend Developer Internship | NYC | https://job-boards.green
 Virtu Financial | Software Engineer Intern - Software Engineer | Austin, TX NYC | https://job-boards.greenhouse.io/virtu/jobs/8624410002
 W.W. Grainger | Software Engineer Intern - Grainger Technology Group | Chicago, IL | https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/
 Westinghouse Electric Company | Computer Engineering / Software Engineering Intern | Cranberry Township, PA | https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/
+Westinghouse Electric Company | Computer Engineering / Software Engineering Intern | Rock Hill, SC Columbia, SC | https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Computer-Engineering-Software-Engineering-SC-29730/1425163200/
 Zip | Software Engineer Intern | SF | https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf/application
 Zipline | Software Engineer Intern - Summer 2027 | South SF | https://www.zipline.com/open-roles
