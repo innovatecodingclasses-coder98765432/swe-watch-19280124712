@@ -122,12 +122,14 @@ Epic Games | Gameplay Programmer Intern | Cary, NC | https://epicgames.com/caree
 Eulerity | Backend Developer Intern | NYC | https://job-boards.greenhouse.io/eulerity/jobs/4709040006
 FAST Enterprises | Implementation Intern | United States | https://careers.fastenterprises.com/jobs/1709
 Fannie Mae | Technology Program Intern | Plano, TX Reston, VA | https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Campus---Technology-Program-Intern_JR2810
+First National Bank | Application Development Intern | Pittsburgh, PA | https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Application-Development-Intern_2026-01847
 Freddie Mac | Multifamily Software Development Intern - Summer 2027 | McLean, VA | https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564
 Freddie Mac | Software Developer Intern - Single-Family | McLean, VA | https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544
 Freddie Mac | Technology Intern - Enterprise Operations + Technology | McLean, VA | https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542
 GE Aerospace | Digital Technology Intern - Multiple Teams | Atlanta, GA | https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078
 GE Aerospace | Digital Technology Intern - Multiple Teams | Evendale, OH | https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Intern---US---Cincinnati--OH---Summer-2027_R5029739-1
 GE Aerospace | Digital Technology Intern - Summer 2027 | Livonia, MI | https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Livonia/Digital-Technology-Intern---US---Livonia--MI---Summer-2027_R5038079-1
+GE Appliances | Software Engineer Co-op - Software Engineering | Louisville, KY | https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427
 GE Vernova | Application Engineer Co-op/Intern - PCS | Findlay Township, PA | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-1
 GE Vernova | Application Engineer Co-op/Intern - PCS | Findlay Township, PA | https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2
 GE Vernova | Energy Optimization Software Engineer Intern - Summer 2027 🎓 | Bellevue, WA | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1
@@ -136,6 +138,7 @@ GE Vernova | Project Engineer Intern - Summer 2027 🎓 | Bellevue, WA | https:/
 GE Vernova | Project Engineer Intern - Summer 2027 🎓 | Bellevue, WA | https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-2
 Garda Capital Partners | Software Engineer Intern | NYC | https://job-boards.greenhouse.io/gardacp/jobs/6146213004
 General Matter | Software Engineering Intern | LA | https://job-boards.greenhouse.io/generalmatter/jobs/5377118008
+General Motors | Electrical & SDV Intern - Global Manufacturing | Warren, MI | https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352
 Genworth Financial | IT Development Program Intern - IT Development Program | Richmond, VA | https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1
 Google | Software Developer Intern 🎓 | Montreal, QC, Canada Toronto, ON, Canada Waterloo, ON, Canada | https://www.google.com/about/careers/applications/jobs/results/112518690523488966
 Google | Software Engineer Intern - Multiple Teams | 30 locations Palo Alto, CA Cambridge, MA Madison, WI Seattle, WA Houston, TX SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA | https://www.google.com/about/careers/applications/jobs/results/94172495052972742
