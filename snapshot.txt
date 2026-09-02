@@ -72,6 +72,8 @@ ByteDance | AI Network Automation Engineer Intern - Global Physical Network Infr
 ByteDance | GPU/AI Application System Software Engineer Intern - System Technologies and Engineering | San Jose, CA | https://jobs.bytedance.com/en/position/7668464504736876853/detail
 ByteDance | Network Software Engineer Intern - Network Observation | San Jose, CA | https://jobs.bytedance.com/en/position/7670772641439041797/detail
 ByteDance | Network Software Engineer Intern - Network Switch | San Jose, CA | https://jobs.bytedance.com/en/position/7670778018960542005/detail
+ByteDance | Research Intern - AI-Native Databases 🎓 | San Jose, CA | https://jobs.bytedance.com/en/position/7678450462765254965/detail
+ByteDance | Research Intern - AI-Native Databases 🎓 | Seattle, WA | https://jobs.bytedance.com/en/position/7678451067500529925/detail
 ByteDance | Software Development Engineer Intern - Network Automation - 2027 Summer | San Jose, CA | https://jobs.bytedance.com/en/position/7671147251943213317/detail
 ByteDance | Software Engineer Intern - AI Infra Compute 🎓 | Seattle, WA | https://jobs.bytedance.com/en/position/7667378931599214853/detail
 ByteDance | Software Engineer Intern - AI Infrastructure Compute 🎓 | San Jose, CA | https://jobs.bytedance.com/en/position/7667377525182662965/detail
