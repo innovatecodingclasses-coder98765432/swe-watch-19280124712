@@ -166,6 +166,7 @@ John Deere | Product Engineering Intern | Fargo, ND | https://johndeere.eightfol
 Johns Hopkins Applied Physics Laboratory | Cyber Software Engineer Intern - Capabilities Development | Laurel, MD | https://careers.jhuapl.edu/jobs/59779
 Johns Hopkins Applied Physics Laboratory | Engineer/Analyst/Scientist Intern - C2 Resilience Sciences | Laurel, MD | https://careers.jhuapl.edu/jobs/59832
 Johns Hopkins Applied Physics Laboratory | Human-Machine Engineering Intern | Laurel, MD | https://careers.jhuapl.edu/jobs/59782
+Johns Hopkins Applied Physics Laboratory | Mission Systems Engineering Intern | Laurel, MD | https://careers.jhuapl.edu/jobs/59883
 Johns Hopkins Applied Physics Laboratory | Software Developer Intern - Tactical System Prototyping and Deployment | Laurel, MD | https://careers.jhuapl.edu/jobs/59564
 Johns Hopkins Applied Physics Laboratory | Software Development Intern | Laurel, MD | https://careers.jhuapl.edu/jobs/59745
 Johns Hopkins Applied Physics Laboratory | Systems Exploitation Intern - Reverse Engineer - Systems Exploitation | Laurel, MD | https://careers.jhuapl.edu/jobs/59798
