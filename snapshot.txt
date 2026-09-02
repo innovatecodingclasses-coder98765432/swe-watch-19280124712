@@ -14,6 +14,7 @@ AMD | Software Engineer Intern/Co-op 🎓 | 6 locations Rochester, NY Austin, TX
 AbbVie | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | North Chicago, IL | https://jobs.smartrecruiters.com/AbbVie/3743990014697918
 AbbVie | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | South SF | https://jobs.smartrecruiters.com/AbbVie/3743990014860391
 AbbVie | Business Technology Solutions Intern - Data & Software Engineering | Irvine, CA | https://jobs.smartrecruiters.com/AbbVie/3743990014860306
+AeroVironment | Software Engineer Intern | 14 locations Germantown, MD Annapolis Junction, MD Pottstown, PA Albuquerque, NM Sunrise, FL Arlington County, Arlington, VA Melbourne, FL Petaluma, CA Minneapolis, MN San Luis Obispo, CA Huntsville, AL San Diego, CA Moorpark, CA Simi Valley, CA | https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611
 Aerotech | Software Engineering Intern Co-op - Enterprise Development Team - Application Development Team | Pittsburgh, PA | https://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027
 Air Products | Information Technology/Digital Technology Intern - Infrastructure Services | Allentown, PA | https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT-Digital-Technology--2027-_JR-2026-21953
 Altamira Technologies | Software Development Intern | Fairborn, OH | https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8
@@ -30,6 +31,7 @@ American Express | Software Engineer Intern - Enterprise Technology Services �
 American Express | Software Engineer Intern - Enterprise Technology Services 🎓 | Sunrise, FL | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084
 American Express | Software Engineer Intern - Technology | NYC | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970
 American Express | Software Engineering Apprentice - Technology | London, UK | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25022281
+Ameriprise Financial | Asset Management Technology Intern - Data Enablement | Boston, MA | https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Asset-Management-Technology-Intern---Data-Enablement_R26_3538
 AnaVation | Computer Science Intern | Huntsville, AL | https://jobs.lever.co/anavationllc/f7c83978-8510-409c-a5a3-17618511f819/apply
 Anheuser-Busch | Technology Intern | St. Louis, MO | https://abinbev.wd1.myworkdayjobs.com/en-US/USA/job/St-Louis-Missouri/Technology-Internship_30102525
 Appian | Software Engineer Intern | McLean, VA | https://job-boards.greenhouse.io/appian/jobs/8041237
@@ -225,6 +227,7 @@ RTX | Software Engineer Intern - Summer 2027 | Richardson, TX | https://globalhr
 RTX | Software Engineer Intern - Summer 2027 | State College, PA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineer-Intern--Summer-2027-_01868801
 RTX | Software Engineer Intern | Aurora, CO | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01870410
 RTX | Software Engineer Intern | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software--Engineering-Intern--Summer-2027-_01868432
+RTX | Software Engineer Intern | Melbourne, FL | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Summer-2027-_01871423
 RTX | Software Engineer Intern | Richardson, TX | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868886
 RTX | Software Engineering Intern | Cambridge, MA | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698
 Roblox | Software Engineer Intern | San Mateo, CA | https://careers.roblox.com/jobs/8072713
@@ -315,6 +318,7 @@ Verkada | Backend Software Engineer Intern | San Mateo, CA | https://job-boards.
 Verkada | Frontend Software Engineer Intern | San Mateo, CA | https://job-boards.greenhouse.io/verkada/jobs/5210942007
 Verkada | Mobile Software Engineer Intern | San Mateo, CA | https://job-boards.greenhouse.io/verkada/jobs/5219131007
 Verkada | Security Software Engineer Intern | San Mateo, CA | https://job-boards.greenhouse.io/verkada/jobs/5213881007
+Vermeer | Software Engineer Intern - IT | Pella, IA | https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178
 Vertiv | Thermal Application Engineer Intern - Summer 2027 | Westerville, OH | https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278512
 Virtu Financial | Frontend Developer Internship | NYC | https://job-boards.greenhouse.io/virtu/jobs/8657500002
 Virtu Financial | Software Engineer Intern - Software Engineer | Austin, TX NYC | https://job-boards.greenhouse.io/virtu/jobs/8624410002
