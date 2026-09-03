@@ -152,9 +152,9 @@ HPR (Hyannis Port Research) | Software Engineer Intern | Needham, MA | https://j
 Hadrian | Software Engineer Intern | LA Torrance, CA | https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e/application
 Heliux | Software Engineer Intern | SF | https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application
 Hermeus | Software Engineer Intern - Command & Control | Atlanta, GA | https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796/apply
-Hitachi | Engineering Intern | Raleigh, NC | https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571
 Honeywell | Software Engineer Intern - Computer Science | United States | https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155557
 Honeywell | Software Engineer Intern - Computer Science | United States | https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155558
+Hudson River Trading | Software Engineer Intern - C++ or Python | Austin, TX Chicago, IL NYC | https://www.hudsonrivertrading.com/careers/job/
 Intel | Software Engineer Intern | 5 locations Austin, TX Santa Clara, CA Hillsboro, OR Folsom, CA Phoenix, AZ | https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834
 Intel | Software Engineer Intern 🎓 | 5 locations Austin, TX Santa Clara, CA Hillsboro, OR Folsom, CA Phoenix, AZ | https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836
 JP Morgan Chase | Software Engineer Intern - Immersion Program | Glasgow, UK | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813
@@ -187,8 +187,8 @@ Medline | Software Development Intern - Summer 2027 | Northbrook, IL | https://m
 Medline | Software Engineer Intern - Summer 2027 | Northbrook, IL | https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/Software-Engineering-Intern---Summer-2027_R2617623
 Medpace | Python Intern - Summer 2027 | Cincinnati, OH | https://careers.medpace.com/jobs/12962
 Medtronic | Engineering Intern | 20 locations Boston, MA Santa Ana, CA Santa Rosa, CA Irvine, CA Mansfield, MA Mounds View, MN Tempe, AZ Memphis, TN Brooklyn Center, MN Plymouth, MN Brooklyn Park, MN Fort Worth, TX Dexter, MI North Haven, CT Lafayette, CO Minneapolis, MN Newton, MA Jacksonville, FL Eatontown, NJ Boulder, CO | https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021
+Medtronic | Software Engineer Intern | 21 locations Boston, MA Santa Ana, CA Fridley, MN Santa Rosa, CA Irvine, CA Mansfield, MA Mounds View, MN Tempe, AZ Memphis, TN Brooklyn Center, MN Plymouth, MN Brooklyn Park, MN Fort Worth, TX Dexter, MI North Haven, CT Lafayette, CO Minneapolis, MN Newton, MA Jacksonville, FL Eatontown, NJ Boulder, CO | https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630
 Melius | Software Engineer Intern | NYC | https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application
-Merchants Bank of Indiana | Business Technology Intern - Application Development | Carmel, IN | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464054
 Microsoft | Software Engineer Intern - AI and ML Projects | Mountain View, CA | https://apply.careers.microsoft.com/careers/job/1970393556972687
 Microsoft | Software Engineer Intern - AI and ML | Boston, MA | https://apply.careers.microsoft.com/careers/job/1970393556972698
 Microsoft | Software Engineer Intern - CoreAI | Redmond, WA | https://apply.careers.microsoft.com/careers/job/1970393556951950
@@ -326,7 +326,6 @@ Vertiv | Thermal Application Engineer Intern - Summer 2027 | Westerville, OH | h
 Virtu Financial | Frontend Developer Internship | NYC | https://job-boards.greenhouse.io/virtu/jobs/8657500002
 Virtu Financial | Software Engineer Intern - Software Engineer | Austin, TX NYC | https://job-boards.greenhouse.io/virtu/jobs/8624410002
 W.W. Grainger | Software Engineer Intern - Grainger Technology Group | Chicago, IL | https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/
-Western & Southern Financial Group | Software Development Intern | Cincinnati, OH | https://careers-westernsouthern.icims.com/jobs/25245/job
 Western & Southern Financial Group | Software Engineer Intern | Cincinnati, OH | https://careers-westernsouthern.icims.com/jobs/25222/job
 Westinghouse Electric Company | Computer Engineering / Software Engineering Intern | Cranberry Township, PA | https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/
 Westinghouse Electric Company | Computer Engineering / Software Engineering Intern | Rock Hill, SC Columbia, SC | https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Computer-Engineering-Software-Engineering-SC-29730/1425163200/
