@@ -17,6 +17,7 @@ AbbVie | Business Technology Solutions Intern - Data & Software Engineering | Ir
 AeroVironment | Software Engineer Intern | 14 locations Germantown, MD Annapolis Junction, MD Pottstown, PA Albuquerque, NM Sunrise, FL Arlington County, Arlington, VA Melbourne, FL Petaluma, CA Minneapolis, MN San Luis Obispo, CA Huntsville, AL San Diego, CA Moorpark, CA Simi Valley, CA | https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611
 Aerotech | Software Engineering Intern Co-op - Enterprise Development Team - Application Development Team | Pittsburgh, PA | https://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027
 Air Products | Information Technology/Digital Technology Intern - Infrastructure Services | Allentown, PA | https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT-Digital-Technology--2027-_JR-2026-21953
+Allied Solutions | Software Engineer Intern | Carmel, IN | https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Engineering-Intern_R-011087
 Altamira Technologies | Software Development Intern | Fairborn, OH | https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8
 Ameren | DERMS Co-op/Intern | St. Louis, MO Illinois | https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/DERMS-Co-Op-Intern_033809-1
 Ameren | Digital Co-op | St. Louis, MO | https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1
@@ -152,6 +153,7 @@ HP IQ | Software Engineer Intern - Software Systems | SF | https://job-boards.gr
 HP IQ | Software Engineer Intern | SF | https://job-boards.greenhouse.io/hpiq/jobs/6114912004
 HPR (Hyannis Port Research) | Software Engineer Intern | Needham, MA | https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003
 Heliux | Software Engineer Intern | SF | https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application
+Hermeus | Software Engineer Intern - Command & Control | Atlanta, GA | https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796/apply
 Hitachi | Engineering Intern | Raleigh, NC | https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571
 Honeywell | Software Engineer Intern - Computer Science | United States | https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155557
 Honeywell | Software Engineer Intern - Computer Science | United States | https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155558
@@ -204,6 +206,7 @@ Nokia | Software Engineer Co-op - Deepfield | Ann Arbor, MI | https://fa-evmr-sa
 Northern Trust | Technology Intern - Software Engineering | Chicago, IL | https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1
 Northrop Grumman | Software Engineer Intern - Aeronautics Systems | Melbourne, FL | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395
 Northrop Grumman | Software Engineer Intern - Aeronautics Systems | Melbourne, FL | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573
+Northrop Grumman | Software Engineer Intern | Linthicum Heights, MD | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910
 Northwood Space | Software Engineer Intern - Multiple Teams | LA Torrance, CA | https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119/application
 Notion | Software Engineer Intern - Summer 2027 | SF NYC | https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application
 Old Mission | Software Engineer Intern | Chicago, IL | https://www.oldmissioncapital.com/careers/
