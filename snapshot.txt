@@ -157,6 +157,8 @@ Honeywell | Software Engineer Intern - Computer Science | United States | https:
 Honeywell | Software Engineer Intern - Computer Science | United States | https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155558
 Hudson River Trading | Software Engineer Intern - C++ or Python | Austin, TX Chicago, IL NYC | https://www.hudsonrivertrading.com/careers/job/
 IMC Trading | Performance Engineer Intern | Chicago, IL | https://job-boards.eu.greenhouse.io/imc/jobs/4842595101
+Intel | Software Engineer Intern | 5 locations Austin, TX Santa Clara, CA Hillsboro, OR Folsom, CA Phoenix, AZ | https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834
+Intel | Software Engineer Intern 🎓 | 5 locations Austin, TX Santa Clara, CA Hillsboro, OR Folsom, CA Phoenix, AZ | https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836
 JP Morgan Chase | Software Engineer Intern - Immersion Program | Glasgow, UK | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813
 JP Morgan Chase | Software Engineer Intern - Software Engineer Program | 9 locations Palo Alto, CA Houston, TX Tampa, FL Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759
 JP Morgan Chase | Software Engineer Intern - Summer Internship | London, UK Glasgow, UK | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716
@@ -237,6 +239,7 @@ Shure | Cloud Software Engineer Intern | Niles, IL | https://careersus-shure.ici
 Shure | Mobile Applications Intern - Android | Niles, IL | https://careersus-shure.icims.com/jobs/5006/job
 Shure | Mobile Applications Intern - iOS | Niles, IL | https://careersus-shure.icims.com/jobs/5007/job
 Shure | Software Engineer Intern 🎓 | Niles, IL | https://careersus-shure.icims.com/jobs/4996/job
+Shure | Unified Communications Technology Intern | Skokie, IL | https://careersus-shure.icims.com/jobs/5002/job
 Sierra | Software Engineer Intern | SF NYC | https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e/application
 SpaceX | Software Engineering Intern/Co-op | 8 locations Palo Alto, CA Bastrop, TX Irvine, CA Cape Canaveral, FL Brownsville, TX Redmond, WA McGregor, TX Hawthorne, CA | https://boards.greenhouse.io/spacex/jobs/8621757002
 Specter Aerospace | Full Stack Developer Co-op | Boston, MA Peabody, MA | https://specteraerospace.bamboohr.com/careers/122/
@@ -331,4 +334,5 @@ Westinghouse Electric Company | Computer Engineering / Software Engineering Inte
 Westinghouse Electric Company | Computer Engineering / Software Engineering Intern | Rock Hill, SC Columbia, SC | https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Computer-Engineering-Software-Engineering-SC-29730/1425163200/
 WhatNot | Software Engineer Intern | 4 locations Seattle, WA SF LA NYC | https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application
 Zip | Software Engineer Intern | SF | https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf/application
+Zipline | Maps Intern - Summer 2027 | South SF | https://www.zipline.com/open-roles
 Zipline | Software Engineer Intern - Summer 2027 | South SF | https://www.zipline.com/open-roles
