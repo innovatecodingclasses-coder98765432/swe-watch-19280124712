@@ -175,6 +175,7 @@ Manulife Financial | Software Engineering Intern | Toronto, ON, Canada | https:/
 Marshall Wace | Technology Intern | London, UK | https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002
 Marshall Wace | Technology Intern | NYC | https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002
 Mastercard | Software Engineer Intern | 4 locations O'Fallon, MO Arlington County, Arlington, VA NYC Atlanta, GA | https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1
+Maven Securities | Software Developer Intern | London, UK | https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987
 McKesson | Software Development Intern - Summer 2027 | Irving, TX | https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635
 McKesson | Software Engineer Intern | Irving, TX Atlanta, GA | https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-GA-Atlanta/Software-Engineer-Intern---Summer-2027_JR0153235
 McKesson | Software Engineer Intern | Longmont, CO | https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469
@@ -316,6 +317,7 @@ TikTok | Software Engineer Intern | San Jose, CA | https://lifeattiktok.com/sear
 TikTok | Software Engineer Intern | San Jose, CA | https://lifeattiktok.com/search/7669712589169117445
 TikTok | Software Engineer Intern | San Jose, CA | https://lifeattiktok.com/search/7676276048527214901
 TikTok | Software Engineer Intern | Seattle, WA | https://lifeattiktok.com/search/7668582086899763461
+Transcard Payments | Software Engineer Intern | Chattanooga, TN | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288
 Uline | Software Development Intern | 5 locations Waukegan, IL Milwaukee, WI Glenview, IL Pleasant Prairie, WI Kenosha, WI | https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684
 Universal Health Services | Software Engineer Intern - Data Analytics | King of Prussia, PA | https://jobs.uhsinc.com/jobs/367247
 Verisk | Technology Intern - Summer Internship Program | Holmdel, NJ Jersey City, NJ Lehi, UT | https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4722
