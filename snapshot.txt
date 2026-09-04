@@ -75,6 +75,7 @@ Booz Allen | Systems Engineer Intern | San Diego, CA | https://bah.wd1.myworkday
 Bosch Home Comfort | Software Engineer Intern | Farmington Hills, MI | https://jobs.smartrecruiters.com/BoschGroup/744000146546849
 Brunswick | Systems Engineer Co-op - Software Engineering | Fond du Lac, WI | https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212
 ByteDance | AI Network Automation Engineer Intern - Global Physical Network Infrastructure | San Jose, CA | https://jobs.bytedance.com/en/position/7670690923748870405/detail
+ByteDance | Backend Developer Intern - Infrastructure Platform Delivery | San Jose, CA | https://jobs.bytedance.com/en/position/7668489218234157365/detail
 ByteDance | GPU/AI Application System Software Engineer Intern - System Technologies and Engineering | San Jose, CA | https://jobs.bytedance.com/en/position/7668464504736876853/detail
 ByteDance | Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓 | San Jose, CA | https://jobs.bytedance.com/en/position/7673636205233490181/detail
 ByteDance | Network Software Engineer Intern - Network Observation | San Jose, CA | https://jobs.bytedance.com/en/position/7670772641439041797/detail
