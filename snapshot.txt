@@ -56,7 +56,6 @@ BlueCross BlueShield of Nebraska | Digital Experience Information Systems Intern
 Booz Allen | AI Software Developer Intern | San Diego, CA | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115
 Booz Allen | Software Developer Intern - Summer Games | El Segundo, CA | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046
 Booz Allen | Software Developer Intern - Summer Games | Rome, NY | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141
-Booz Allen | Software Developer Intern - Summer Games | San Diego, CA | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038
 Booz Allen | Software Developer Intern - University - 2027 Summer Games | Colorado Springs, CO | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130
 Booz Allen | Software Developer Intern - University | Annapolis Junction, MD | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403
 Booz Allen | Software Developer Intern - University | Atlanta, GA | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138
@@ -294,7 +293,6 @@ The Hartford | Software Engineer Intern - Technology & Data | Columbus, OH | htt
 The Hartford | Software Engineer Intern - Technology, Data, AI, and Operations | Charlotte, NC | https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649
 The Home Depot | Software Engineer Intern | Atlanta, GA | https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937
 The Nuclear Company | Software Engineering Intern - Product - Platform | Washington, DC | https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008
-The Trade Desk | Software Engineering Intern | 6 locations Seattle, WA Irvine, CA NYC Bellevue, WA Denver, CO Boulder, CO | https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007
 The Voleon Group | Software Engineer Intern | Berkeley, CA NYC | https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application
 TikTok | Backend Software Engineer Intern - Creation Platform | San Jose, CA | https://lifeattiktok.com/search/7670289874020993285
 TikTok | Backend Software Engineer Intern - Digital Content Center | San Jose, CA | https://lifeattiktok.com/search/7667934302872537397
@@ -362,8 +360,10 @@ Waymo | Intern | Mountain View, CA | https://careers.withwaymo.com/jobs
 Waymo | Software Engineering Intern - Behavior Test - MS 🎓 | SF | https://careers.withwaymo.com/jobs
 Western & Southern Financial Group | Software Development Intern | Cincinnati, OH | https://careers-westernsouthern.icims.com/jobs/25245/job
 Western & Southern Financial Group | Software Engineer Intern | Cincinnati, OH | https://careers-westernsouthern.icims.com/jobs/25222/job
+Westinghouse Electric Company | Application Development Intern | Cranberry Township, PA | https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Application-Development-NC/1426859800/
 Westinghouse Electric Company | Computer Engineering / Software Engineering Intern | Cranberry Township, PA | https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/
 Westinghouse Electric Company | Computer Engineering / Software Engineering Intern | Rock Hill, SC Columbia, SC | https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Computer-Engineering-Software-Engineering-SC-29730/1425163200/
+Westinghouse Electric Company | Enovia PLM Developer Intern - Enovia PLM | Cranberry Township, PA | https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Enovia-PLM-NC/1426858600/
 WhatNot | Software Engineer Intern | 4 locations Seattle, WA SF LA NYC | https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application
 Wipfli | Product Development Intern - Summer 2027 | Minneapolis, MN | https://careers-wipfli.icims.com/jobs/8304/job
 Wipfli | Product Development Intern | Chicago, IL | https://careers-wipfli.icims.com/jobs/8305/job
