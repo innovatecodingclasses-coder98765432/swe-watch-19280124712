@@ -133,6 +133,7 @@ Five Rings Capital | Software Developer Intern - Software Developer | NYC | http
 Freddie Mac | Multifamily Software Development Intern - Summer 2027 | McLean, VA | https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564
 Freddie Mac | Software Developer Intern - Single-Family | McLean, VA | https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544
 Freddie Mac | Technology Intern - Enterprise Operations + Technology | McLean, VA | https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542
+GE Appliances | Software Engineer Co-op - Software Engineering | Louisville, KY | https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427
 GE Vernova | Application Engineer Co-op/Intern - PCS | Findlay Township, PA | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-1
 GE Vernova | Application Engineer Co-op/Intern - PCS | Findlay Township, PA | https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2
 GE Vernova | CIC Systems Engineer Co-op | Rochester, NY | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-1
@@ -203,6 +204,7 @@ Microsoft | Software Engineer Intern - CoreAI | Redmond, WA | https://apply.care
 Momentive | Software Development Intern | Niskayuna, NY | https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756
 Motorola | Android Application Developer Intern - Summer 2027 | Chicago, IL | https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740
 Motorola | Android Platform Software Engineer Intern - Summer 2027 | Schaumburg, IL Plantation, FL | https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363
+NVIDIA | Software Engineering Intern | Canada Santa Clara, CA | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495
 National Information Solutions Cooperative | Software Development Intern | Lake St Louis, MO Mandan, ND Cedar Rapids, IA | https://job-boards.greenhouse.io/nisc/jobs/8092699
 National Information Solutions Cooperative | Software Development Intern | Lake St Louis, MO Mandan, ND Cedar Rapids, IA | https://job-boards.greenhouse.io/testnisc/jobs/8174088
 National Information Solutions Cooperative | Software Development Intern | Lake St Louis, MO | https://job-boards.greenhouse.io/testnisc/jobs/8174090
@@ -222,7 +224,6 @@ Optiver | Software Engineer Intern | London, UK | https://www.optiver.com/join-u
 PDT Partners | Software Engineer Intern | NYC | https://job-boards.greenhouse.io/pdtpartners/jobs/8077685
 PIMCO | Software Engineering Intern - Technology Analyst | Austin, TX | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745
 PIMCO | Software Engineering Intern - Technology Analyst | London, UK | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800
-POET | Plant Engineer Intern - Summer 2027 | Corning, IA | https://poet.wd1.myworkdayjobs.com/POET/job/Corning-IA/Plant-Engineering-Intern---Summer-2027_R101665-1
 Pella | Product Engineer Intern - Summer 2027 | Macomb, IL | https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253231
 Pella | Product Engineer Intern - Summer 2027 | Ocala, FL | https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/252714
 Pella | Software Intern | Pella, IA Urbandale, IA | https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253299
@@ -230,7 +231,6 @@ Persona AI | Robotics Software Intern - Manipulation | Houston, TX | https://job
 PricewaterhouseCoopers (PwC) | Connected Physical Products Intern - Summer 2027 | 14 locations Boston, MA Seattle, WA Houston, TX Washington, DC SF LA Dallas, TX Philadelphia, PA Rosemont, IL Chicago, IL Silicon Valley, CA NYC Minneapolis, MN Atlanta, GA | https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Connected-Physical-Products-Intern---Summer-2027_757231WD
 PricewaterhouseCoopers (PwC) | Tax Innovation Delivery Experience Intern - Multiple Teams | Rosemont, IL | https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-Innovation-Delivery-Experience--TIDE----Software-Engineering---Intern---Summer-2027_756410WD
 Primer | Software Engineer Intern - Full Stack | SF | https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application
-Pylon | Software Engineer Intern | SF | https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application
 Qorvo | Full-Stack Web Developer Intern | Richardson, TX | https://careers.qorvo.com/job/Richardson-Full-Stack-Web-Developer-Intern-TX-75080/1424716200/
 Quadrillion | Software Engineering Intern | NYC | https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application
 RSM | Application Development Intern - Summer 2027 | 4 locations Des Moines, IA Chicago, IL Minneapolis, MN Denver, CO | https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Application-Development-Intern---Summer-2027_JR120736
@@ -340,6 +340,8 @@ TikTok | Software Engineer Intern | Seattle, WA | https://lifeattiktok.com/searc
 Transcard Payments | Software Engineer Intern | Chattanooga, TN | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288
 Uline | Software Development Intern | 5 locations Waukegan, IL Milwaukee, WI Glenview, IL Pleasant Prairie, WI Kenosha, WI | https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684
 Universal Health Services | Software Engineer Intern - Data Analytics | King of Prussia, PA | https://jobs.uhsinc.com/jobs/367247
+Vanguard | IT Intern - Application Development | Charlotte, NC | https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1
+Vanguard | IT Intern - Investment Systems | Malvern, PA | https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Investment-Systems--PA-_177685-1
 Verisk | Technology Intern - Summer Internship Program | Holmdel, NJ Jersey City, NJ Lehi, UT | https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4722
 Verkada | Backend Software Engineer Intern | San Mateo, CA | https://job-boards.greenhouse.io/verkada/jobs/5210813007
 Verkada | Frontend Software Engineer Intern | San Mateo, CA | https://job-boards.greenhouse.io/verkada/jobs/5210942007
