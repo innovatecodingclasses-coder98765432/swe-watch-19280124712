@@ -188,6 +188,7 @@ Honeywell | Software Engineer Intern - Computer Science | United States | https:
 Honeywell | Software Engineer Intern - Computer Science | United States | https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155558
 Hudson River Trading | Software Engineer Intern - C++ or Python | Austin, TX Chicago, IL NYC | https://www.hudsonrivertrading.com/careers/job/
 Hy-Vee | Software Engineer Intern | West Des Moines, IA | https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Digital-Software-Engineering-Intern---Summer-2027_R250133
+ICF International | Software Developer Intern | Reston, VA | https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002
 ID.me | Software Development Engineer Intern | Mountain View, CA | https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003
 IMC Trading | Performance Engineer Intern | Chicago, IL | https://job-boards.eu.greenhouse.io/imc/jobs/4842595101
 Innovative Systems | Software Engineer Intern/Co-op | Pittsburgh, PA | http://innovativesystems.applytojob.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering
@@ -372,6 +373,7 @@ TikTok | Software Engineer Intern | San Jose, CA | https://lifeattiktok.com/sear
 TikTok | Software Engineer Intern | San Jose, CA | https://lifeattiktok.com/search/7669712589169117445
 TikTok | Software Engineer Intern | San Jose, CA | https://lifeattiktok.com/search/7676276048527214901
 TikTok | Software Engineer Intern | Seattle, WA | https://lifeattiktok.com/search/7668582086899763461
+Tokyo Electron | Automation Developer/Analyst Intern | Austin, TX | https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Automation-Developer-Analyst-Intern_R26-01497
 Transcard Payments | Software Engineer Intern | Chattanooga, TN | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288
 Uline | Software Development Intern | 5 locations Waukegan, IL Milwaukee, WI Glenview, IL Pleasant Prairie, WI Kenosha, WI | https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684
 Universal Health Services | Software Engineer Intern - Data Analytics | King of Prussia, PA | https://jobs.uhsinc.com/jobs/367247
@@ -399,6 +401,8 @@ WhatNot | Software Engineer Intern | 4 locations Seattle, WA SF LA NYC | https:/
 Wipfli | Product Development Intern - Summer 2027 | Minneapolis, MN | https://careers-wipfli.icims.com/jobs/8304/job
 Wipfli | Product Development Intern | Chicago, IL | https://careers-wipfli.icims.com/jobs/8305/job
 Wipfli | Product Development Intern | Milwaukee, WI | https://careers-wipfli.icims.com/jobs/8307/job
+Xcel Energy | AI & Automation Intern - Regulatory | Denver, CO | https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1
+Xcel Energy | AI Solutions Development Intern | Minneapolis, MN Denver, CO | https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Solutions-Development-Intern-CO--MN_JR116329-1
 Zip | Software Engineer Intern | SF | https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf/application
 Zipline | Aircraft Software Integration Intern | South SF | https://www.zipline.com/open-roles/7986848003
 Zipline | Maps Intern - Summer 2027 | South SF | https://www.zipline.com/open-roles
