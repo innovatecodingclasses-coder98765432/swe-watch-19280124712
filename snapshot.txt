@@ -128,6 +128,7 @@ Deloitte | Data & AI Solutions Engineering Summer Scholar Intern | Atlanta, GA |
 Deutsche Bank | Technology, Data and Innovation Intern - Technology, Data and Innovation | NYC | https://db.recsolu.com/external/requisitions/utrM7YhSIN2pudx_g6Rh2w
 Dev Technology Group | AI/Agentic Solution Engineer Intern - Summer 2027 | Reston, VA | https://job-boards.greenhouse.io/devtechnology/jobs/8728292002
 Dev Technology Group | React/Node Developer Intern - Summer 2027 | Reston, VA | https://job-boards.greenhouse.io/devtechnology/jobs/8726212002
+Dick's Sporting Goods | Software Engineer Intern - Corporate Internship | Pittsburgh, PA | https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2027-Corporate-Internship_202608792-1
 DraftKings | Software Engineer Intern - Summer 2027 | Boston, MA | https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928
 DriveTime | Software Engineer Intern - Summer 2027 | Tempe, AZ | https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294
 Dropbox | Software Engineer Intern - Summer 2027 | Remote in USA | https://boards.greenhouse.io/embed/job_app
@@ -164,12 +165,6 @@ Garda Capital Partners | Software Engineer Intern | NYC | https://job-boards.gre
 General Dynamics UK | Computer Science and Robotics Co-op - Information Technology | Sherbrooke, QC, Canada | https://jobs.smartrecruiters.com/GDMSI/744000147541849
 General Matter | Software Engineering Intern | LA | https://job-boards.greenhouse.io/generalmatter/jobs/5377118008
 GlobalFoundries | RF Technology Development Automation Engineer Intern - Summer 2027 | Malta, NY | https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/RF-Technology-Development-Automation-Engineering-Intern--Summer-2027-_JR-2604272
-Goldman Sachs | Summer Analyst Intern - Americas - Engineering | NYC | https://higher.gs.com/roles/171564
-Goldman Sachs | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | https://higher.gs.com/roles/171567
-Goldman Sachs | Summer Analyst Intern - Engineering | Birmingham, UK | https://higher.gs.com/roles/170637
-Goldman Sachs | Summer Analyst Intern - Engineering | Dallas, TX | https://higher.gs.com/roles/171553
-Goldman Sachs | Summer Analyst Intern - Engineering | London, UK | https://higher.gs.com/roles/170644
-Goldman Sachs | Summer Analyst Intern - Engineering | Seattle, WA | https://higher.gs.com/roles/177808
 Google | Software Developer Intern 🎓 | Montreal, QC, Canada Toronto, ON, Canada Waterloo, ON, Canada | https://www.google.com/about/careers/applications/jobs/results/112518690523488966
 Google | Software Engineer Intern - Multiple Teams | 30 locations Palo Alto, CA Cambridge, MA Madison, WI Seattle, WA Houston, TX SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA | https://www.google.com/about/careers/applications/jobs/results/94172495052972742
 Google | Software Engineer Intern - Multiple Teams | 31 locations Palo Alto, CA Cambridge, MA Madison, WI Seattle, WA Houston, TX SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA Santa Barbara, CA | https://www.google.com/about/careers/applications/jobs/results/100648618540573382
@@ -220,6 +215,7 @@ Medline | Software Engineer Intern - Summer 2027 | Northbrook, IL | https://medl
 Medpace | Python Intern - Summer 2027 | Cincinnati, OH | https://careers.medpace.com/jobs/12962
 Medtronic | Software Engineer Intern | 21 locations Boston, MA Santa Ana, CA Fridley, MN Santa Rosa, CA Irvine, CA Mansfield, MA Mounds View, MN Tempe, AZ Memphis, TN Brooklyn Center, MN Plymouth, MN Brooklyn Park, MN Fort Worth, TX Dexter, MI North Haven, CT Lafayette, CO Minneapolis, MN Newton, MA Jacksonville, FL Eatontown, NJ Boulder, CO | https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630
 Melius | Software Engineer Intern | NYC | https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application
+Merck | Intern | West Point, PA | https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939
 Microsoft | Software Engineer Intern - AI and ML Projects | Mountain View, CA | https://apply.careers.microsoft.com/careers/job/1970393556972687
 Microsoft | Software Engineer Intern - AI and ML | Boston, MA | https://apply.careers.microsoft.com/careers/job/1970393556972698
 Microsoft | Software Engineer Intern - CoreAI | Redmond, WA | https://apply.careers.microsoft.com/careers/job/1970393556951950
@@ -304,6 +300,7 @@ Stryker | Software Engineering Intern - Multiple Teams | Fremont, CA San Jose, C
 Stryker | Software Engineering Intern - Software Engineering | Fort Lauderdale, FL | https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1
 Stryker | Software Engineering Intern - Software Engineering | Portage, MI | https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1
 TD Bank | Software Engineer Intern - Software Engineering Rotational Program | NYC | https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--New-York-City-_R_1508053
+TD Bank | Summer Analyst - Software Engineering Rotational Program | Toronto, ON, Canada | https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435
 TELUS Digital | Software Engineer Intern - US - Summer 2027 | Durham, NC Columbus, OH Charlottesville, VA | https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application
 TJX | IT Engineer Intern | Marlborough, MA | https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/IT-Engineer-Internship---Summer-2027_REQ153160
 Teledyne | Software Engineer Intern - NHRC | Huntsville, AL | https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193
