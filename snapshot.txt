@@ -217,7 +217,6 @@ Medtronic | Software Engineer Intern | 21 locations Boston, MA Santa Ana, CA Fri
 Melius | Software Engineer Intern | NYC | https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application
 Merck | Intern | West Point, PA | https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939
 Microsoft | Software Engineer Intern - AI and ML Projects | Mountain View, CA | https://apply.careers.microsoft.com/careers/job/1970393556972687
-Microsoft | Software Engineer Intern - AI and ML | Boston, MA | https://apply.careers.microsoft.com/careers/job/1970393556972698
 Microsoft | Software Engineer Intern - CoreAI | Redmond, WA | https://apply.careers.microsoft.com/careers/job/1970393556951950
 Moderna | Applied Technologies Intern | Norwood, MA | https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Norwood-Massachusetts/Intern--Applied-Technologies--Summer-2027-_R19734
 Momentive | Software Development Intern | Niskayuna, NY | https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756
