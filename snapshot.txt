@@ -98,6 +98,7 @@ ByteDance | Software Engineer Intern - Global Traffic Architecture | San Jose, C
 ByteDance | Software Engineer Intern - Relational Database | San Jose, CA | https://jobs.bytedance.com/en/position/7678449088065997109/detail
 ByteDance | Software Engineer Intern | Seattle, WA | https://jobs.bytedance.com/en/position/7668373268886161669/detail
 ByteDance | Video/Image AI/ML Software Engineer Intern - Multimedia 🎓 | San Diego, CA | https://jobs.bytedance.com/en/position/7670354329765464373/detail
+C.H. Robinson | Software Engineer Intern | Eden Prairie, MN | https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323
 C3.ai | Software Engineer Intern | Redwood City, CA | https://c3.ai/job-description/8739037002
 CACI | Software Engineer Co-op - Spring & Summer 2027 | Danbury, CT | https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1
 CACI | Software Engineer Co-op - Summer & Fall 2027 | Danbury, CT | https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354
@@ -131,6 +132,7 @@ Deutsche Bank | Technology, Data and Innovation Intern - Technology, Data and In
 Dev Technology Group | AI/Agentic Solution Engineer Intern - Summer 2027 | Reston, VA | https://job-boards.greenhouse.io/devtechnology/jobs/8728292002
 Dev Technology Group | React/Node Developer Intern - Summer 2027 | Reston, VA | https://job-boards.greenhouse.io/devtechnology/jobs/8726212002
 Dick's Sporting Goods | Software Engineer Intern - Corporate Internship | Pittsburgh, PA | https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2027-Corporate-Internship_202608792-1
+Dimensional Fund Advisors | Software Engineer Intern | Austin, TX | https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Technology---Software-Engineer_2026-9022
 DraftKings | Software Engineer Intern - Summer 2027 | Boston, MA | https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928
 DriveTime | Software Engineer Intern - Summer 2027 | Tempe, AZ | https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294
 Dropbox | Software Engineer Intern - Summer 2027 | Remote in USA | https://boards.greenhouse.io/embed/job_app
@@ -246,6 +248,7 @@ PDT Partners | Software Engineer Intern | NYC | https://job-boards.greenhouse.io
 PIMCO | Software Engineering Intern - Technology Analyst | Austin, TX | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745
 PIMCO | Software Engineering Intern - Technology Analyst | London, UK | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800
 Pella | Software Intern | Pella, IA Urbandale, IA | https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253299
+Peraton | Software Engineer Intern | Blacksburg, VA Herndon, VA | https://careers-peraton.icims.com/jobs/169665/job
 Persona AI | Robotics Software Intern - Manipulation | Houston, TX | https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application
 PricewaterhouseCoopers (PwC) | Connected Physical Products Intern - Summer 2027 | 14 locations Boston, MA Seattle, WA Houston, TX Washington, DC SF LA Dallas, TX Philadelphia, PA Rosemont, IL Chicago, IL Silicon Valley, CA NYC Minneapolis, MN Atlanta, GA | https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Connected-Physical-Products-Intern---Summer-2027_757231WD
 PricewaterhouseCoopers (PwC) | Tax Innovation Delivery Experience Intern - Multiple Teams | Rosemont, IL | https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-Innovation-Delivery-Experience--TIDE----Software-Engineering---Intern---Summer-2027_756410WD
