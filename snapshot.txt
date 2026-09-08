@@ -204,7 +204,6 @@ Johns Hopkins Applied Physics Laboratory | Software Developer Intern - Tactical 
 Johns Hopkins Applied Physics Laboratory | Software Development Intern | Laurel, MD | https://careers.jhuapl.edu/jobs/59745
 Johnson & Johnson | Software Engineer Co-op | Cincinnati, OH | https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743
 KPMG | Product Specialist Intern Co-op - Asset Management Digital Solutions | Toronto, ON, Canada | https://careers.kpmg.ca/jobs/33301
-KPMG | Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer | Toronto, ON, Canada | https://careers.kpmg.ca/jobs/33306
 Keysight Technologies | Full Stack Intern | Colorado Springs, CO | https://jobs.keysight.com/jobs/54165
 Kinder Morgan | Information Technology Intern - Application Development | Houston, TX | https://careers.kindermorgan.com/jobs/6032
 Kinder Morgan | Intern - IT | Colorado Springs, CO | https://careers.kindermorgan.com/jobs/6171
