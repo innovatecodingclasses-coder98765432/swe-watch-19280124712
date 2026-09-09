@@ -309,7 +309,6 @@ Schonfeld | Software Engineering Intern | NYC | https://job-boards.greenhouse.io
 Schonfeld | Technology Intern - DMFI | NYC | https://job-boards.greenhouse.io/schonfeld/jobs/8171772
 Semgrep | Software Engineer Intern - Cloud Platform | SF | https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application
 Shure | Application Software Development Intern | Niles, IL | https://careersus-shure.icims.com/jobs/5020/job
-Shure | Application Software Engineer Intern | Niles, IL | https://careersus-shure.icims.com/jobs/4955/job
 Shure | Application Systems Development Intern - Motive Mix | Niles, IL | https://careersus-shure.icims.com/jobs/5021/job
 Shure | Automated Test Software Engineering Intern | Niles, IL | https://careersus-shure.icims.com/jobs/4964/job
 Shure | Cloud Applications Development Intern | Niles, IL | https://careersus-shure.icims.com/jobs/4965/job
