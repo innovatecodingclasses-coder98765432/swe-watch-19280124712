@@ -112,9 +112,11 @@ ByteDance | Software Engineer Intern | Seattle, WA | https://jobs.bytedance.com/
 ByteDance | Video/Image AI/ML Software Engineer Intern - Multimedia 🎓 | San Diego, CA | https://jobs.bytedance.com/en/position/7670354329765464373/detail
 C.H. Robinson | Software Engineer Intern | Eden Prairie, MN | https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323
 C3.ai | Software Engineer Intern | Redwood City, CA | https://c3.ai/job-description/8739037002
+CACI | Configuration Control/Data Management Co-op - Engineering Department | Danbury, CT | https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440
 CACI | Software Engineer Co-op - Spring & Summer 2027 | Danbury, CT | https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1
 CACI | Software Engineer Co-op - Summer & Fall 2027 | Danbury, CT | https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354
 CACI | Software Engineer Intern - Summer 2027 | Lisle, IL | https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742
+CACI | Software Engineer Intern | Denver, CO | https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1
 CACI | Software Engineer Intern | Sarasota, FL | https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_331359
 CACI | Software Engineer Intern | Ypsilanti, MI | https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648
 CDM Smith | Electrical Engineer Intern - Summer 2027 | Latham, NY | https://careers.cdmsmith.com/jobs/4398
@@ -199,8 +201,11 @@ General Dynamics Mission Systems | Software Engineer Intern | Pittsfield, MA | h
 General Dynamics UK | Computer Science and Robotics Co-op - Information Technology | Sherbrooke, QC, Canada | https://jobs.smartrecruiters.com/GDMSI/744000147541849
 General Matter | Software Engineering Intern | LA | https://job-boards.greenhouse.io/generalmatter/jobs/5377118008
 GlobalFoundries | RF Technology Development Automation Engineer Intern - Summer 2027 | Malta, NY | https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/RF-Technology-Development-Automation-Engineering-Intern--Summer-2027-_JR-2604272
-Goldman Sachs | Summer Analyst Intern - Americas - Engineering | NYC | https://higher.gs.com/roles/171564
-Goldman Sachs | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | https://higher.gs.com/roles/171565
+Goldman Sachs | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | https://higher.gs.com/roles/171567
+Goldman Sachs | Summer Analyst Intern - Engineering | Birmingham, UK | https://higher.gs.com/roles/170637
+Goldman Sachs | Summer Analyst Intern - Engineering | Dallas, TX | https://higher.gs.com/roles/171553
+Goldman Sachs | Summer Analyst Intern - Engineering | London, UK | https://higher.gs.com/roles/170644
+Goldman Sachs | Summer Analyst Intern - Engineering | Seattle, WA | https://higher.gs.com/roles/177808
 Google | Software Developer Intern 🎓 | Montreal, QC, Canada Toronto, ON, Canada Waterloo, ON, Canada | https://www.google.com/about/careers/applications/jobs/results/112518690523488966
 Google | Software Engineer Intern - Multiple Teams | 30 locations Palo Alto, CA Cambridge, MA Madison, WI Seattle, WA Houston, TX SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA | https://www.google.com/about/careers/applications/jobs/results/94172495052972742
 Google | Software Engineer Intern - Multiple Teams | 31 locations Palo Alto, CA Cambridge, MA Madison, WI Seattle, WA Houston, TX SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA Santa Barbara, CA | https://www.google.com/about/careers/applications/jobs/results/100648618540573382
@@ -296,6 +301,7 @@ Peraton | Software Engineer Intern | Blacksburg, VA Herndon, VA | https://career
 Persona AI | Robotics Software Intern - Manipulation | Houston, TX | https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application
 Pilot Company | Application Development Intern | Knoxville, TN | https://jobs.smartrecruiters.com/PilotCompany/744000148575429
 Pilot Company | Process Automation Intern - Process Automation | Knoxville, TN | https://jobs.smartrecruiters.com/PilotCompany/744000148576544
+Planview | Software Engineer Intern | Austin, TX | https://careers.planview.com/jobs/5128
 PricewaterhouseCoopers (PwC) | Tax Innovation Delivery Experience Intern - Multiple Teams | Rosemont, IL | https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-Innovation-Delivery-Experience--TIDE----Software-Engineering---Intern---Summer-2027_756410WD
 Primer | Software Engineer Intern - Full Stack | SF | https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application
 Principal Financial Group | Software Engineer Intern - Summer 2027 | Charlotte, NC | https://careers.principal.com/jobs/52513
