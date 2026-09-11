@@ -290,7 +290,6 @@ Newrez | Software Developer Intern | Coppell, TX | https://newrez.wd1.myworkdayj
 NiSource | Software Engineer Intern | Columbus, OH Merrillville, IN | https://nisource.wd1.myworkdayjobs.com/NiSource/job/Merrillville-IN-SLC/Intern-IT---Software-Engineer_R00943449
 Nike | Software Engineer Intern | Beaverton, OR | https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111
 Nokia | AI Agent Development Co-op 🎓 | San Jose, CA | https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978
-Nokia | Software Engineer Co-op - Deepfield | Ann Arbor, MI | https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39908
 Northern Trust | Technology Intern - Software Engineering | Chicago, IL | https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1
 Northrop Grumman | Software Engineer Intern - Aeronautics Systems | Melbourne, FL | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395
 Northrop Grumman | Software Engineer Intern - Aeronautics Systems | Melbourne, FL | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573
@@ -467,7 +466,6 @@ Tradeweb | C++ Distributed Systems Developer Intern - C++ Core Services | Jersey
 Tradeweb | Credit Software Engineer Intern | Jersey City, NJ | https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301915
 Tradeweb | Engineering Intern - Distributed Ledger Technology - Engineering | Jersey City, NJ | https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301905
 Tradeweb | Java Developer Intern | London, UK | https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301901
-Tradeweb | Java Software Engineer Intern | Jersey City, NJ | https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301907
 Tradeweb | Market Data Developer Intern | Jersey City, NJ | https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301910
 Tradeweb | Node.js Developer Intern | Jersey City, NJ | https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301912
 Tradeweb | Software Developer Intern - STP | Jersey City, NJ | https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301914
