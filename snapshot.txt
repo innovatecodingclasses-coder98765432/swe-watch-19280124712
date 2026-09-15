@@ -59,6 +59,7 @@ BNY | Engineering Intern - Engineering - Developer | Pittsburgh, PA | https://eo
 BNY | Software Developer Intern - Engineering | NYC | https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253
 BNY | Software Engineer Intern - Engineering - Developer | Jersey City, NJ | https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81251
 BTI360 | Software Engineer Intern | Herndon, VA | https://job-boards.greenhouse.io/bti36021/jobs/8155152
+Baird | IT AI & Automation Intern | Milwaukee, WI | https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1
 Baird | Software Developer Intern | Madison, WI Milwaukee, WI | https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Software-Developer--Year-Round-_R20261024-1
 Barclays | Technology Developer Apprentice - Digital & Technology Solutions | Northampton, UK | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Northampton_JR-0000129431
 Barclays | Technology Developer Apprentice | Glasgow, UK | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Graduate-Apprenticeship-Programme-Glasgow_JR-0000129447
@@ -169,7 +170,6 @@ DV Trading | Software Engineer Intern - DV Commodities | London, UK | https://jo
 DV Trading | Software Engineer Intern | NYC | https://job-boards.greenhouse.io/dvtrading/jobs/4719119005
 Datadog | Software Engineer Intern - Summer | Boston, MA NYC | https://careers.datadoghq.com/detail/8052118/
 Dee Zee | Software Development Intern | Des Moines, IA | https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368
-Dell Technologies | Software Engineering Intern | Round Rock, TX Hopkinton, MA | https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297773
 Deloitte | Data & AI Solutions Engineering Summer Scholar Intern | Atlanta, GA | https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Data-AI-Solutions-Engineering/363475
 Demco Products | IT Intern | Boyden, IA | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4492652
 Deutsche Bank | Technology, Data and Innovation Intern - Technology, Data and Innovation | NYC | https://db.recsolu.com/external/requisitions/utrM7YhSIN2pudx_g6Rh2w
@@ -228,6 +228,8 @@ General Dynamics Mission Systems | Software Engineer Intern | Pittsfield, MA | h
 General Dynamics UK | Computer Science and Robotics Co-op - Information Technology | Sherbrooke, QC, Canada | https://jobs.smartrecruiters.com/GDMSI/744000147541849
 General Matter | Software Engineering Intern | LA | https://job-boards.greenhouse.io/generalmatter/jobs/5377118008
 Genworth Financial | Software Engineer Intern | Raleigh, NC | https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367-1
+Goldman Sachs | Summer Analyst Intern - Americas - Engineering | NYC | https://higher.gs.com/roles/171564
+Goldman Sachs | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | https://higher.gs.com/roles/171565
 Google | Software Developer Intern 🎓 | Montreal, QC, Canada Toronto, ON, Canada Waterloo, ON, Canada | https://www.google.com/about/careers/applications/jobs/results/112518690523488966
 Google | Software Engineer Intern - Multiple Teams | 30 locations Palo Alto, CA Cambridge, MA Madison, WI Seattle, WA Houston, TX SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA | https://www.google.com/about/careers/applications/jobs/results/94172495052972742
 Google | Software Engineer Intern - Multiple Teams | 31 locations Palo Alto, CA Cambridge, MA Madison, WI Seattle, WA Houston, TX SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA Santa Barbara, CA | https://www.google.com/about/careers/applications/jobs/results/100648618540573382
@@ -283,8 +285,6 @@ Kinder Morgan | Information Technology Intern - Application Development | Housto
 Kinder Morgan | Intern - IT | Colorado Springs, CO | https://careers.kindermorgan.com/jobs/6171
 Klaviyo | Software Engineer Intern - Summer 2027 | Boston, MA | https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003
 LPL Financial Holdings | Software Engineer Intern | Austin, TX Fort Mill, SC Charlotte, NC | https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921
-LSEG | Engineering Intern - Multiple Teams | London, UK | https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389
-LSEG | Engineering Intern - Multiple Teams | London, UK | https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389-1
 Lowe's | Exploratory Software Engineer Intern | Charlotte, NC | https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineering---Undergrad-Internship---Summer-2027_JR-02623542
 Lowe's | Software Engineer Intern | Charlotte, NC | https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer---Undergrad-Internship---Summer-2027_JR-02623576
 Lyft | Software Engineer Intern - Backend | Montreal, QC, Canada | https://app.careerpuck.com/job-board/lyft/job/8796054002
@@ -556,6 +556,7 @@ Walmart | Software Engineer 2 Intern | Bentonville, AR Bellevue, WA Sunnyvale, C
 Waymo | Intern | Mountain View, CA | https://careers.withwaymo.com/jobs
 Waymo | Software Engineer Intern - BS/MS | SF | https://careers.withwaymo.com/jobs
 Waymo | Software Engineering Intern - Behavior Test - MS 🎓 | SF | https://careers.withwaymo.com/jobs
+Waymo | Software Engineering Intern - Commercialization | SF Mountain View, CA | https://careers.withwaymo.com/jobs
 Wellington Management | Technology Undergraduate Intern | Boston, MA | https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778
 Wellmark | Software Engineer Intern | Des Moines, IA | https://jobs.smartrecruiters.com/WellmarkInc/744000148915793
 Wells Fargo | Software Engineer Intern - Early Careers - Software Engineering | 6 locations Iselin, Woodbridge Township, NJ Charlotte, NC St. Louis, MO Phoenix, AZ Chandler, AZ Irving, TX | https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering-_R-574285
