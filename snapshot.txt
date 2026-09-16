@@ -42,6 +42,7 @@ Ameriprise Financial | Asset Management Technology Intern - Data Enablement | Bo
 Amgen | Software Engineer Intern - Amgen’s Technology & Medical Organizations | Remote in USA | https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745
 Amgen | Software Engineer Intern - Technology & Medical Organizations | Remote in USA | https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719
 AnaVation | Computer Science Intern - Summer 2027 | Chantilly, VA | https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply
+Apera AI | Software Developer Co-op - C++ | Vancouver, BC, Canada | https://job-boards.greenhouse.io/aperaaiinc/jobs/5239394007
 Apex | Ground Software Intern - Spring or Summer 2027 | LA | https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c/application
 Appian | Software Engineer Intern | McLean, VA | https://job-boards.greenhouse.io/appian/jobs/8041237
 Atlassian | Software Engineer Intern | Burnaby, BC, Canada Vancouver, BC, Canada Richmond, BC, Canada | https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job
@@ -131,7 +132,6 @@ CACI | Software Engineer Intern - Summer 2027 | Remote in USA Sterling, VA Denve
 CACI | Software Engineer Intern | Denver, CO | https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1
 CACI | Software Engineer Intern | Sarasota, FL | https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_331359
 CACI | Software Engineer Intern | Ypsilanti, MI | https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648
-CAI | Software Developer Intern | Pennsylvania | https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8451
 CDM Smith | Electrical Engineer Intern - Summer 2027 | Latham, NY | https://careers.cdmsmith.com/jobs/4398
 CIBC | Global Markets Analyst - Electronic Trading | Toronto, ON, Canada | https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Global-Markets--Electronic-Trading---Summer-2027-Analyst--4-months-_2618801
 CIBC | Software Engineer Intern | Chicago, IL | https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322
@@ -235,8 +235,11 @@ General Dynamics Mission Systems | Payload Control System Software/Systems Engin
 General Dynamics Mission Systems | Software Engineer Intern | Pittsfield, MA | https://careers-gdms.icims.com/jobs/74687/job
 General Dynamics UK | Computer Science and Robotics Co-op - Information Technology | Sherbrooke, QC, Canada | https://jobs.smartrecruiters.com/GDMSI/744000147541849
 General Matter | Software Engineering Intern | LA | https://job-boards.greenhouse.io/generalmatter/jobs/5377118008
-Goldman Sachs | Summer Analyst Intern - Americas - Engineering | NYC | https://higher.gs.com/roles/171564
-Goldman Sachs | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | https://higher.gs.com/roles/171565
+Goldman Sachs | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | https://higher.gs.com/roles/171567
+Goldman Sachs | Summer Analyst Intern - Engineering | Birmingham, UK | https://higher.gs.com/roles/170637
+Goldman Sachs | Summer Analyst Intern - Engineering | Dallas, TX | https://higher.gs.com/roles/171553
+Goldman Sachs | Summer Analyst Intern - Engineering | London, UK | https://higher.gs.com/roles/170644
+Goldman Sachs | Summer Analyst Intern - Engineering | Seattle, WA | https://higher.gs.com/roles/177808
 Google | Software Developer Intern 🎓 | Montreal, QC, Canada Toronto, ON, Canada Waterloo, ON, Canada | https://www.google.com/about/careers/applications/jobs/results/112518690523488966
 Google | Software Engineer Intern - Multiple Teams | 30 locations Palo Alto, CA Cambridge, MA Madison, WI Seattle, WA Houston, TX SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA | https://www.google.com/about/careers/applications/jobs/results/94172495052972742
 Google | Software Engineer Intern - Multiple Teams | 31 locations Palo Alto, CA Cambridge, MA Madison, WI Seattle, WA Houston, TX SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA Santa Barbara, CA | https://www.google.com/about/careers/applications/jobs/results/100648618540573382
@@ -390,7 +393,6 @@ RTX | Software Engineer Intern | Annapolis, MD | https://globalhr.wd5.myworkdayj
 RTX | Software Engineer Intern | Aurora, CO | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01870410
 RTX | Software Engineer Intern | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613
 RTX | Software Engineer Intern | Marlborough, MA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineering-Intern--Summer-2027-_01874955
-RTX | Software Engineer Intern | State College, PA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01869001
 RTX | Software Engineer Intern | State College, PA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01871987
 RTX | Software Engineering Co-op | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01871551
 RTX | Software Engineering Co-op | Rockford, IL | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Software-Engineering-Co-op--Summer-Fall-2027-_01869928
