@@ -25,6 +25,7 @@ Allied Solutions | Software Engineer Intern | Carmel, IN | https://alliedsolutio
 Altamira Technologies | Software Development Intern | Fairborn, OH | https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8
 Amazon | Machine Learning Systems Software Development Engineer Intern - Annapurna Labs | Toronto, ON, Canada | https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027
 Amazon | Software Development Engineer Intern - Robotics | 7 locations Seattle, WA Nashville, TN Austin, TX North Reading, MA Arlington County, Arlington, VA Bellevue, WA Westborough, MA | https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027
+Amazon | Software Development Engineer Intern - Summer | Seattle, WA Arlington County, Arlington, VA | https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa
 American Express | AI Engineer Intern - Enterprise Technology Services | NYC | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698
 American Express | AI Engineer Intern - Enterprise Technology Services 🎓 | Atlanta, GA | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000
 American Express | AI Engineer Intern - Undergraduate 🎓 | Burgess Hill, UK | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756
@@ -257,7 +258,12 @@ General Dynamics UK | Computer Science and Robotics Co-op - Information Technolo
 General Dynamics | Information Technology Intern - Software Engineering - Computer Science | 5 locations Newport, RI New London, CT North Kingstown, RI North Stonington, CT Groton, CT | https://careers-gdeb.icims.com/jobs/20341/job
 General Matter | Software Engineering Intern | LA | https://job-boards.greenhouse.io/generalmatter/jobs/5377118008
 Geneva Trading | AI Engineer Intern | Chicago, IL | https://job-boards.greenhouse.io/genevatrading/jobs/5240107007
-Goldman Sachs | Summer Analyst Intern - Engineering | London, UK | https://higher.gs.com/roles/170644
+Goldman Sachs | Summer Analyst Intern - Americas - Engineering | NYC | https://higher.gs.com/roles/171564
+Goldman Sachs | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | https://higher.gs.com/roles/171565
+Goldman Sachs | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | https://higher.gs.com/roles/171567
+Goldman Sachs | Summer Analyst Intern - Engineering | Birmingham, UK | https://higher.gs.com/roles/170637
+Goldman Sachs | Summer Analyst Intern - Engineering | Dallas, TX | https://higher.gs.com/roles/171553
+Goldman Sachs | Summer Analyst Intern - Engineering | Seattle, WA | https://higher.gs.com/roles/177808
 Google | Software Developer Intern 🎓 | Montreal, QC, Canada Toronto, ON, Canada Waterloo, ON, Canada | https://www.google.com/about/careers/applications/jobs/results/112518690523488966
 Google | Software Engineer Intern - Multiple Teams | 30 locations Palo Alto, CA Cambridge, MA Madison, WI Seattle, WA Houston, TX SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA | https://www.google.com/about/careers/applications/jobs/results/94172495052972742
 Google | Software Engineer Intern - Multiple Teams | 31 locations Palo Alto, CA Cambridge, MA Madison, WI Seattle, WA Houston, TX SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA Santa Barbara, CA | https://www.google.com/about/careers/applications/jobs/results/100648618540573382
@@ -422,6 +428,7 @@ RTX | Software Engineer Intern | Annapolis, MD | https://globalhr.wd5.myworkdayj
 RTX | Software Engineer Intern | Aurora, CO | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01870410
 RTX | Software Engineer Intern | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01873099
 RTX | Software Engineer Intern | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613
+RTX | Software Engineer Intern | Colorado Springs, CO | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineering-Intern--Summer-2027-_01876131
 RTX | Software Engineer Intern | Marlborough, MA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Intern--Summer-2027-_01875743
 RTX | Software Engineer Intern | Marlborough, MA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineering-Intern--Summer-2027-_01874955
 RTX | Software Engineer Intern | St. Petersburg, FL | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01874926
@@ -505,6 +512,7 @@ TD Bank | Software Engineer Intern - Global Technology & Solutions | Mt Laurel T
 TD Bank | Summer Analyst - Software Engineering Rotational Program | Toronto, ON, Canada | https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435
 TELUS Digital | Software Engineer Intern - US - Summer 2027 | Durham, NC Columbus, OH Charlottesville, VA | https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application
 TJX | IT Engineer Intern | Marlborough, MA | https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/IT-Engineer-Internship---Summer-2027_REQ153160
+TRC Companies | Software Engineer Intern | Calgary, AB, Canada | https://careers.trccompanies.com/jobs/26840
 TTP | Software Engineering Intern | Melbourn, Royston, UK | https://jobs.smartrecruiters.com/TTP1/744000149038758
 Talos | Software Engineer Intern - Dealer | NYC | https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977/application
 Talos | Software Engineer Intern - RFQ | NYC | https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285/application
@@ -582,10 +590,7 @@ Tokyo Electron | Decision Analysis & AI Intern | Chaska, MN | https://tel.wd3.my
 Tokyo Electron | Software Engineer Intern | Chaska, MN | https://tel.wd3.myworkdayjobs.com/tel-careers/job/Chaska/Software-Engineer-2027-Summer-Intern_R26-01573
 Tower Research Capital | Software Developer Intern | Montreal, QC, Canada | https://www.tower-research.com/open-positions/
 Tower Research Capital | Software Engineer Intern - Summer 2027 | NYC | https://www.tower-research.com/open-positions/
-Tradeweb | Application Software Engineering Internship - IFI Application | Jersey City, NJ | https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301906
 Tradeweb | C++ Developer Intern | London, UK | https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301899
-Tradeweb | C++ Distributed Systems Developer Intern - C++ Core Services | Jersey City, NJ | https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301903
-Tradeweb | Engineering Intern - Distributed Ledger Technology - Engineering | Jersey City, NJ | https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301905
 Tradeweb | Java Developer Intern | London, UK | https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301901
 Transcard Payments | Software Engineer Intern | Chattanooga, TN | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288
 Trimble | Software Engineer Intern | 8 locations Dayton, OH Knoxville, TN Portsmouth, NH Princeton, NJ Lake Oswego, OR Westminster, CO Sunnyvale, CA Atlanta, GA | https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676
