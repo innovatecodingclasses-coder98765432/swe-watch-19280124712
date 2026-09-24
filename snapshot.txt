@@ -296,7 +296,11 @@ General Dynamics | Information Technology Intern - Software Engineering - Comput
 General Matter | Software Engineering Intern | LA | https://job-boards.greenhouse.io/generalmatter/jobs/5377118008
 General Motors | Software Engineer Intern - Digital Product: Software Engineering | 4 locations Austin, TX Milford, MI Mountain View, CA Warren, MI | https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546
 Geneva Trading | AI Engineer Intern | Chicago, IL | https://job-boards.greenhouse.io/genevatrading/jobs/5240107007
-Goldman Sachs | Summer Analyst Intern - Engineering | Seattle, WA | https://higher.gs.com/roles/177808
+Goldman Sachs | Summer Analyst Intern - Americas - Engineering | NYC | https://higher.gs.com/roles/171564
+Goldman Sachs | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | https://higher.gs.com/roles/171565
+Goldman Sachs | Summer Analyst Intern - Engineering | Birmingham, UK | https://higher.gs.com/roles/170637
+Goldman Sachs | Summer Analyst Intern - Engineering | Dallas, TX | https://higher.gs.com/roles/171553
+Goldman Sachs | Summer Analyst Intern - Engineering | London, UK | https://higher.gs.com/roles/170644
 Google | Software Developer Intern 🎓 | Montreal, QC, Canada Toronto, ON, Canada Waterloo, ON, Canada | https://www.google.com/about/careers/applications/jobs/results/112518690523488966
 Google | Software Engineer Intern - Multiple Teams | 30 locations Palo Alto, CA Cambridge, MA Madison, WI Seattle, WA Houston, TX SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA | https://www.google.com/about/careers/applications/jobs/results/94172495052972742
 Google | Software Engineer Intern - Multiple Teams | 31 locations Palo Alto, CA Cambridge, MA Madison, WI Seattle, WA Houston, TX SF Austin, TX LA San Jose, CA Irvine, CA South SF Redwood City, CA Raleigh, NC San Bruno, CA Redmond, WA Durham, NC Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA Santa Barbara, CA | https://www.google.com/about/careers/applications/jobs/results/100648618540573382
@@ -637,6 +641,7 @@ Trimble | Software Engineer Intern | 8 locations Dayton, OH Knoxville, TN Portsm
 Two Sigma | Software Engineering Intern - Summer 2027 | NYC | https://twosigma.avature.net/careers/JobDetail/14016
 Tyler Technologies | Software Development Intern - Summer 2027 | Lakewood, CO | https://jobs.jobvite.com/tylertech/job/oqQJAfwj
 Tyler Technologies | Software Development Intern - Summer 2027 | Plano, TX | https://jobs.jobvite.com/tylertech/job/oMAPAfwv
+Tyler Technologies | Software Development Intern - Summer 2027 | Yarmouth, ME Orono, ME Falmouth, ME | https://jobs.jobvite.com/tylertech/job/oxAPAfwg
 Tyler Technologies | Software Development Intern | Lawrenceville, GA | https://jobs.jobvite.com/tylertech/job/oAVOAfwD
 Tyler Technologies | Software Development Intern | Lubbock, TX | https://jobs.jobvite.com/tylertech/job/oKQJAfwD
 U.S. Bank | Engineering Intern | Hopkins, MN | https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Summer-Intern_2026-0025769
@@ -702,8 +707,6 @@ Westinghouse Electric Company | Application Development Intern | Cranberry Towns
 Westinghouse Electric Company | Computer Engineering / Software Engineering Intern | Cranberry Township, PA | https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/
 Westinghouse Electric Company | Computer Engineering / Software Engineering Intern | Rock Hill, SC Columbia, SC | https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Computer-Engineering-Software-Engineering-SC-29730/1425163200/
 Westinghouse Electric Company | Enovia PLM Developer Intern - Enovia PLM | Cranberry Township, PA | https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Enovia-PLM-NC/1426858600/
-Wex | Backend Software Engineer Intern - Cloud Security & AI - Undergraduate | Remote in USA | https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589
-Wex | Backend Software Engineer Intern - Java & AI - Master's 🎓 | Remote in USA | https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547
 WhatNot | Software Engineer Intern | 4 locations Seattle, WA SF LA NYC | https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application
 Workshop | Software Engineer Intern | Omaha, NE | https://job-boards.greenhouse.io/workshop/jobs/5237900007
 Xcel Energy | AI & Automation Intern - Regulatory | Denver, CO | https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1
