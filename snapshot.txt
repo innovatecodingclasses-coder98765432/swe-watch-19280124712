@@ -116,6 +116,7 @@ Booz Allen | Systems Engineer Intern | San Diego, CA | https://bah.wd1.myworkday
 Bosch Home Comfort | Software Engineer Intern | Farmington Hills, MI | https://jobs.smartrecruiters.com/BoschGroup/744000146546849
 Boston Scientific | Software Development Engineer Co-op | Waltham, MA | https://bostonscientific.eightfold.ai/careers/job/563602813567963
 Boston Scientific | Software Development Engineer Intern | Waltham, MA | https://bostonscientific.eightfold.ai/careers/job/563602813567960
+Boston Scientific | Software Engineer Intern - Interns/Graduates | Maple Grove, MN | https://bostonscientific.eightfold.ai/careers/job/563602813584985
 Brevan Howard | Summer Internship Program - Systematic Trading Technology Software Engineer | NYC | https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597
 British Columbia Investment | AI and Automation Engineer Co-op Intern - Winter 2027 - Summer 2027 | Victoria, BC, Canada | https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1
 British Columbia Investment | Software Engineer Co-op Intern - Investment Tech/Data & Analytics | Victoria, BC, Canada Vancouver, BC, Canada | https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596
@@ -148,7 +149,6 @@ CACI | Software Engineer Intern - Summer 2027 | Lisle, IL | https://caci.wd1.myw
 CACI | Software Engineer Intern | Reston, VA | https://caci.wd1.myworkdayjobs.com/external/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041
 CACI | Software Engineer Intern | Ypsilanti, MI | https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648
 CDM Smith | Electrical Engineer Intern - Summer 2027 | Latham, NY | https://careers.cdmsmith.com/jobs/4398
-CIBC | Global Markets Analyst - Electronic Trading | Toronto, ON, Canada | https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Global-Markets--Electronic-Trading---Summer-2027-Analyst--4-months-_2618801
 CIBC | Software Engineer Intern | Chicago, IL | https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322
 CIBC | Software Engineer Intern | Chicago, IL | https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1
 CME Group | Software Engineering Intern - Summer 2027 | Chicago, IL | https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2027_34821
@@ -163,6 +163,7 @@ Church & Dwight | AI Developer Co-op - Graduate Program 🎓 | Ewing Township, N
 Cigna Group | Software Engineering Intern - Technology Development Program - Software Engineering Track | 5 locations Bloomington, MN Austin, TX Morris Plains, NJ St. Louis, MO Bloomfield, CT | https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/The-Cigna-Group-s-Technology-Development-Program----Software-Engineering-Track-Summer-Internship_26009527
 Citizens Financial Group | Software Engineer Intern | Plano, TX Johnston, RI Phoenix, AZ | https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286
 Cleveland-Cliffs | Computer Science Engineer Intern | Rockport, IN | https://aksteel.wd1.myworkdayjobs.com/careers/job/Rockport-Works/Computer-Science-Engineering-Intern_R13553
+Cloudflare | Software Engineer Intern | Austin, TX | https://boards.greenhouse.io/cloudflare/jobs/8199958
 CoBank | Software Engineer Intern | Greenwood Village, CO | https://careers.cobank.com/jobs/7940
 CoStar Group | Technology Intern - Multiple Teams | Nashville, TN | https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-TN-Nashville/Technology-Intern---Nashville--TN--Summer-2027-_R39670
 CoStar Group | Technology Intern - Summer 2027 | Richmond, VA | https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Technology-Intern---Richmond--VA--Summer-2027-_R39665
@@ -192,7 +193,6 @@ DV Trading | Software Engineer Intern | NYC | https://job-boards.greenhouse.io/d
 Datadog | Software Engineer Intern - Summer | Boston, MA NYC | https://careers.datadoghq.com/detail/8052118/
 Decagon | Engineering Intern | SF | https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b/application
 Dee Zee | Software Development Intern | Des Moines, IA | https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368
-Deloitte | Data & AI Solutions Engineering Summer Scholar Intern | Atlanta, GA | https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Data-AI-Solutions-Engineering/363475
 Demco Products | IT Intern | Boyden, IA | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4492652
 Deutsche Bank | Technology, Data and Innovation Intern - Technology, Data and Innovation | NYC | https://db.recsolu.com/external/requisitions/utrM7YhSIN2pudx_g6Rh2w
 Dev Technology Group | AI/Agentic Solution Engineer Intern - Summer 2027 | Reston, VA | https://job-boards.greenhouse.io/devtechnology/jobs/8728292002
@@ -278,11 +278,7 @@ General Dynamics | Information Technology Intern - Software Engineering - Comput
 General Matter | Software Engineering Intern | LA | https://job-boards.greenhouse.io/generalmatter/jobs/5377118008
 General Motors | Software Engineer Intern - Digital Product: Software Engineering | 4 locations Austin, TX Milford, MI Mountain View, CA Warren, MI | https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546
 Geneva Trading | AI Engineer Intern | Chicago, IL | https://job-boards.greenhouse.io/genevatrading/jobs/5240107007
-Goldman Sachs | Summer Analyst Intern - Americas - Engineering | NYC | https://higher.gs.com/roles/171564
-Goldman Sachs | Summer Analyst Intern - Engineering | Birmingham, UK | https://higher.gs.com/roles/170637
-Goldman Sachs | Summer Analyst Intern - Engineering | Dallas, TX | https://higher.gs.com/roles/171553
-Goldman Sachs | Summer Analyst Intern - Engineering | London, UK | https://higher.gs.com/roles/170644
-Goldman Sachs | Summer Analyst Intern - Engineering | Seattle, WA | https://higher.gs.com/roles/177808
+Goldman Sachs | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | https://higher.gs.com/roles/171565
 Google | Software Developer Intern 🎓 | Montreal, QC, Canada Toronto, ON, Canada Waterloo, ON, Canada | https://www.google.com/about/careers/applications/jobs/results/112518690523488966
 Google | Software Engineering or Site Reliability Engineering PhD Intern 🎓 | London, UK | https://www.google.com/about/careers/applications/jobs/results/80037545080955590
 Google | User Experience Engineer Intern - PhD - Summer 2027 🎓 | 25 locations Palo Alto, CA Cambridge, MA Madison, WI Seattle, WA Washington, DC SF Austin, TX LA Irvine, CA San Bruno, CA Redmond, WA Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA | https://www.google.com/about/careers/applications/jobs/results/117572151191446214
@@ -451,7 +447,6 @@ Radiance Technologies | Modeling Engineer Intern - Analytics - Simulation Scienc
 Radiance Technologies | Modeling Engineer Intern - Analytics and Simulation Sciences | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102438
 Radiance Technologies | Modeling Engineer Intern - Analytics, Simulation Sciences, Mass | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1
 Radiance Technologies | Modeling Engineer Intern - Analytics, Simulation Sciences, Mass | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102441
-Radiance Technologies | Software Engineer Intern | Dayton, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102445
 Ragle Inc | Software Engineer Intern | North Richland Hills, TX | https://ragleinc.applytojob.com/apply/lonTfWhOqm/Software-Engineer-Intern
 Ralliant | Research and Development Co-op | Fairport, NY | https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10637
 Relay | Software Engineer Intern - Device Team | Raleigh, NC | https://job-boards.greenhouse.io/relaypro/jobs/8180836
@@ -541,6 +536,7 @@ Textron | Software Engineer Intern - Crewed Land | Slidell, LA | https://textron
 Textron | Software Engineer Intern - Electronic Systems | Hunt Valley, Cockeysville, MD | https://textron.taleo.net/careersection/textron/jobdetail.ftl
 Textron | Software Engineer Intern | Augusta, GA | https://textron.taleo.net/careersection/textron/jobdetail.ftl
 Textron | Software Engineer Intern | Waterboro, ME | https://textron.taleo.net/careersection/textron/jobdetail.ftl
+The Aerospace Corporation | Software Engineering Intern - Software Tools and Assurance 🎓 | El Segundo, CA | https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753
 The Aerospace Corporation | Software Systems Engineer Intern - Acquisition | Chantilly, VA El Segundo, CA | https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431
 The Aerospace Corporation | Software Tools and Assurance Intern - Information Systems and Cyber Division | El Segundo, CA | https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429
 The Exploration Company | Engineering Intern - Software | LA | https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac/application
@@ -566,7 +562,6 @@ TikTok | Frontend Engineer Intern - Open Platform | San Jose, CA | https://lifea
 TikTok | Frontend Software Engineer Intern - Ads Measurement Signal and Privacy | San Jose, CA | https://lifeattiktok.com/search/7668584161852229893
 TikTok | Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer | San Jose, CA | https://lifeattiktok.com/search/7670738362521520437
 TikTok | Fullstack Software Engineer Intern - Global E-Commerce | Seattle, WA | https://lifeattiktok.com/search/7670700387322300677
-TikTok | Mobile Software Engineer Intern - Global E-Commerce | San Jose, CA | https://lifeattiktok.com/search/7673663349758675205
 TikTok | Software Engineer Intern - Ads Interface | San Jose, CA | https://lifeattiktok.com/search/7669705785962727733
 TikTok | Software Engineer Intern - Ads Measurement Signal and Privacy | San Jose, CA | https://lifeattiktok.com/search/7668582031916435717
 TikTok | Software Engineer Intern - Agentic Creation-Effect Platform | San Jose, CA | https://lifeattiktok.com/search/7668445566565321013
