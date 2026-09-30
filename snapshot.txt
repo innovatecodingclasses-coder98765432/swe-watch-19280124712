@@ -1,4 +1,4 @@
-ABB | Application Engineering Intern - Summer 2027 | Lombard, IL Alpharetta, GA | https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Summer-2027_JR00045706
+AMCA | Software Engineer Intern | El Segundo, CA | https://job-boards.greenhouse.io/amca/jobs/4425120009
 AMD | AGS Libraries Intern/Co-op | Calgary, AB, Canada | https://careers.amd.com/jobs/90427
 AMD | AI Engineering Intern 🎓 | Santa Clara, CA | https://careers.amd.com/jobs/91005
 AMD | Applied Artificial Intelligence Engineering Intern - Hardware AI 🎓 | Santa Clara, CA | https://careers.amd.com/jobs/90997
@@ -39,7 +39,6 @@ American Express | Software Engineer Intern - Enterprise Technology Services | C
 American Express | Software Engineer Intern - Enterprise Technology Services | Phoenix, AZ | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781
 American Express | Software Engineer Intern - Enterprise Technology Services | Phoenix, AZ | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784
 American Express | Software Engineer Intern - Enterprise Technology Services | Salt Lake City, UT | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014224
-American Express | Software Engineer Intern - Enterprise Technology Services | Sunrise, FL | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015
 American Express | Software Engineer Intern - Enterprise Technology Services 🎓 | Charlotte, NC | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987
 American Express | Software Engineer Intern - Enterprise Technology Services 🎓 | NYC | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082
 American Express | Software Engineer Intern - Enterprise Technology Services 🎓 | Sunrise, FL | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084
@@ -160,7 +159,6 @@ Cigna Group | Software Engineering Intern - Technology Development Program - Sof
 Citizens Financial Group | Software Engineer Intern | Plano, TX Johnston, RI Phoenix, AZ | https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286
 Cleveland-Cliffs | Computer Science Engineer Intern | Rockport, IN | https://aksteel.wd1.myworkdayjobs.com/careers/job/Rockport-Works/Computer-Science-Engineering-Intern_R13553
 Cloudflare | Software Engineer Intern | Austin, TX | https://boards.greenhouse.io/cloudflare/jobs/8199958
-CoBank | Software Engineer Intern | Greenwood Village, CO | https://careers.cobank.com/jobs/7940
 CoStar Group | Technology Intern - Multiple Teams | Nashville, TN | https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-TN-Nashville/Technology-Intern---Nashville--TN--Summer-2027-_R39670
 CoStar Group | Technology Intern - Summer 2027 | Richmond, VA | https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Technology-Intern---Richmond--VA--Summer-2027-_R39665
 CoStar Group | Technology Intern | Arlington County, Arlington, VA | https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Technology-Intern---Arlington--VA--Summer-2027-_R39666
@@ -240,22 +238,15 @@ Freddie Mac | Software Developer Intern - Single-Family | McLean, VA | https://f
 Freddie Mac | Technology Intern - Enterprise Operations + Technology | McLean, VA | https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542
 G-Research | Software Engineer Intern | London, UK | https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineering-Intern_R3746
 GE Healthcare | Software Engineer Intern | Salt Lake City, UT | https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Software-Engineering-Summer-Intern-2027_R4046481-1
-GE Vernova | AI Digitization Co-op - HDNU Global Operations | Schenectady, NY Atlanta, GA | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/GE-Vernova-HDNU-Global-Operations---AI-Digitization-Co-op---Spring-Summer-2027_R5049275-1
 GE Vernova | AI Digitization Co-op - HDNU Global Operations | Schenectady, NY Atlanta, GA | https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-HDNU-Global-Operations---AI-Digitization-Co-op---Spring-Summer-2027_R5049275-2
-GE Vernova | CIC Systems Engineer Co-op | Rochester, NY | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-1
-GE Vernova | CIC Systems Engineer Co-op | Rochester, NY | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Summer-Fall-2027_R5051597-1
 GE Vernova | CIC Systems Engineer Co-op | Rochester, NY | https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-2
-GE Vernova | CIC Systems Engineer Co-op | Rochester, NY | https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Summer-Fall-2027_R5051597-2
 GE Vernova | Energy Optimization Software Engineer Intern - Summer 2027 🎓 | Bellevue, WA | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-1
 GE Vernova | Energy Optimization Software Engineer Intern - Summer 2027 🎓 | Bellevue, WA | https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-2
 GE Vernova | Engineering Intern | Niskayuna, NY | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1
 GE Vernova | Engineering Intern | Niskayuna, NY | https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2
 GE Vernova | Project Engineer Intern - Summer 2027 🎓 | Bellevue, WA | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1
 GE Vernova | Project Engineer Intern - Summer 2027 🎓 | Bellevue, WA | https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2
-GE Vernova | Software Engineer Co-op - Critical Infrastructure Communication | Rochester, NY | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-1
 GE Vernova | Software Engineer Co-op - Critical Infrastructure Communication | Rochester, NY | https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-2
-GE Vernova | Software Engineering Co-op - Critical Infrastructure Communication Engineering | Rochester, NY | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-1
-GE Vernova | Software Engineering Co-op - Critical Infrastructure Communication Engineering | Rochester, NY | https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-2
 GM financial | Software Development Engineer Intern | Arlington, TX | https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795
 GM financial | Software Development Engineer Intern | Arlington, TX | https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260818
 GM financial | Software Development Engineer Intern | Arlington, TX | https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260943
@@ -315,6 +306,7 @@ Intuit | Mobile Software Engineer Intern - iOS | 5 locations Charlotte, NC NYC M
 Intuit | Software Engineer Intern - Cybersecurity | Mountain View, CA | https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616
 Intuit | Software Engineer Intern - Full Stack | 5 locations Charlotte, NC NYC Mountain View, CA Atlanta, GA San Diego, CA | https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864
 Invesco | Early Career Intern - Technology | Atlanta, GA | https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619
+Invesco | Early Career Intern - Technology | Atlanta, GA | https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1
 Iridium Communications | Software Engineering Intern | Tempe, AZ McLean, VA | https://careers-iridium.icims.com/jobs/5136/job
 JP Morgan Chase | Software Engineer Intern - Summer Internship | London, UK Glasgow, UK | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716
 John Deere | Information Technology Intern - Technology | Moline, IL | https://johndeere.eightfold.ai/careers/job/137482633322
@@ -355,6 +347,7 @@ Manulife Financial | Software Engineering Intern | Boston, MA | https://manulife
 Manulife Financial | Software Engineering Intern | Toronto, ON, Canada | https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684
 Marvell | AI-Native Development Platform Engineer Intern | Santa Clara, CA | https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1
 Marvell | AI-Native Development Platform Engineer Intern | Santa Clara, CA | https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848
+Mastercard | Software Engineer Intern | 4 locations O'Fallon, MO Arlington County, Arlington, VA NYC Atlanta, GA | https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1
 Maven Securities | Software Developer Intern | London, UK | https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987
 McKesson | Software Development Intern - Summer 2027 | Irving, TX | https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635
 McKesson | Software Engineer Intern | Irving, TX Atlanta, GA | https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-GA-Atlanta/Software-Engineer-Intern---Summer-2027_JR0153235
@@ -393,7 +386,6 @@ NiSource | Software Engineer Intern | Columbus, OH Merrillville, IN | https://ni
 Nike | Software Engineer Intern | Beaverton, OR | https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111
 Nokia | AI Agent Development Co-op 🎓 | San Jose, CA | https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978
 North Atlantic Industries | Full Stack Software Engineer Intern - Summer 2027 | Bohemia, NY | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501054
-Northern Trust | Technology Intern - Software Engineering | Chicago, IL | https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1
 Northrop Grumman | Software Engineer Intern - Aeronautics Systems | Melbourne, FL | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395
 Northrop Grumman | Software Engineer Intern - Aeronautics Systems | Melbourne, FL | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573
 Northrop Grumman | Software Engineer Intern | Linthicum Heights, MD | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910
@@ -403,7 +395,6 @@ Notion | Software Engineer Intern - Summer 2027 | SF NYC | https://jobs.ashbyhq.
 Nova-Tech | Software Development Co-op | Willmar, MN | https://novatechengineering.applytojob.com/apply/prjzDfwzEE/Software-Development-CoOp-Located-Onsite-In-Willmar-MN
 OCC | AI Research & Engineering Intern | Chicago, IL | https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---AI-Research---Engineering_REQ-4833
 ONE Finance | Software Engineer Intern | Remote in USA | https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application
-OpenGov | Software Engineer Intern | Boston, MA | https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08/application
 Optiver | Software Engineer Intern | London, UK | https://www.optiver.com/join-us/jobs/8713435002/
 PIMCO | Software Engineering Intern - Technology Analyst | Austin, TX | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745
 PIMCO | Software Engineering Intern - Technology Analyst | London, UK | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800
@@ -430,13 +421,15 @@ Qualcomm | Machine Learning Compiler & Performance Engineering Intern - Systems 
 Qumulo | Software Development Engineer Intern | Seattle, WA | https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183/application
 RAVE Aerospace | Software Engineer Intern | Laramie, WY | https://apply.workable.com/raveaerospace/j/739753C003/apply
 RF-SMART | Software Developer Intern - Product Engineering | Jacksonville, FL | https://job-boards.greenhouse.io/rfsmart/jobs/5407206008
-RTX | Methods Engineering Intern - Aftermarket & Sustainment Engineering | East Hartford, CT | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aftermarket---Sustainment-Engineering-Methods-Engineering-Intern--Summer-2027--Onsite-_01874535
+RTX | Software Engineer Co-op - Spring/Summer 2027 | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384
 RTX | Software Engineer Co-op | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347
 RTX | Software Engineer Intern - Summer 2027 | Huntsville, AL | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007
 RTX | Software Engineer Intern - Summer 2027 | West Valley City, UT | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01875358
 RTX | Software Engineer Intern | Aurora, CO | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027---Open-_01873623
 RTX | Software Engineer Intern | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613
+RTX | Software Engineer Intern | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01876388
 RTX | Software Engineer Intern | East Hartford, CT | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645
+RTX | Software Engineer Intern | Richardson, TX | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411
 RTX | Software Engineer Intern | Woburn, MA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering--Intern--Summer-2027-_01877561
 RTX | Systems Co-op | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835
 Radiance Technologies | Modeling Engineer Intern - Analytics & Simulation Sciences - Mass | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102436
@@ -536,7 +529,6 @@ The Aerospace Corporation | Software Engineering Intern - Software Tools and Ass
 The Aerospace Corporation | Software Systems Engineer Intern - Acquisition | Chantilly, VA El Segundo, CA | https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431
 The Aerospace Corporation | Software Tools and Assurance Intern - Information Systems and Cyber Division | El Segundo, CA | https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429
 The Exploration Company | Engineering Intern - Software | LA | https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac/application
-The Hartford | Software Engineer Intern - Tech & Data Program | Hartford, CT | https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1
 The Home Depot | Software Engineer Intern | Atlanta, GA | https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937
 The Nuclear Company | Software Engineering Intern - Product - Platform | Washington, DC | https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008
 The Voleon Group | Software Engineer Intern | Berkeley, CA NYC | https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application
