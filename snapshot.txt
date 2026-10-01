@@ -263,7 +263,7 @@ General Dynamics Mission Systems | Software Engineer Intern | Pittsfield, MA | h
 General Dynamics | Information Technology Intern - Software Engineering - Computer Science | 5 locations Newport, RI New London, CT North Kingstown, RI North Stonington, CT Groton, CT | https://careers-gdeb.icims.com/jobs/20341/job
 General Matter | Software Engineering Intern | LA | https://job-boards.greenhouse.io/generalmatter/jobs/5377118008
 General Motors | Software Engineer Intern - Digital Product: Software Engineering | 4 locations Austin, TX Milford, MI Mountain View, CA Warren, MI | https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546
-Goldman Sachs | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | https://higher.gs.com/roles/171565
+Goldman Sachs | Summer Analyst Intern - Engineering | Seattle, WA | https://higher.gs.com/roles/177808
 Google | Software Developer Intern 🎓 | Montreal, QC, Canada Toronto, ON, Canada Waterloo, ON, Canada | https://www.google.com/about/careers/applications/jobs/results/112518690523488966
 Google | Software Engineering or Site Reliability Engineering PhD Intern 🎓 | London, UK | https://www.google.com/about/careers/applications/jobs/results/80037545080955590
 Google | User Experience Engineer Intern - PhD - Summer 2027 🎓 | 25 locations Palo Alto, CA Cambridge, MA Madison, WI Seattle, WA Washington, DC SF Austin, TX LA Irvine, CA San Bruno, CA Redmond, WA Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA | https://www.google.com/about/careers/applications/jobs/results/117572151191446214
@@ -504,6 +504,7 @@ Steel Dynamics | Software Development Intern | Columbus, MS | https://careers-al
 Steel Dynamics | Software Development Intern | Columbus, MS | https://careers-steeldynamics.icims.com/jobs/8017/job
 Steven's Capital Management | Software Engineer | Radnor, PA | https://grnh.se/abfli75k1us
 Stoke Space | Software Intern | Kent, WA | https://stokespace.com/careers/current-openings
+Stripe | Software Engineer Intern | Seattle, WA SF | https://stripe.com/jobs/search
 Stryker | Software Engineering Intern - Multiple Teams | Fort Wayne, IN | https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631
 Stryker | Software Engineering Intern - Multiple Teams | Fremont, CA San Jose, CA | https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624
 Stryker | Software Engineering Intern - Software Engineering | Fort Lauderdale, FL | https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1
