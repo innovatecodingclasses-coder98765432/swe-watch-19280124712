@@ -397,7 +397,6 @@ POET | Software Developer Intern | Sioux Falls, SD | https://poet.wd1.myworkdayj
 Pace | Member of Technical Staff Intern | NYC | https://jobs.ashbyhq.com/withpace/9acdae91-3834-4c08-8579-fd14ff40a76b/application
 Pacific Fusion | Software Engineer Intern | Fremont, CA Los Lunas, NM San Leandro, CA | https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009
 Pacific Life | Software Engineering Intern | Newport Beach, CA | https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Software-Engineering-Internship_R17826
-Patch My PC | Software Engineer Intern | Castle Rock, CO | https://jobs.lever.co/patchmypc/e2bbd0a9-5810-4cf0-bb71-3fd2e1125341/apply
 Pella | Software Intern | Pella, IA Urbandale, IA | https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253299
 Peraton | Software Engineer Intern | Blacksburg, VA Herndon, VA | https://careers-peraton.icims.com/jobs/169665/job
 Peraton | Software Engineering Co-op | San Diego, CA | https://careers-peraton.icims.com/jobs/171547/job
@@ -407,7 +406,6 @@ Persona AI | Robotics Software Intern - Manipulation | Houston, TX | https://job
 Pilot Company | Application Development Intern | Knoxville, TN | https://jobs.smartrecruiters.com/PilotCompany/744000148575429
 Pilot Company | Process Automation Intern - Process Automation | Knoxville, TN | https://jobs.smartrecruiters.com/PilotCompany/744000148576544
 Primer | Software Engineer Intern - Full Stack | SF | https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application
-Principal Financial Group | Software Engineer Intern - Summer 2027 | Des Moines, IA | https://careers.principal.com/jobs/52512
 Procter & Gamble | IT Engineering Internship - Software, Platform, Network | Cincinnati, OH | https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering-Internship--Software--Platform----Network-_R000157503
 Procter & Gamble | R&D Intern - AI Research Engineer | Mason, OH | https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371
 Publicis Groupe | Software Engineer Intern | Chicago, IL | https://careers.publicisgroupe.com/jobs/172577
@@ -463,7 +461,6 @@ Sage | Software Engineer Intern - Full Stack | NYC | https://job-boards.greenhou
 Saronic | Forward Deployed Engineer Intern - Summer 2027 | Austin, TX | https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce/application
 Scale AI | Software Engineer Intern - Summer 2027 | London, UK | https://job-boards.greenhouse.io/scaleai/jobs/4730846005
 Scale AI | Software Engineer Intern - Summer 2027 | SF | https://job-boards.greenhouse.io/scaleai/jobs/4730845005
-Schonfeld | Software Engineering Intern | NYC | https://job-boards.greenhouse.io/schonfeld/jobs/8180089
 Schonfeld | Technology Intern - DMFI | NYC | https://job-boards.greenhouse.io/schonfeld/jobs/8171772
 Semgrep | Software Engineer Intern - Cloud Platform | SF | https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application
 Shield AI | Software Engineer Intern | San Diego, CA | https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply
