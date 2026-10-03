@@ -126,7 +126,6 @@ ByteDance | Network Software Engineer Intern - Network Switch | San Jose, CA | h
 ByteDance | Research Intern - AI-Native Databases 🎓 | San Jose, CA | https://jobs.bytedance.com/en/position/7678450462765254965/detail
 ByteDance | Research Intern - AI-Native Databases 🎓 | Seattle, WA | https://jobs.bytedance.com/en/position/7678451067500529925/detail
 ByteDance | Software Development Engineer Intern - Network Automation - 2027 Summer | San Jose, CA | https://jobs.bytedance.com/en/position/7671147251943213317/detail
-ByteDance | Software Engineer Intern - AI Platform | San Jose, CA | https://jobs.bytedance.com/en/position/7668212952030841093/detail
 ByteDance | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | https://jobs.bytedance.com/en/position/7668315137242351925/detail
 ByteDance | Software Engineer Intern - Global Payment | San Jose, CA | https://jobs.bytedance.com/en/position/7668650945276168453/detail
 ByteDance | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | https://jobs.bytedance.com/en/position/7672557061679483189/detail
@@ -261,7 +260,7 @@ General Motors | Simulation Intern - Software Engineer - Autonomous Vehicle: Sim
 General Motors | Software Engineer Intern - AV/AI Platform | Sunnyvale, CA Warren, MI | https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696
 General Motors | Software Engineer Intern - Digital Product: Software Engineering | 4 locations Austin, TX Milford, MI Mountain View, CA Warren, MI | https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546
 Glean | Software Engineer Intern | Mountain View, CA | https://job-boards.greenhouse.io/gleanwork/jobs/4595665005
-Goldman Sachs | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | https://higher.gs.com/roles/171565
+Goldman Sachs | Summer Analyst Intern - Engineering | Seattle, WA | https://higher.gs.com/roles/177808
 Google | Forward Deployed Engineer Intern | London, UK | https://www.google.com/about/careers/applications/jobs/results/135156989620560582
 Google | Software Developer Intern 🎓 | Montreal, QC, Canada Toronto, ON, Canada Waterloo, ON, Canada | https://www.google.com/about/careers/applications/jobs/results/112518690523488966
 Google | Software Engineering or Site Reliability Engineering PhD Intern 🎓 | London, UK | https://www.google.com/about/careers/applications/jobs/results/80037545080955590
@@ -549,22 +548,17 @@ The Voleon Group | Software Engineer Intern | Berkeley, CA NYC | https://jobs.as
 Thrivent | Application Engineer Intern - Investments | Minneapolis, MN | https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2
 Thrivent | Associate Software Engineer Intern | Minnesota | https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334
 TikTok | Backend Software Engineer Intern - Creation Platform | San Jose, CA | https://lifeattiktok.com/search/7670289874020993285
-TikTok | Backend Software Engineer Intern - LIVE Foundation Governance Engineering | San Jose, CA | https://lifeattiktok.com/search/7667935150530840837
 TikTok | Frontend Engineer Intern - Ads Interface | San Jose, CA | https://lifeattiktok.com/search/7671211313289398581
-TikTok | Frontend Engineer Intern - Global CRM | San Jose, CA | https://lifeattiktok.com/search/7669711026846058757
 TikTok | Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer | San Jose, CA | https://lifeattiktok.com/search/7670738362521520437
 TikTok | Fullstack Software Engineer Intern - Global E-Commerce | Seattle, WA | https://lifeattiktok.com/search/7670700387322300677
 TikTok | Software Engineer Intern - Foundation Platform | San Jose, CA | https://lifeattiktok.com/search/7670281449668905269
 TikTok | Software Engineer Intern - Global E-commerce-Search | Seattle, WA | https://lifeattiktok.com/search/7670839727059339525
-TikTok | Software Engineer Intern - Intelligent Creation-Camera | San Jose, CA | https://lifeattiktok.com/search/7668862422178318597
 TikTok | Software Engineer Intern - Media Engine | San Jose, CA | https://lifeattiktok.com/search/7670295535077427509
 TikTok | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure | San Jose, CA | https://lifeattiktok.com/search/7672930401597671733
 TikTok | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure | Seattle, WA | https://lifeattiktok.com/search/7672926068681951493
 TikTok | Software Engineer Intern - Recommendation Infra - Performance Efficiency | San Jose, CA | https://lifeattiktok.com/search/7675159726676101381
 TikTok | Software Engineer Intern - TikTok Search Architecture | San Jose, CA | https://lifeattiktok.com/search/7675517686256863541
 TikTok | Software Engineer Intern - TikTok Search Data Infra | San Jose, CA | https://lifeattiktok.com/search/7675128776856029445
-TikTok | Software Engineer Intern - Transaction Platform | San Jose, CA | https://lifeattiktok.com/search/7669943120351906053
-TikTok | Software Engineer Intern | San Jose, CA | https://lifeattiktok.com/search/7669712589169117445
 TikTok | Software Engineer Intern | San Jose, CA | https://lifeattiktok.com/search/7676276048527214901
 Tive | Software Engineer Co-op | Boston, MA | https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0
 Together AI | Software Engineer Intern | SF | https://job-boards.greenhouse.io/togetherai/jobs/5232036007
@@ -623,7 +617,6 @@ Waymo | Software Engineering Intern - Labeling | Mountain View, CA | https://car
 Waymo | Software Engineering Intern - MS/PhD - Sys Intel & ML 🎓 | Mountain View, CA | https://careers.withwaymo.com/jobs
 Waymo | Systems Engineer Intern - Autonomous Vehicle Networks & Diagnostics 🎓 | Mountain View, CA | https://careers.withwaymo.com/jobs
 Wellington Management | Technology Undergraduate Intern | Boston, MA | https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778
-Wellington Management | Technology Undergraduate Intern | Boston, MA | https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778-1
 Wellmark | Software Engineer Intern - Metadata Enablement Team | Des Moines, IA | https://jobs.smartrecruiters.com/WellmarkInc/744000152679699
 Wellmark | Software Engineer Intern - Technology Healthcare Innovation | Des Moines, IA | https://jobs.smartrecruiters.com/WellmarkInc/744000150732768
 Wellmark | Software Engineer Intern | Des Moines, IA | https://jobs.smartrecruiters.com/WellmarkInc/744000148915793
