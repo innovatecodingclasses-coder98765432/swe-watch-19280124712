@@ -310,8 +310,6 @@ Johns Hopkins Applied Physics Laboratory | Cyber Software Engineer Intern - Capa
 Johns Hopkins Applied Physics Laboratory | Engineer/Analyst/Scientist Intern - C2 Resilience Sciences | Laurel, MD | https://careers.jhuapl.edu/jobs/59832
 Johns Hopkins Applied Physics Laboratory | Software Developer Intern - Tactical System Prototyping and Deployment | Laurel, MD | https://careers.jhuapl.edu/jobs/59564
 Johns Hopkins Applied Physics Laboratory | Software Development Intern | Laurel, MD | https://careers.jhuapl.edu/jobs/59745
-Johns Hopkins Applied Physics Laboratory | Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems | Laurel, MD | https://careers.jhuapl.edu/jobs/59997
-Johnson & Johnson | Project Delivery Digital Engineering & Property Services Co-op | New Brunswick, NJ | https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Project-Delivery-Digital-Engineering---Property-Services-Co-Op_R-096717
 Johnson & Johnson | Software Engineer Co-op | Cincinnati, OH | https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743
 Johnson & Johnson | Software Engineer Intern - Robotics R&D | Santa Clara, CA | https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919
 Jones Lang LaSalle | AI Intern | LA | https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/AI-Intern-Summer-2027-Internship---Los-Angeles--CA_REQ539393
@@ -500,7 +498,6 @@ Stryker | Software Engineering Intern - Software Engineering | Fort Lauderdale, 
 Stryker | Software Engineering Intern - Software Engineering | Portage, MI | https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1
 Superhuman | Software Engineer Intern | Toronto, ON, Canada | https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c/application
 TC Energy | Work Management Capabilities & Platforms Intern | Houston, TX | https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Texas/Intern--Work-Management-Capabilities---Platforms_JR-10951
-TD Bank | Software Engineer Intern - Global Technology & Solutions | Mt Laurel Township, NJ | https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1
 TELUS Digital | Software Engineer Intern - US - Summer 2027 | Durham, NC Columbus, OH Charlottesville, VA | https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application
 TRC Companies | Software Engineer Intern | Calgary, AB, Canada | https://careers.trccompanies.com/jobs/26840
 TTP | Software Engineering Intern | Melbourn, Royston, UK | https://jobs.smartrecruiters.com/TTP1/744000149038758
