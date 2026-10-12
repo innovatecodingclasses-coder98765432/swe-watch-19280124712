@@ -251,7 +251,6 @@ General Motors | Software Engineer Intern - AV/AI Platform | Sunnyvale, CA Warre
 General Motors | Software Engineer Intern - Digital Product: Software Engineering | 4 locations Austin, TX Milford, MI Mountain View, CA Warren, MI | https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546
 Glean | Software Engineer Intern | Mountain View, CA | https://job-boards.greenhouse.io/gleanwork/jobs/4595665005
 GlobalFoundries | Software Engineer Intern | Austin, TX Santa Clara, CA | https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039
-Goldman Sachs | Summer Analyst Intern - Engineering | London, UK | https://higher.gs.com/roles/170644
 Google | Forward Deployed Engineer Intern | London, UK | https://www.google.com/about/careers/applications/jobs/results/135156989620560582
 Google | Software Developer Intern 🎓 | Montreal, QC, Canada Toronto, ON, Canada Waterloo, ON, Canada | https://www.google.com/about/careers/applications/jobs/results/112518690523488966
 Google | Software Engineering or Site Reliability Engineering PhD Intern 🎓 | London, UK | https://www.google.com/about/careers/applications/jobs/results/80037545080955590
@@ -487,7 +486,6 @@ Sigma Computing | Software Engineer Intern | NYC | https://job-boards.greenhouse
 Signifyd | Engineering Intern | Belfast, UK | https://job-boards.greenhouse.io/signifyd95/jobs/8240551
 SimVentions | Software Development Intern | Fredericksburg, VA | https://simventions.jibeapply.com/jobs/1631
 Skyward | Software Engineer Intern | Stevens Point, WI | https://jobs.smartrecruiters.com/Skyward1/744000147320799
-Specter Aerospace | Full Stack Developer Co-op | Boston, MA Peabody, MA | https://specteraerospace.bamboohr.com/careers/122/
 Springs Window Fashions | Software Engineering Intern - Summer 2027 | Long Island City, Queens, NY | https://careers-springswindowfashions.icims.com/jobs/12891/job
 State Farm | Software Developer Intern - HR&D | 4 locations Tempe, AZ Dunwoody, GA Richardson, TX Bloomington, IL | https://jobs.statefarm.com/jobs/45689
 Steel Dynamics | Software Development Intern | Columbus, MS | https://careers-aluminumdynamics.icims.com/jobs/8017/job
@@ -544,6 +542,7 @@ Trimble | Software Engineer Intern | 8 locations Dayton, OH Knoxville, TN Portsm
 Two Sigma | Software Engineering Intern - Summer 2027 | NYC | https://twosigma.avature.net/careers/JobDetail/14016
 Tyler Technologies | Software Development Intern - Summer 2027 | Lakewood, CO | https://jobs.jobvite.com/tylertech/job/oqQJAfwj
 Tyler Technologies | Software Development Intern - Summer 2027 | Plano, TX | https://jobs.jobvite.com/tylertech/job/oMAPAfwv
+Tyler Technologies | Software Development Intern - Summer 2027 | Yarmouth, ME Orono, ME Falmouth, ME | https://jobs.jobvite.com/tylertech/job/oxAPAfwg
 Tyler Technologies | Software Development Intern | Lawrenceville, GA | https://jobs.jobvite.com/tylertech/job/oAVOAfwD
 Tyler Technologies | Software Development Intern | Lubbock, TX | https://jobs.jobvite.com/tylertech/job/oKQJAfwD
 URBN | Software Engineer Intern | Philadelphia, PA | https://homeoffice-na-urbn.icims.com/jobs/30602/job
