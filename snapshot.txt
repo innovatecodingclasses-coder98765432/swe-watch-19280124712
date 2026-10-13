@@ -40,7 +40,6 @@ American Express | Software Engineer Intern - Enterprise Technology Services �
 American Express | Software Engineer Intern - Undergraduate | Burgess Hill, UK | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771
 American Express | Software Engineer Intern - Undergraduate | London, UK | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769
 American Family Insurance Group | Application Development Intern - Application Development | Madison, WI Boston, MA | https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Application-Development--Hybrid-_R39458
-American Family Insurance Group | Front End Developer Intern - Digital Sales | Madison, WI Boston, MA | https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern--Digital-Sales_R39491
 American Family Insurance Group | Software Engineering Intern | Madison, WI Boston, MA | https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/MA-Boston/Summer-2027-Intern---Software-Engineering--Hybrid-_R39662
 American Family Insurance Group | Software Engineering Intern | Madison, WI Boston, MA | https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Software-Engineering--Hybrid-_R39666-1
 Amgen | Software Engineer Intern - Amgen’s Technology & Medical Organizations | Remote in USA | https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745
@@ -127,7 +126,6 @@ CACI | Software Development/Engineer Intern | Remote in USA | https://caci.wd1.m
 CACI | Software Engineer Co-op - Summer & Fall 2027 | Danbury, CT | https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354
 CACI | Software Engineer Intern | Austin, TX | https://caci.wd1.myworkdayjobs.com/external/job/Austin-TX-US/Software-Engineer-Intern---Summer-2027_333037
 CACI | Software Engineer Intern | Omaha, NE | https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776
-CACI | Software Engineer Intern | Reston, VA | https://caci.wd1.myworkdayjobs.com/external/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041
 CACI | Software Engineer Intern | Ypsilanti, MI | https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648
 CAI | Software Developer Intern | Pennsylvania | https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554
 CIBC | Software Engineer Intern | Chicago, IL | https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322
@@ -326,7 +324,6 @@ Johns Hopkins Applied Physics Laboratory | Computer Engineer Intern - Shipboard 
 Johns Hopkins Applied Physics Laboratory | Cyber Software Engineer Intern - Capabilities Development | Laurel, MD | https://careers.jhuapl.edu/jobs/59779
 Johns Hopkins Applied Physics Laboratory | Engineer/Analyst/Scientist Intern - C2 Resilience Sciences | Laurel, MD | https://careers.jhuapl.edu/jobs/59832
 Johns Hopkins Applied Physics Laboratory | Software Developer Intern - Tactical System Prototyping and Deployment | Laurel, MD | https://careers.jhuapl.edu/jobs/59564
-Johns Hopkins Applied Physics Laboratory | Software Development Intern | Laurel, MD | https://careers.jhuapl.edu/jobs/59745
 Johnson & Johnson | Software Engineer Co-op | Cincinnati, OH | https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743
 Johnson & Johnson | Software Engineer Intern - Robotics R&D | Santa Clara, CA | https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919
 K2 Space | Simulation Software Engineering Intern | LA | https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008
@@ -527,7 +524,6 @@ Tesla | Physics Engine Development Engineer Intern - Optimus | Palo Alto, CA | h
 Tesla | Software Engineer Intern - Vehicle Software - Summer 2027 | Palo Alto, CA | https://www.tesla.com/careers/search/job/281097
 Textron | Software Engineer Co-op - Uncrewed Land & Air | Hunt Valley, Cockeysville, MD | https://textron.taleo.net/careersection/textron/jobdetail.ftl
 Textron | Software Engineer Intern - Crewed Land | Slidell, LA | https://textron.taleo.net/careersection/textron/jobdetail.ftl
-Textron | Software Engineer Intern - Electronic Systems | Hunt Valley, Cockeysville, MD | https://textron.taleo.net/careersection/textron/jobdetail.ftl
 Textron | Software Engineer Intern | Augusta, GA | https://textron.taleo.net/careersection/textron/jobdetail.ftl
 Textron | Software Engineer Intern | Waterboro, ME | https://textron.taleo.net/careersection/textron/jobdetail.ftl
 Thales | Software Engineering Apprentice | Cheadle, UK | https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Apprentice_R0337863
@@ -613,9 +609,7 @@ Westinghouse Electric Company | Computer Engineering / Software Engineering Inte
 Westinghouse Electric Company | Computer Engineering / Software Engineering Intern | Rock Hill, SC Columbia, SC | https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Computer-Engineering-Software-Engineering-SC-29730/1425163200/
 Westinghouse Electric Company | Enovia PLM Developer Intern - Enovia PLM | Cranberry Township, PA | https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Enovia-PLM-NC/1426858600/
 Westinghouse Electric Company | Software Developer Intern - Tools & Apps | Warrendale, PA | https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Tools-&-Apps-OR/1434869300/
-Wex | Backend Software Engineer Intern - Cloud Security & AI - Undergraduate | Remote in USA | https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589
 Wex | Backend Software Engineer Intern - Java & AI - Master's 🎓 | Remote in USA | https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547
-Wex | Full-Stack Software Engineer Intern - Undergraduate | Remote in USA | https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593
 Wex | Software Engineer Intern - AI & Cloud 🎓 | Remote in USA | https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546
 WhatNot | Software Engineer Intern | 4 locations Seattle, WA SF LA NYC | https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application
 Workday | Software Application Development Engineer Intern | Pleasanton, CA | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811
