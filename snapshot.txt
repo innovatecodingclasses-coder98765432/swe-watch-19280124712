@@ -73,6 +73,7 @@ BNY | Engineering Intern - Developer | Greater Manchester, UK | https://eofe.fa.
 BNY | Engineering Intern - Engineering - Developer | Pittsburgh, PA | https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81254
 BNY | Software Developer Intern - Engineering | NYC | https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253
 BNY | Software Engineer Intern - Engineering - Developer | Jersey City, NJ | https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81251
+BP | Digital, Data, AI & Engineering Intern | London, UK | https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081
 Baird | IT AI & Automation Intern | Milwaukee, WI | https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1
 Baird | Software Developer Intern | Madison, WI Milwaukee, WI | https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Software-Developer--Year-Round-_R20261024-1
 Barclays | Technology Developer Apprentice | Knutsford, UK | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Knutsford_JR-0000129443
@@ -113,9 +114,7 @@ Brevan Howard | Summer Internship Program - Systematic Trading Technology Softwa
 Brunswick | Systems Engineer Co-op - Software Engineering | Fond du Lac, WI | https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212
 ByteDance | Research Intern - AI-Native Databases 🎓 | San Jose, CA | https://jobs.bytedance.com/en/position/7678450462765254965/detail
 ByteDance | Research Intern - AI-Native Databases 🎓 | Seattle, WA | https://jobs.bytedance.com/en/position/7678451067500529925/detail
-ByteDance | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | https://jobs.bytedance.com/en/position/7668315137242351925/detail
 ByteDance | Software Engineer Intern - Global Payment | San Jose, CA | https://jobs.bytedance.com/en/position/7668650945276168453/detail
-ByteDance | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | https://jobs.bytedance.com/en/position/7672557061679483189/detail
 ByteDance | Software Engineer Intern - Relational Database | San Jose, CA | https://jobs.bytedance.com/en/position/7678449088065997109/detail
 C.H. Robinson | Software Engineer Intern | Eden Prairie, MN | https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323
 C3.ai | Software Engineer Intern | Redwood City, CA | https://c3.ai/job-description/8739037002
@@ -202,6 +201,7 @@ Electronic Arts | Software Engineer Intern | Austin, TX | https://jobs.ea.com/en
 Electronic Arts | Software Engineer Intern | Orlando, FL | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216251
 Electronic Arts | Software Engineer Intern | Orlando, FL | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216263
 Electronic Arts | Software Engineer Intern | Vancouver, BC, Canada | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225
+Electronic Arts | Software Engineer Intern | Vancouver, BC, Canada | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287
 Electronic Arts | Technical Artist Co-op | Vancouver, BC, Canada | https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406
 Elevance Health | Engineering Graduate Intern 🎓 | 4 locations Indianapolis, IN Richmond, VA Chicago, IL Atlanta, GA | https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Graduate-Intern---Summer-2027_JR209082
 Elevance Health | Engineering Intern | 4 locations Indianapolis, IN Richmond, VA Chicago, IL Atlanta, GA | https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Undergraduate-Intern---Summer-2027_JR209081
@@ -402,7 +402,6 @@ Nissan Global | Systems Engineer Intern - Summer 2027 | Canton, MS | https://all
 Nokia | AI Agent Development Co-op 🎓 | San Jose, CA | https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978
 North Atlantic Industries | Full Stack Software Engineer Intern - Summer 2027 | Bohemia, NY | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501054
 Northwood Space | Software Engineer Intern - Multiple Teams | LA Torrance, CA | https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119/application
-Notion | Software Engineer Intern - Summer 2027 | SF NYC | https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application
 Nova-Tech | Software Development Co-op | Willmar, MN | https://novatechengineering.applytojob.com/apply/prjzDfwzEE/Software-Development-CoOp-Located-Onsite-In-Willmar-MN
 OCC | AI Research & Engineering Intern | Chicago, IL | https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---AI-Research---Engineering_REQ-4833
 ONE Finance | Software Engineer Intern | Remote in USA | https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application
@@ -438,7 +437,6 @@ Quantum Signal AI | Software Engineer Intern - Tools and Prototypes | Saline, MI
 Qumulo | Software Development Engineer Intern | Seattle, WA | https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183/application
 RAVE Aerospace | Software Engineer Intern | Laramie, WY | https://apply.workable.com/raveaerospace/j/739753C003/apply
 RTX | Software Engineer Co-op | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347
-RTX | Software Engineer Intern | Annapolis Junction, MD | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895-1
 RTX | Software Engineer Intern | East Hartford, CT | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645
 RTX | Software Engineer Intern | Fort Wayne, IN | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01881090
 RTX | Software Engineer Intern | Fullerton, CA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01879741
