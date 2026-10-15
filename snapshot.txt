@@ -125,7 +125,6 @@ CACI | Software Engineer Co-op - Summer & Fall 2027 | Danbury, CT | https://caci
 CACI | Software Engineer Intern | Austin, TX | https://caci.wd1.myworkdayjobs.com/external/job/Austin-TX-US/Software-Engineer-Intern---Summer-2027_333037
 CACI | Software Engineer Intern | Omaha, NE | https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776
 CACI | Software Engineer Intern | Ypsilanti, MI | https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648
-CAI | Software Developer Intern | Pennsylvania | https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554
 CIBC | Software Engineer Intern | Chicago, IL | https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322
 CIBC | Software Engineer Intern | Chicago, IL | https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1
 CME Group | Software Engineering Intern - Summer 2027 | Chicago, IL | https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2027_34821
@@ -217,8 +216,10 @@ Epic Games | Gameplay Programmer Intern | Cary, NC | https://epicgames.com/caree
 Epic Games | Tools Programmer Intern | Cary, NC | https://epicgames.com/careers/jobs/6200355004
 Ernst & Young | Tax Intern - Other Tax - Americas Tax Technology Group | 4 locations Nashville, TN Dallas, TX Chicago, IL Atlanta, GA | https://eyglobal.yello.co/jobs/yUI0hOKgEZ86mkIsV-EUdw
 Eulerity | Backend Developer Intern | NYC | https://job-boards.greenhouse.io/eulerity/jobs/4709040006
+Expedia Group | Mobile Engineer Intern | London, UK | https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545
 Expedia Group | Mobile Engineer Intern | Seattle, WA Austin, TX San Jose, CA | https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306
 Expedia Group | Mobile Engineer Intern | Seattle, WA Austin, TX San Jose, CA | https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306-1
+Expedia Group | Software Development Engineer Intern | London, UK | https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551
 Expedia Group | Software Development Engineer Intern | Seattle, WA Austin, TX San Jose, CA | https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311
 Expedia Group | Software Development Engineer Intern | Seattle, WA Austin, TX San Jose, CA | https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311-1
 F5 | Software Developer Intern | San Jose, CA | https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076
@@ -563,7 +564,6 @@ Trimble | Software Engineer Intern | 8 locations Dayton, OH Knoxville, TN Portsm
 Two Sigma | Software Engineering Intern - Summer 2027 | NYC | https://twosigma.avature.net/careers/JobDetail/14016
 Tyler Technologies | Software Development Intern - Summer 2027 | Lakewood, CO | https://jobs.jobvite.com/tylertech/job/oqQJAfwj
 Tyler Technologies | Software Development Intern - Summer 2027 | Plano, TX | https://jobs.jobvite.com/tylertech/job/oMAPAfwv
-Tyler Technologies | Software Development Intern - Summer 2027 | Yarmouth, ME Orono, ME Falmouth, ME | https://jobs.jobvite.com/tylertech/job/oxAPAfwg
 Tyler Technologies | Software Development Intern | Lawrenceville, GA | https://jobs.jobvite.com/tylertech/job/oAVOAfwD
 Tyler Technologies | Software Development Intern | Lubbock, TX | https://jobs.jobvite.com/tylertech/job/oKQJAfwD
 URBN | Software Engineer Intern | Philadelphia, PA | https://homeoffice-na-urbn.icims.com/jobs/30602/job
