@@ -15,6 +15,7 @@ APEX Analytix | Automation Developer Intern | Greensboro, NC | https://ats.rippl
 AbbVie | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | North Chicago, IL | https://jobs.smartrecruiters.com/AbbVie/3743990014697918
 AbbVie | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | South SF | https://jobs.smartrecruiters.com/AbbVie/3743990014860391
 AbbVie | Business Technology Solutions Intern - Data & Software Engineering | Irvine, CA | https://jobs.smartrecruiters.com/AbbVie/3743990015684476
+Abridge | Member of Technical Staff Intern | SF | https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application
 Acuity | Finance AI Engineering Intern | Atlanta, GA | https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/
 Adobe | Software Engineer Intern | 7 locations Seattle, WA SF Austin, TX San Jose, CA Waltham, MA NYC Lehi, UT | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666
 AeroVironment | Software Engineer Intern | 14 locations Germantown, MD Annapolis Junction, MD Pottstown, PA Albuquerque, NM Sunrise, FL Arlington County, Arlington, VA Melbourne, FL Petaluma, CA Minneapolis, MN San Luis Obispo, CA Huntsville, AL San Diego, CA Moorpark, CA Simi Valley, CA | https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611
@@ -66,6 +67,7 @@ Autodesk | Software Developer Intern | Toronto, ON, Canada | https://autodesk.wd
 Autodesk | Software Development Intern | Toronto, ON, Canada | https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1
 Avis Budget Group | Transformation Engineer Intern - Accelerate | Parsippany-Troy Hills, NJ | https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388
 Awardco | Back-End Software Engineer Intern | Lindon, UT | https://award.co/position
+Axiom Space | Software Engineer Intern | Houston, TX | https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767
 BNY | Engineering Developer Intern - Engineering | Lake Mary, FL | https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252
 BNY | Engineering Intern - Developer | Greater Manchester, UK | https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81318
 BNY | Engineering Intern - Engineering - Developer | Pittsburgh, PA | https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81254
@@ -198,7 +200,6 @@ Electronic Arts | Software Engineer Intern | Orlando, FL | https://jobs.ea.com/e
 Electronic Arts | Software Engineer Intern | Vancouver, BC, Canada | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225
 Electronic Arts | Software Engineer Intern | Vancouver, BC, Canada | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287
 Electronic Arts | Technical Artist Co-op | Vancouver, BC, Canada | https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406
-Elevance Health | Engineering Graduate Intern 🎓 | 4 locations Indianapolis, IN Richmond, VA Chicago, IL Atlanta, GA | https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Graduate-Intern---Summer-2027_JR209082
 Elevance Health | Engineering Intern | 4 locations Indianapolis, IN Richmond, VA Chicago, IL Atlanta, GA | https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Undergraduate-Intern---Summer-2027_JR209081
 Emerson Electric | Software Engineer Co-op | Eden Prairie, MN | https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010048
 Emerson Electric | Software Engineer Co-op | Eden Prairie, MN | https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738
@@ -282,6 +283,8 @@ HP IQ | Software Engineer Intern | SF | https://job-boards.greenhouse.io/hpiq/jo
 Hadrian | Software Engineer Intern | LA Torrance, CA | https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e/application
 Harvey | Software Engineer Intern - Summer 2027 | SF | https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7/application
 Harvey | Software Engineer Intern | NYC | https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d/application
+Healthpeak Properties | Forward Deployed Software Engineer Intern | Irvine, CA | https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship
+Healthpeak Properties | Forward Deployed Software Engineer Intern | NYC | https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship
 Hermeus | Software Engineer Intern - Command & Control | Atlanta, GA | https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796/apply
 Hermeus | Software Engineer Intern - Modeling & Simulation - Multiple Teams | LA | https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply
 Hewlett Packard Enterprise | Software Engineer Intern | Bristol, UK | https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804
@@ -516,6 +519,7 @@ Stryker | Software Engineering Intern - Multiple Teams | Fort Wayne, IN | https:
 Stryker | Software Engineering Intern - Multiple Teams | Fremont, CA San Jose, CA | https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624
 Stryker | Software Engineering Intern - Software Engineering | Fort Lauderdale, FL | https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1
 Stryker | Software Engineering Intern - Software Engineering | Portage, MI | https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1
+T-Mobile | Software Engineer Intern | Bellevue, WA | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322
 TC Energy | Work Management Capabilities & Platforms Intern | Houston, TX | https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Texas/Intern--Work-Management-Capabilities---Platforms_JR-10951
 TELUS Digital | Software Engineer Intern - US - Summer 2027 | Durham, NC Columbus, OH Charlottesville, VA | https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application
 TRC Companies | Software Engineer Intern | Calgary, AB, Canada | https://careers.trccompanies.com/jobs/26840
@@ -560,7 +564,6 @@ Trimble | Software Engineer Intern | 8 locations Dayton, OH Knoxville, TN Portsm
 Two Sigma | Software Engineering Intern - Summer 2027 | NYC | https://twosigma.avature.net/careers/JobDetail/14016
 Tyler Technologies | Software Development Intern - Summer 2027 | Lakewood, CO | https://jobs.jobvite.com/tylertech/job/oqQJAfwj
 Tyler Technologies | Software Development Intern - Summer 2027 | Plano, TX | https://jobs.jobvite.com/tylertech/job/oMAPAfwv
-Tyler Technologies | Software Development Intern - Summer 2027 | Yarmouth, ME Orono, ME Falmouth, ME | https://jobs.jobvite.com/tylertech/job/oxAPAfwg
 Tyler Technologies | Software Development Intern | Lawrenceville, GA | https://jobs.jobvite.com/tylertech/job/oAVOAfwD
 Tyler Technologies | Software Development Intern | Lubbock, TX | https://jobs.jobvite.com/tylertech/job/oKQJAfwD
 URBN | Software Engineer Intern | Philadelphia, PA | https://homeoffice-na-urbn.icims.com/jobs/30602/job
