@@ -110,6 +110,7 @@ Brunswick | Systems Engineer Co-op - Software Engineering | Fond du Lac, WI | ht
 ByteDance | Research Intern - AI-Native Databases 🎓 | San Jose, CA | https://jobs.bytedance.com/en/position/7678450462765254965/detail
 ByteDance | Research Intern - AI-Native Databases 🎓 | Seattle, WA | https://jobs.bytedance.com/en/position/7678451067500529925/detail
 ByteDance | Software Engineer Intern - Relational Database | San Jose, CA | https://jobs.bytedance.com/en/position/7678449088065997109/detail
+C.H. Robinson | Software Engineer Intern | Eden Prairie, MN | https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323
 C3.ai | Software Engineer Intern | Redwood City, CA | https://c3.ai/job-description/8739037002
 CACI | AI Prompt Engineer Intern | Ashburn, VA | https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1
 CACI | Software Development Intern | Ashburn, VA | https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051
@@ -147,7 +148,6 @@ Compeer Financial | Engineering Intern | Sun Prairie, WI Mankato, MN Bloomington
 Compeer Financial | Engineering Intern | Sun Prairie, WI | https://job-boards.greenhouse.io/compeerfinancial/jobs/5405015008
 Constellation Energy | Information Technology Software Development Intern | Baltimore, MD | https://jobs.constellationenergy.com/jobs/138708
 Corewell Health | Digital Services Development Support and Operations Internship | Grand Rapids, MI Southfield, MI St Joseph, MI | https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Development-Support-and-Operations-Internship-Summer-2027_R227468
-Corewell Health | Digital Services Web and Mobile Developer Intern | Grand Rapids, MI | https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Web-and-Mobile-Development-Internship-Summer-2027_R224434
 Corgan | Software Development Intern | Dallas, TX | https://campus-us-corgan.icims.com/jobs/4109/job
 Courier Health | Software Engineer Intern | NYC | https://job-boards.greenhouse.io/courierhealth/jobs/5258913007
 CoverMyMeds | CMM Technology Intern | Columbus, OH | https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2
@@ -162,6 +162,7 @@ Databricks | Software Engineer Intern | 4 locations SF Bellevue, WA Mountain Vie
 Databricks | Software Engineer Intern | London, UK | https://boards.greenhouse.io/embed/job_app
 Datadog | Software Engineer Intern - Summer | Boston, MA NYC | https://careers.datadoghq.com/detail/8052118/
 Decagon | Engineering Intern | SF | https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b/application
+Demco Products | IT Intern | Boyden, IA | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4492652
 Dick's Sporting Goods | Software Engineer Intern - Corporate Internship | Pittsburgh, PA | https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2027-Corporate-Internship_202608792-1
 Dimensional Fund Advisors | Software Engineer Intern | Austin, TX | https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Technology---Software-Engineer_2026-9022
 Domino Data Lab | Software Engineer Intern | NYC | https://app.careerpuck.com/job-board/domino-data-lab/job/7992560
@@ -404,6 +405,7 @@ Pacific Life | Software Engineering Intern | Newport Beach, CA | https://pacific
 Papa John's | Digital Development Intern | Atlanta, GA | https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155
 Pella | Software Intern | Pella, IA Urbandale, IA | https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253299
 Peraton | Software Development Intern | Topeka, KS | https://careers-peraton.icims.com/jobs/172061/job
+Peraton | Software Engineer Intern | Blacksburg, VA Herndon, VA | https://careers-peraton.icims.com/jobs/169665/job
 Peraton | Software Engineering Co-op | San Diego, CA | https://careers-peraton.icims.com/jobs/171547/job
 Perchwell | Software Engineer Intern | NYC | https://jobs.ashbyhq.com/Perchwell/194eec78-26db-4d8e-850f-a99ea2733e9f/application
 Perpay | Software Engineer Intern | Philadelphia, PA | https://job-boards.greenhouse.io/perpay/jobs/4076988007
@@ -429,9 +431,7 @@ RAVE Aerospace | Software Engineer Intern | Laramie, WY | https://apply.workable
 RF-SMART | Software Support Engineer Intern | Jacksonville, FL | https://job-boards.greenhouse.io/rfsmart/jobs/5427723008
 RTX | Software Engineer Co-op | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347
 RTX | Software Engineer Intern | East Hartford, CT | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645
-RTX | Software Engineer Intern | Fort Wayne, IN | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01881090
 RTX | Software Engineer Intern | Fullerton, CA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01879741
-RTX | Software Engineer Intern | Sterling, VA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01877890
 RTX | Software Engineer Intern | Sterling, VA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01882317
 RTX | Systems Co-op | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835
 Radiance Technologies | Modeling Engineer Intern - Analytics & Simulation Sciences - Mass | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102436
