@@ -39,7 +39,6 @@ Amgen | Software Engineer Intern - Technology & Medical Organizations | Remote i
 AnaVation | Computer Science Intern - Summer 2027 | Chantilly, VA | https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply
 AnaVation | Computer Science Intern - Summer Program | San Antonio, TX | https://jobs.lever.co/anavationllc/a5c70b6a-2d16-4774-9043-677456614b1b/apply
 Anduril | Software Engineer Intern | London, UK | https://boards.greenhouse.io/andurilindustries/jobs/5255902007
-Apera AI | Software Developer Co-op - C++ | Vancouver, BC, Canada | https://job-boards.greenhouse.io/aperaaiinc/jobs/5239394007
 Apera AI | Software Developer Co-op - Full Stack | Vancouver, BC, Canada | https://job-boards.greenhouse.io/aperaaiinc/jobs/5240259007
 Arc | Software Engineer Intern | Torrance, CA | https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008
 Arconic | Software Developer Intern | Davenport, IA | https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233
@@ -475,9 +474,7 @@ Shure | Mobile Applications Intern - Android | Niles, IL | https://careersus-shu
 Shure | Mobile Applications Intern - iOS | Niles, IL | https://careersus-shure.icims.com/jobs/5007/job
 Shure | Software Engineer Intern 🎓 | Niles, IL | https://careersus-shure.icims.com/jobs/4996/job
 Shure | Unified Communications Technology Intern | Skokie, IL | https://careersus-shure.icims.com/jobs/5002/job
-Sierra Nevada Corporation | Software Engineer Intern - Summer 2027 | Dayton, OH | https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Software-Engineering-Intern--Summer-2027-_R0030754
 Sierra Nevada Corporation | Software Engineer Intern - Summer 2027 | Lone Tree, CO | https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineering-Intern--Summer-2027-_R0030757
-Sierra Nevada Corporation | Software Engineer Intern - Summer 2027 | Plano, TX | https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineering-Intern--Summer-2027-_R0030758
 Sierra Nevada Corporation | Software Engineer Intern | Folsom, CA | https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1
 Sierra Nevada Corporation | Software Engineer Intern | Lone Tree, CO | https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031098
 Sierra Nevada Corporation | Software Engineer Intern | Southern Pines, NC | https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759
