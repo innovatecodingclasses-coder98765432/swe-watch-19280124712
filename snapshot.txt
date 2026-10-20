@@ -21,6 +21,7 @@ Aerotech | Software Engineering Intern Co-op - Enterprise Development Team - App
 Affirm | IT Engineer Intern - Early Careers | SF | https://job-boards.greenhouse.io/affirm/jobs/8011375003
 Affirm | Software Engineer Intern - Machine Learning | SF | https://job-boards.greenhouse.io/affirm/jobs/8008645003
 Affirm | Software Engineer Intern - Summer 2027 | SF | https://job-boards.greenhouse.io/affirm/jobs/8011590003
+Allstate | Software Engineer Intern | North Carolina | https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266
 Amazon | Machine Learning Systems Software Development Engineer Intern - Annapurna Labs | Toronto, ON, Canada | https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027
 Amazon | Software Developer Intern | 4 locations London, UK Edinburgh, UK Bristol, UK Cambridge, UK | https://amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom
 Amazon | Software Development Engineer Intern - Robotics | 7 locations Seattle, WA Nashville, TN Austin, TX North Reading, MA Arlington County, Arlington, VA Bellevue, WA Westborough, MA | https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027
@@ -117,7 +118,6 @@ CACI | Software Development Intern | Ashburn, VA | https://caci.wd1.myworkdayjob
 CACI | Software Development Intern | Oklahoma City, OK | https://caci.wd1.myworkdayjobs.com/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085
 CACI | Software Development/Engineer Intern | Remote in USA | https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1
 CACI | Software Engineer Co-op - Summer & Fall 2027 | Danbury, CT | https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354
-CACI | Software Engineer Intern | Austin, TX | https://caci.wd1.myworkdayjobs.com/external/job/Austin-TX-US/Software-Engineer-Intern---Summer-2027_333037
 CACI | Software Engineer Intern | Omaha, NE | https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776
 CIBC | Software Engineer Intern | Chicago, IL | https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322
 CIBC | Software Engineer Intern | Chicago, IL | https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1
@@ -249,6 +249,8 @@ Google | Forward Deployed Engineer Intern | NYC Sunnyvale, CA | https://www.goog
 Google | Software Developer Intern 🎓 | Montreal, QC, Canada Toronto, ON, Canada Waterloo, ON, Canada | https://www.google.com/about/careers/applications/jobs/results/112518690523488966
 Google | User Experience Engineer Intern - PhD - Summer 2027 🎓 | 25 locations Palo Alto, CA Cambridge, MA Madison, WI Seattle, WA Washington, DC SF Austin, TX LA Irvine, CA San Bruno, CA Redmond, WA Santa Cruz, CA Chicago, IL Goleta, CA Pittsburgh, PA Kirkland, WA Reston, VA NYC Bellevue, WA Sunnyvale, CA Mountain View, CA Portland, OR Boulder, CO Atlanta, GA San Diego, CA | https://www.google.com/about/careers/applications/jobs/results/117572151191446214
 Gordon Food Service | Software Engineer Intern - Low Code | Wyoming, MI | https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375
+Graphcore | Software Engineer Intern - AI Compute Libraries & Performance | Bristol, UK | https://job-boards.greenhouse.io/graphcore/jobs/8894868002
+Graphcore | Software Engineer Intern - Drivers and Utilities | Bristol, UK | https://job-boards.greenhouse.io/graphcore/jobs/8894376002
 Greenheck Group | Application Developer Co-op | Schofield, WI | https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721
 Greenheck Group | Engineering Co-op | Tulsa, OK | https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-OK/Engineering-Co-op-Opportunities--OK-_JR104348
 Grow Therapy | Software Engineer Intern | NYC | https://jobs.ashbyhq.com/grow-therapy/92bfe88a-4c23-48c8-8f7b-4959ab6cd8d8/application
@@ -436,6 +438,7 @@ Radiance Technologies | Modeling Engineer Intern - Analytics, Simulation Science
 Radiance Technologies | Software Engineer Intern | Dayton, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102443
 Ragle Inc | Software Engineer Intern | North Richland Hills, TX | https://ragleinc.applytojob.com/apply/lonTfWhOqm/Software-Engineer-Intern
 Ralliant | Research and Development Co-op | Fairport, NY | https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10637
+Redgate | Software Engineer Intern | Cambridge, UK | https://jobs.ashbyhq.com/red-gate/2449a05b-81da-40de-b64d-3436c8ddb1df/application
 Relay | Software Engineer Intern - Device Team | Raleigh, NC | https://job-boards.greenhouse.io/relaypro/jobs/8180836
 Revel | Forward Deployed Engineer Intern - Software | SF LA | https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc/application
 Revel | Full Stack Software Engineer Intern | SF LA | https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314/application
@@ -495,6 +498,7 @@ Springs Window Fashions | Software Engineering Intern - Summer 2027 | Long Islan
 State Affairs | Software Engineer Intern | Washington, DC | https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009
 Steel Dynamics | Software Development Intern | Columbus, MS | https://careers-aluminumdynamics.icims.com/jobs/8017/job
 Steel Dynamics | Software Development Intern | Columbus, MS | https://careers-steeldynamics.icims.com/jobs/8017/job
+Steel | Software Engineer Intern | Toronto, ON, Canada | https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application
 Steven's Capital Management | Software Engineer | Radnor, PA | https://grnh.se/abfli75k1us
 Stoke Space | Software Intern | Kent, WA | https://stokespace.com/careers/current-openings
 Stripe | Software Engineer Intern | Seattle, WA SF | https://stripe.com/jobs/search
@@ -560,6 +564,8 @@ Veeam Software | AI & Automation Engineering Intern - Summer 2027 | Georgia | ht
 Veeam Software | Competitive Intelligence AI Engineer Intern | Georgia | https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101
 Veeam Software | Engineering Intern 🎓 | California | https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4951792101
 Veeam Software | Policy Engineering Intern | San Jose, CA | https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101
+Verizon Communications | Call Routing Optimization Engineer Intern | Basking Ridge, Bernards, NJ | https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398
+Verizon Communications | Call Routing Optimization Engineering Intern | Basking Ridge, Bernards, NJ | https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394
 Verkada | Backend Software Engineer Intern | San Mateo, CA | https://job-boards.greenhouse.io/verkada/jobs/5210813007
 Verkada | Frontend Software Engineer Intern | San Mateo, CA | https://job-boards.greenhouse.io/verkada/jobs/5210942007
 Verkada | Mobile Software Engineer Intern | San Mateo, CA | https://job-boards.greenhouse.io/verkada/jobs/5219131007
