@@ -115,7 +115,6 @@ CACI | Software Development Intern | Ashburn, VA | https://caci.wd1.myworkdayjob
 CACI | Software Development Intern | Oklahoma City, OK | https://caci.wd1.myworkdayjobs.com/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085
 CACI | Software Development/Engineer Intern | Remote in USA | https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1
 CACI | Software Engineer Co-op - Summer & Fall 2027 | Danbury, CT | https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354
-CACI | Software Engineer Intern | Omaha, NE | https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776
 CIBC | Software Engineer Intern | Chicago, IL | https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322
 CIBC | Software Engineer Intern | Chicago, IL | https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1
 Cadence Solutions | Software Engineer Intern | Remote in USA | https://job-boards.greenhouse.io/solutions/jobs/4711210006
@@ -140,16 +139,13 @@ Collier Aerospace | Software Engineer Intern - Web Applications - Summer 2027 | 
 Collier Aerospace | Software Engineer Intern | Newport News, VA | https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51
 Commerce Bank | IT Intern - Summer 2027 | Kansas City, MO | https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern---IT--Summer-2027-_38395
 CommonAI C.I.C. | Software Engineer Intern | Cambridge, UK | https://apply.workable.com/commonai/j/021D3FCF3E/apply
-Compeer Financial | Engineering Intern | Lakeville, MN Mankato, MN | https://job-boards.greenhouse.io/compeerfinancial/jobs/5405050008
 Compeer Financial | Engineering Intern | Sun Prairie, WI Mankato, MN Bloomington, IL | https://job-boards.greenhouse.io/compeerfinancial/jobs/5404850008
 Compeer Financial | Engineering Intern | Sun Prairie, WI Mankato, MN Bloomington, IL | https://job-boards.greenhouse.io/compeerfinancial/jobs/5404994008
-Compeer Financial | Engineering Intern | Sun Prairie, WI | https://job-boards.greenhouse.io/compeerfinancial/jobs/5405015008
 Constellation Energy | Information Technology Software Development Intern | Baltimore, MD | https://jobs.constellationenergy.com/jobs/138708
 Corgan | Software Development Intern | Dallas, TX | https://campus-us-corgan.icims.com/jobs/4109/job
 Courier Health | Software Engineer Intern | NYC | https://job-boards.greenhouse.io/courierhealth/jobs/5258913007
 CoverMyMeds | CMM Technology Intern | Columbus, OH | https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2
 Covestro | Supply Chain Application Developer Co-op | Pittsburgh, PA | https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/Supply-Chain-Application-Developer-Co-Op_JR-2026-02346-1
-Crusoe | Software Engineer Intern | SF | https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application
 Cvent | Software Engineer Intern - Summer 2027 | Tysons, VA | https://careers.cvent.com/jobs/10806
 DP World | Application Analyst Intern | Itasca, IL | https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400
 DTCC | Application Developer Intern | Tampa, FL Dallas, TX Jersey City, NJ | https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214459
@@ -435,7 +431,6 @@ RTX | Software Engineer Intern | East Hartford, CT | https://globalhr.wd5.mywork
 RTX | Software Engineer Intern | Tewksbury, MA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127
 RTX | Software Engineering Intern | San Jose, CA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026
 RTX | Systems Co-op | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835
-Radiance Technologies | Modeling Engineer Intern - Analytics & Simulation Sciences - Mass | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102436
 Radiance Technologies | Modeling Engineer Intern - Analytics - Simulation Sciences | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102439
 Radiance Technologies | Modeling Engineer Intern - Analytics and Simulation Sciences | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102438
 Radiance Technologies | Modeling Engineer Intern - Analytics, Simulation Sciences, Mass | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1
@@ -523,7 +518,6 @@ Talos | Software Engineer Intern - Dealer | NYC | https://jobs.ashbyhq.com/Talos
 Talos | Software Engineer Intern - RFQ | NYC | https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285/application
 Talos | Software Engineer Intern - Trading | London, UK | https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d/application
 Tanium | Software Engineer Intern - Summer 2027 | Emeryville, CA Durham, NC | https://job-boards.greenhouse.io/tanium/jobs/8181017
-Target | Software Engineer Intern | Brooklyn Park, MN | https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082
 Teledyne | Software Engineer Intern | Huntsville, AL | https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667
 Teledyne | Systems Engineering Intern - Summer 2027 | Huntsville, AL | https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1
 Tesla | Internship - Software Engineering - People Products - Summer 2027 | Palo Alto, CA | https://www.tesla.com/careers/search/job/284004
