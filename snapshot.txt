@@ -149,8 +149,8 @@ Corgan | Software Development Intern | Dallas, TX | https://campus-us-corgan.ici
 Courier Health | Software Engineer Intern | NYC | https://job-boards.greenhouse.io/courierhealth/jobs/5258913007
 CoverMyMeds | CMM Technology Intern | Columbus, OH | https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2
 Covestro | Supply Chain Application Developer Co-op | Pittsburgh, PA | https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/Supply-Chain-Application-Developer-Co-Op_JR-2026-02346-1
+Crusoe | Software Engineer Intern | SF | https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application
 Cvent | Software Engineer Intern - Summer 2027 | Tysons, VA | https://careers.cvent.com/jobs/10806
-DIRECTV | Customer Operations Intern | El Segundo, CA | https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Customer-Operations-Intern_R260273
 DP World | Application Analyst Intern | Itasca, IL | https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400
 DTCC | Application Developer Intern | Tampa, FL Dallas, TX Jersey City, NJ | https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214459
 DV Trading | AI Engineer Intern | Chicago, IL | https://job-boards.greenhouse.io/dvtrading/jobs/4732429005
@@ -425,6 +425,7 @@ Pure Storage | Software Engineer Intern | Santa Clara, CA | https://job-boards.g
 Q2 | Software Engineer Intern | Austin, TX | https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794
 Q2 | Software Engineer Intern | Cary, NC | https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798
 Qorvo | Full-Stack Web Developer Intern | Richardson, TX | https://careers.qorvo.com/job/Richardson-Full-Stack-Web-Developer-Intern-TX-75080/1424716200/
+Qualcomm | Applied AI Engineer Intern | Markham, ON, Canada | https://qualcomm.eightfold.ai/careers/job/446721664194
 Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | https://qualcomm.eightfold.ai/careers/job/446721615591
 Qualcomm | Machine Learning Compiler & Performance Engineering Intern - Systems | Markham, ON, Canada | https://qualcomm.eightfold.ai/careers/job/446721064018
 Quantum Signal AI | Software Engineer Intern - Tools and Prototypes | Saline, MI | https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes
