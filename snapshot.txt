@@ -97,8 +97,6 @@ Bosch Home Comfort | Software Engineer Intern | Farmington Hills, MI | https://j
 Boston Consulting Group | Forward Deployed AI Engineer Intern 🎓 | 4 locations Boston, MA LA Chicago, IL NYC | https://careers.bcg.com/global/en/job/59702
 Boston Scientific | Equipment Engineering Software Engineer Intern | Maple Grove, MN | https://bostonscientific.eightfold.ai/careers/job/563602813584306
 Brevan Howard | Summer Internship Program - Systematic Trading Technology Software Engineer | NYC | https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597
-Brunswick | G3 Software Engineer Intern | Oshkosh, WI | https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160
-Brunswick | Systems Engineer Co-op - Software Engineering | Fond du Lac, WI | https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212
 ByteDance | Research Intern - AI-Native Databases 🎓 | San Jose, CA | https://jobs.bytedance.com/en/position/7678450462765254965/detail
 ByteDance | Research Intern - AI-Native Databases 🎓 | Seattle, WA | https://jobs.bytedance.com/en/position/7678451067500529925/detail
 ByteDance | Software Engineer Intern - Relational Database | San Jose, CA | https://jobs.bytedance.com/en/position/7678449088065997109/detail
@@ -199,7 +197,6 @@ Emerson Electric | Software Engineer Intern - Process Systems and Solutions 🎓
 Empirical Foods | Software Engineer Intern - Summer 2027 | Dakota Dunes, SD | https://careers-empiricalfoods.icims.com/jobs/4161/job
 Enova | Software Engineer Intern | Chicago, IL | https://job-boards.greenhouse.io/enova/jobs/8239619
 Enterprise Holdings | Software Engineer Intern - Summer 2027 | St. Louis, MO | https://us-erac.icims.com/jobs/566721/job
-Epic Games | Backend Services Programmer Intern - Epic Games Services | Cary, NC | https://epicgames.com/careers/jobs/6183293004
 Epic Games | Engine Programmer Intern | Cary, NC | https://epicgames.com/careers/jobs/6202659004
 Epic Games | Frontend Programmer Intern | Cary, NC | https://epicgames.com/careers/jobs/6173862004
 Epic Games | Gameplay Programmer Intern | Cary, NC | https://epicgames.com/careers/jobs/6152263004
@@ -307,9 +304,7 @@ Johns Hopkins Applied Physics Laboratory | Software Developer Intern - Tactical 
 Johnson & Johnson | Software Engineer Co-op | Cincinnati, OH | https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743
 K2 Space | Simulation Software Engineering Intern | LA | https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008
 KLA Corporation | Software Engineer Intern - C++ - Linux | Milpitas, CA | https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878
-Kainos | Placement Technologist Intern | Londonderry, UK | https://kainos.wd3.myworkdayjobs.com/kainos/job/Derry-Londonderry/Placement-Technologist--L-Derry----June-2027-Start-Date_JR_18557-1
 Kainos | Technologist Intern | Belfast, UK | https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Placement-Technologist--Belfast----June-2027-Start-Date_JR_18556
-Kainos | Technologist Intern | Birmingham, UK | https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Placement-Technologist--Birmingham----July-2027-Start-Date_JR_18558
 Kinder Morgan | Information Technology Intern - Application Development | Houston, TX | https://careers.kindermorgan.com/jobs/6032
 LSEG | Engineering Intern - Multiple Teams | Boston, MA | https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-1
 LSEG | Engineering Intern - Multiple Teams | Boston, MA | https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-2
