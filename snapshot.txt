@@ -94,7 +94,6 @@ Booz Allen | Systems Engineer Intern | San Diego, CA | https://bah.wd1.myworkday
 Bosch Home Comfort | AI Business Solutions Intern | Coventry, UK | https://jobs.smartrecruiters.com/BoschGroup/744000154992819
 Bosch Home Comfort | Software Engineer Intern | Farmington Hills, MI | https://jobs.smartrecruiters.com/BoschGroup/744000146546849
 Boston Consulting Group | Forward Deployed AI Engineer Intern 🎓 | 4 locations Boston, MA LA Chicago, IL NYC | https://careers.bcg.com/global/en/job/59702
-Boston Scientific | Equipment Engineering Software Engineer Intern | Maple Grove, MN | https://bostonscientific.eightfold.ai/careers/job/563602813584306
 Brevan Howard | Summer Internship Program - Systematic Trading Technology Software Engineer | NYC | https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597
 ByteDance | Research Intern - AI-Native Databases 🎓 | San Jose, CA | https://jobs.bytedance.com/en/position/7678450462765254965/detail
 ByteDance | Research Intern - AI-Native Databases 🎓 | Seattle, WA | https://jobs.bytedance.com/en/position/7678451067500529925/detail
@@ -178,10 +177,10 @@ Elanco | Pet Health Sales Excellence Intern - AI Innovation & Enablement | India
 Electronic Arts | Client AI Software Engineer Intern | Manchester, UK | https://jobs.ea.com/en_US/careers/JobDetail/Client-AI-Software-Engineer-Intern/216364
 Electronic Arts | Data and AI Engineer Intern 🎓 | Austin, TX | https://jobs.ea.com/en_US/careers/JobDetail/Data-AI-Engineering-Intern-Summer-2027/216238
 Electronic Arts | Gameplay Software Engineer Co-op | Vancouver, BC, Canada | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230
-Electronic Arts | Rendering Engineer Intern - Apex Legends | Vancouver, BC, Canada | https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Engineer-Intern/216222
 Electronic Arts | Software Engineer Co-op | Vancouver, BC, Canada | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231
 Electronic Arts | Software Engineer Intern - Gameplay UI | Birmingham, UK | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Gameplay-UI/216190
 Electronic Arts | Software Engineer Intern | Orlando, FL | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216250
+Electronic Arts | Software Engineer Intern | Orlando, FL | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216251
 Electronic Arts | Software Engineer Intern | Orlando, FL | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216262
 Electronic Arts | Software Engineer Intern | Orlando, FL | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216263
 Electronic Arts | Software Engineer Intern | Vancouver, BC, Canada | https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225
@@ -223,7 +222,6 @@ G-Research | Software Engineer Intern | London, UK | https://gresearch.wd103.myw
 GCM Grosvenor | Software Engineer Intern | Chicago, IL | https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003
 GE Vernova | Project Engineer Intern - Summer 2027 🎓 | Bellevue, WA | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1
 GE Vernova | Project Engineer Intern - Summer 2027 🎓 | Bellevue, WA | https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2
-GM financial | Oracle Application Developer Intern | Irving, TX | https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260804
 GM financial | Software Development Engineer Intern | Arlington, TX | https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795
 Gecko Robotics | Full Stack Software Engineer Intern | NYC | https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082/application
 Genentech | Product Technical Development Intern - Digital Sciences Focus | South SF | https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Product-Technical-Development---Digital-Sciences-Focus_202610-126833
