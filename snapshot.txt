@@ -192,7 +192,6 @@ Eulerity | Backend Developer Intern | NYC | https://job-boards.greenhouse.io/eul
 Expedia Group | Mobile Engineer Intern | London, UK | https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545
 Expedia Group | Mobile Engineer Intern | London, UK | https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545-1
 Expedia Group | Mobile Engineer Intern | Seattle, WA Austin, TX San Jose, CA | https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306
-Expedia Group | Mobile Engineer Intern | Seattle, WA Austin, TX San Jose, CA | https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306-1
 Expedia Group | Software Development Engineer Intern | London, UK | https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551
 Expedia Group | Software Development Engineer Intern | London, UK | https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineering-Intern---2027---London_R-110551
 Expedia Group | Software Development Engineer Intern | Seattle, WA Austin, TX San Jose, CA | https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311
@@ -283,7 +282,6 @@ LSEG | Engineering Intern | NYC | https://lseg.wd3.myworkdayjobs.com/Graduate_Ca
 LSEG | Engineering Intern | NYC | https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569-1
 LSEG | Engineering Intern | Nottingham, UK | https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Engineering-Summer-Internship-Programme_R0124221
 LSEG | Software Engineer Intern | London, UK | https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Software-Engineer_R0124267
-LSEG | Software Engineer Intern | NYC | https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1
 Lazard | AI and Data Transformation Intern | NYC | https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6650
 Leonardo | Software Engineer Intern | Edinburgh, UK | https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Software-Engineer_R0033869-1
 Leonardo | Software Engineer Intern | Newcastle upon Tyne, UK | https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Summer-Placement-Software-Engineer_R0033874
@@ -314,7 +312,6 @@ Midland States Bank | AI Solutions Engineer Intern | Rockford, IL St. Louis, MO 
 Mindex | Software Engineer Co-op | Rochester, NY | https://apply.workable.com/mindex/j/84B10DB922/apply
 Modernizing Medicine | Software Engineer Intern 🎓 | Boca Raton, FL | https://modmed.wd501.myworkdayjobs.com/ModMed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148
 MongoDB | Software Engineer Intern | 5 locations Palo Alto, CA Seattle, WA SF Austin, TX NYC | https://www.mongodb.com/careers/job/
-Moog | Software Engineer Intern | Mineral Wells, TX | https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965
 Motorola | Android Applications Developer Intern | Chicago, IL | https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313
 Motorola | Android Platform Software Engineer Intern - Summer 2027 | Schaumburg, IL Plantation, FL | https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363
 Motorola | CPE Software End-to-End Triage Intern - Summer 2027 | Plantation, FL | https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/CPE-SW-E2E-Triage-Intern---Summer-2027_R68165
@@ -463,7 +460,6 @@ The Aerospace Corporation | Software Engineering Intern - Software Tools and Ass
 The Aerospace Corporation | Software Tools and Assurance Intern - Information Systems and Cyber Division | El Segundo, CA | https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429
 The Exploration Company | Engineering Intern - Software | LA | https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac/application
 The Federal Reserve System | Computer Science and Software Engineering Intern | Chicago, IL | https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637
-The Home Depot | Software Engineer Intern | Atlanta, GA | https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937
 The Toro Company | Cloud Software Developer Intern | Frederick, CO | https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498
 Thrivent | Application Engineer Intern - Investments | Minneapolis, MN | https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2
 Tive | Software Engineer Co-op | Boston, MA | https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0
@@ -471,7 +467,6 @@ Tower Research Capital | Software Developer Intern | Montreal, QC, Canada | http
 Tradeweb | C++ Developer Intern | London, UK | https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301899
 Tradeweb | Java Developer Intern | London, UK | https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301901
 Transcard Payments | Software Engineer Intern | Chattanooga, TN | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288
-Travelers | Engineering Development Intern | 4 locations Hunt Valley, Cockeysville, MD Hartford, CT Atlanta, GA St Paul, MN | https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-52270
 Trimble | Software Engineer Intern | 8 locations Dayton, OH Knoxville, TN Portsmouth, NH Princeton, NJ Lake Oswego, OR Westminster, CO Sunnyvale, CA Atlanta, GA | https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676
 TruStage | Information Technology Development and Infrastructure Intern | Madison, WI | https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155
 Two Sigma | Software Engineering Intern - Summer 2027 | NYC | https://twosigma.avature.net/careers/JobDetail/14016
@@ -527,7 +522,6 @@ Westinghouse Electric Company | Software Developer Intern - Tools & Apps | Warre
 Westinghouse Electric Company | Software Development Intern | Cranberry Township, PA | https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Software-Development-NC/1441279500/
 Westinghouse Electric Company | Software Engineering Intern | Warrendale, PA | https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Software-Engineering-OR/1442826200/
 WhatNot | Software Engineer Intern | 4 locations Seattle, WA SF LA NYC | https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application
-Wise | Software Engineer Intern | London, UK | https://jobs.smartrecruiters.com/Wise/744000156266767
 Workday | Software Application Development Engineer Intern | Pleasanton, CA | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811
 Workday | Software Engineer Intern | Pleasanton, CA | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810
 Workshop | Software Engineer Intern | Omaha, NE | https://job-boards.greenhouse.io/workshop/jobs/5237900007
