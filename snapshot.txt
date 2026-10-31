@@ -193,7 +193,6 @@ GM financial | Software Development Engineer Intern | Arlington, TX | https://fa
 Garda Capital Partners | Software Engineer Intern - C# | Wayzata, MN | https://job-boards.greenhouse.io/gardacp/jobs/6238021004
 Gearset | Software Engineer Intern | Cambridge, UK | https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f/application
 Gecko Robotics | Full Stack Software Engineer Intern | NYC | https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082/application
-Genentech | Product Technical Development Intern - Digital Sciences Focus | South SF | https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Product-Technical-Development---Digital-Sciences-Focus_202610-126833
 General Dynamics Information Technology | AI Network Engineering Intern | Bossier City, LA | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2
 General Dynamics Information Technology | AI and Estimation Intern | Falls Church, VA | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646
 General Dynamics Information Technology | AI/ML Software Development and Engineering Intern | Bossier City, LA | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939
@@ -474,7 +473,6 @@ Skydio | Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/sky
 Sonos | Software Engineer Intern | Boston, MA | https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1
 State Affairs | Software Engineer Intern | Washington, DC | https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009
 Steel | Software Engineer Intern | Toronto, ON, Canada | https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application
-Stoke Space | Software Intern | Kent, WA | https://stokespace.com/careers/current-openings
 Stripe | Software Engineer Intern | Seattle, WA SF | https://stripe.com/jobs/search
 Synchrony Financial | Digital Technology Center Intern | Stamford, CT | https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661
 T-Mobile | Software Engineer Intern | Overland Park, KS | https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441
