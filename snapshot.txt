@@ -45,7 +45,6 @@ Auto-Owners Insurance | IT Document Automation Developer Intern | Lansing, MI | 
 Auto-Owners Insurance | Intelligent Automation Developer Intern | Lansing, MI | https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intelligent-Automation-Developer-Internship---Summer-2027_R_14474
 AutoZone | Information Technology Intern | Memphis, TN | https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451
 Avis Budget Group | Transformation Engineer Intern - Accelerate | Parsippany-Troy Hills, NJ | https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388
-Awardco | Back-End Software Engineer Intern | Lindon, UT | https://award.co/position
 Axiom Space | Software Engineer Intern | Houston, TX | https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767
 Baird | IT AI & Automation Intern | Milwaukee, WI | https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1
 Baird | Software Developer Intern | Madison, WI Milwaukee, WI | https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Software-Developer--Year-Round-_R20261024-1
@@ -102,7 +101,6 @@ Citizens Financial Group | Software Engineer Intern | Plano, TX Johnston, RI Pho
 Clean Harbors | Software & Field Technology Intern IS | Deer Park, TX | https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167672
 Cloudflare | Software Engineer Intern | Austin, TX | https://boards.greenhouse.io/cloudflare/jobs/8199958
 Cloudflare | Software Engineer Intern | London, UK | https://boards.greenhouse.io/cloudflare/jobs/8245211
-CoStar Group | Technology Intern | Sunnyvale, CA | https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Summer-2027-Technology-Intern---Sunnyvale--CA_R39945
 Cohesity | Software Engineer Intern | Santa Clara, CA | https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2
 Coinbase | Forward Deployed Engineer Intern - HR Technology | NYC | https://boards.greenhouse.io/embed/job_app
 Coinbase | Software Engineer Intern | SF | https://boards.greenhouse.io/embed/job_app
@@ -117,7 +115,6 @@ Costco | Costco Digital Services Intern - Infosec AI/ML | Issaquah, WA | https:/
 Costco | Software Developer Intern - Software Engineer - Costco Travel | Issaquah, WA | https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition
 Costco | Software Engineer Intern - International Depot | Issaquah, WA | https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition
 Courier Health | Software Engineer Intern | NYC | https://job-boards.greenhouse.io/courierhealth/jobs/5258913007
-CoverMyMeds | CMM Technology Intern | Columbus, OH | https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2
 Covestro | Supply Chain Application Developer Co-op | Pittsburgh, PA | https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/Supply-Chain-Application-Developer-Co-Op_JR-2026-02346-1
 DP World | Application Analyst Intern | Itasca, IL | https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400
 DV Trading | AI Engineer Intern | Chicago, IL | https://job-boards.greenhouse.io/dvtrading/jobs/4732429005
@@ -487,8 +484,6 @@ Tyler Technologies | Software Development Intern | Troy, MI Overland Park, KS | 
 Udig | Software Engineer Intern | Nashville, TN Richmond, VA | https://udig.com/careers/job-listing/
 Uline | Software Developer Intern | 5 locations Waukegan, IL Milwaukee, WI Glenview, IL Pleasant Prairie, WI Kenosha, WI | https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537
 United Launch Alliance | Software Engineer Intern | Centennial, CO | https://jobs.ulalaunch.com/job/Centennial-Software-Engineering-Internship-Summer-2027-CO-80112/1427398300/
-VSP Vision | AI, Agentic & Machine Learning Development Intern - AI, Agentic & Machine Learning Development | Remote in USA | https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072
-VSP Vision | Software Engineer Intern - Technology Innovation | Remote in USA | https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020
 VSP Vision | Software Engineer Intern | Remote in USA | https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071
 Vanguard | Co-op - Multiple Teams | Dallas, TX | https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/DallasFt-Worth-TX/XMLNAME-2027-Spring-Summer-Co-op-Opportunities---Dallas_182410
 Vanguard | College to Corporate IT Intern - Application Development | Malvern, PA | https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757
