@@ -9,6 +9,8 @@ AeroVironment | Software Engineer Intern | Melbourne, FL | https://avav.wd1.mywo
 Affirm | IT Engineer Intern - Early Careers | SF | https://job-boards.greenhouse.io/affirm/jobs/8011375003
 Affirm | Software Engineer Intern - Machine Learning | SF | https://job-boards.greenhouse.io/affirm/jobs/8008645003
 Affirm | Software Engineer Intern - Summer 2027 | SF | https://job-boards.greenhouse.io/affirm/jobs/8011590003
+Alaska Air Group | Software Engineer Intern | SeaTac, WA | https://corporatejobs-alaskaair.icims.com/jobs/21277/job
+Alaska Air Group | VR Development Intern | Renton, WA | https://corporatejobs-alaskaair.icims.com/jobs/21281/job
 Allstate | Software Engineer Intern | North Carolina | https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266
 Amazon | Database Engineer Intern | Seattle, WA East Palo Alto, CA | https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027
 Amazon | Machine Learning Systems Software Development Engineer Intern - Annapurna Labs | Toronto, ON, Canada | https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027
@@ -55,9 +57,11 @@ Barclays | Technology Developer Intern - Programme | Northampton, UK | https://b
 Barclays | Technology Developer Intern | Glasgow, UK | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387
 Barclays | Technology Developer Intern | Knutsford, UK | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381
 Barclays | Technology Developer Intern | London, UK | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397
+Barrios | Data and Computer Engineering/Computer Science Intern | Houston, TX | https://careers-barrios.icims.com/jobs/2897/job
 Bass Pro Shops | IT Developer Intern | Springfield, MO | https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1
 Bedrock Robotics | Safety Engineer Intern - Agentic Safety Case Assessment | SF | https://jobs.ashbyhq.com/bedrock-robotics/cb06dc4f-3e78-4546-897d-b39ba12a9178/application
 Bedrock Robotics | Software Engineer Intern - Fleet Platform | NYC | https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4/application
+Blackhawk Network Holdings | Technology Intern | Coppell, TX | https://careers-blackhawknetwork.icims.com/jobs/26866/job
 Blackstone | Software Engineer Summer Analyst - Technology and Innovations | London, UK | https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358
 Booz Allen | Software Developer Intern | Albuquerque, NM | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games-Software-Developer-Intern---Albuquerque--NM_R0252335
 Booz Allen | Software Developer Intern | Lexington, MA | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Software-Developer-Intern---Lexington--MA_R0252274
@@ -69,7 +73,6 @@ Booz Allen | Systems Engineer Intern | Albuquerque, NM | https://bah.wd1.myworkd
 Booz Allen | Systems Engineer Intern | Dayton, OH | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games--Systems-Engineer-Intern---Dayton--OH_R0252342
 Boston Consulting Group | Forward Deployed AI Engineer Intern 🎓 | 4 locations Boston, MA LA Chicago, IL NYC | https://careers.bcg.com/global/en/job/59702
 Boston Scientific | Software Development Engineer Intern | Waltham, MA | https://bostonscientific.eightfold.ai/careers/job/563602813567960
-Brain Co. | AI Platform Engineer Intern | SF | https://jobs.ashbyhq.com/brainco/2db4339e-79c8-4e97-9c94-92753b49e20a/application
 Brain Co. | AI Product Intern | SF | https://jobs.ashbyhq.com/brainco/28c6cd2f-b609-4ca6-a2f6-adfa3d679d0b/application
 Brevan Howard | Summer Internship Program - Systematic Trading Technology Software Engineer | NYC | https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597
 Burns Engineering | Software Engineer Intern | Pittsburgh, PA | https://www.burns-group.com/careers/current-openings/
@@ -110,7 +113,10 @@ Coinbase | Forward Deployed Engineer Intern - HR Technology | NYC | https://boar
 Coinbase | Software Engineer Intern | SF | https://boards.greenhouse.io/embed/job_app
 CommonAI C.I.C. | Software Engineer Intern | Cambridge, UK | https://apply.workable.com/commonai/j/021D3FCF3E/apply
 Commonwealth Fusion Systems | Software Engineer Intern | Devens, MA | https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d/apply
+Constellation Energy | IT Development Intern | San Diego, CA | https://jobs.constellationenergy.com/jobs/140300
 Constellation Energy | Information Technology Software Development Intern | Baltimore, MD | https://jobs.constellationenergy.com/jobs/138708
+Constellation Energy | Renewable Energy Intern | Houston, TX | https://jobs.constellationenergy.com/jobs/141851
+Corgan | Software Development Intern | Dallas, TX | https://campus-us-corgan.icims.com/jobs/4109/job
 Costco | CDS Intern - ECM Platform Management | Issaquah, WA | https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition
 Costco | CDS Intern - Innovation | Issaquah, WA | https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition
 Costco | CDS Intern - Powerapps Developer - ECM Digital Workflow | Issaquah, WA | https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition
@@ -160,6 +166,7 @@ Emerson Electric | Software Engineer Co-op | Eden Prairie, MN | https://hdjq.fa.
 Emerson Electric | Software Engineer Co-op | Eden Prairie, MN | https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738
 Emerson Electric | Software Engineer Intern - Process Systems and Solutions 🎓 | Round Rock, TX | https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011295
 Enova | Software Engineer Intern | Chicago, IL | https://job-boards.greenhouse.io/enova/jobs/8239619
+Enterprise Holdings | Software Engineer Intern - Summer 2027 | St. Louis, MO | https://us-erac.icims.com/jobs/566721/job
 Epic Games | Engine Programmer Intern | Cary, NC | https://epicgames.com/careers/jobs/6202659004
 Epic Games | Tools Programmer Intern | Cary, NC | https://epicgames.com/careers/jobs/6200355004
 Ernst & Young | Tax Intern - Other Tax - Americas Tax Technology Group | 4 locations Nashville, TN Dallas, TX Chicago, IL Atlanta, GA | https://eyglobal.yello.co/jobs/yUI0hOKgEZ86mkIsV-EUdw
@@ -173,6 +180,7 @@ F5 | Software Development Engineer Intern | Seattle, WA | https://ffive.wd5.mywo
 FNBO | Technology Intern | Omaha, NE | https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-2027---Technology-Intern_R-20261653
 FUTO | Software Engineer Intern | Austin, TX | https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70/apply
 Farmers Mutual Hail | Software Developer Intern | West Des Moines, IA | https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4403596009
+Federated Insurance | IT Intern | Owatonna, MN | https://careers-federatedinsurance.icims.com/jobs/5718/job
 Figma | PhD Intern - Software Engineer - Graphics 🎓 | SF NYC | https://boards.greenhouse.io/figma/jobs/6219995004
 Figma | PhD Intern - Software Engineer - Interaction Design 🎓 | SF NYC | https://boards.greenhouse.io/figma/jobs/6241542004
 Figma | Software Engineer Intern - Multiple Teams | London, UK | https://boards.greenhouse.io/figma/jobs/6152695004
@@ -189,6 +197,11 @@ General Dynamics Information Technology | AI/ML Software Development and Enginee
 General Dynamics Information Technology | Generative AI Software Development Intern | Bossier City, LA | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1
 General Dynamics Information Technology | Software Developer Intern | Egg Harbor Township, NJ | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643
 General Dynamics Information Technology | Software Development Intern | Bossier City, LA | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2
+General Dynamics Mission Systems | Payload Control System Software/Systems Engineering Intern - Summer 2027 | Middletown, RI Manassas, VA | https://careers-gdms.icims.com/jobs/74848/job
+General Dynamics Mission Systems | Software Engineer Intern - CWL | Manassas, VA | https://careers-gdms.icims.com/jobs/75346/job
+General Dynamics Mission Systems | Software Engineer Intern | Pittsfield, MA | https://careers-gdms.icims.com/jobs/74687/job
+General Dynamics Mission Systems | Software Engineering Intern | Lakewood, OH | https://careers-gdms.icims.com/jobs/75131/job
+General Dynamics Mission Systems | Software Engineering Intern | Manassas, VA | https://careers-gdms.icims.com/jobs/75128/job
 General Motors | AI/ML Engineer Intern - Autonomous Vehicles | Seattle, WA Sunnyvale, CA | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439
 General Motors | Autonomous Driving Software Engineer Intern | Sunnyvale, CA | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064
 General Motors | Software Engineer Intern - AV/AI Platform | Sunnyvale, CA Warren, MI | https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696
@@ -242,6 +255,8 @@ Humana | Technology Intern - Society of Women Engineers Conference | Louisville,
 Huntington Ingalls Industries | Computer Engineering Intern | Pascagoula, MS | https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/
 ICF International | AI Engineer Intern | Reston, VA | https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603518
 ICF International | Software Developer Intern | Reston, VA | https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002
+IDEMIA | Engineering Intern | Reston, VA | https://uscareers-idemia.icims.com/jobs/8647/job
+IDEMIA | Software Engineer Intern | Reston, VA | https://uscareers-idemia.icims.com/jobs/8650/job
 Illinois Tool Works | Software Engineer Intern - Application Software | Eden Prairie, MN | https://careers.itw.com/global/en/job/JR10491
 Illinois Tool Works | Software Engineer Intern | Eden Prairie, MN | https://careers.itw.com/global/en/job/JR10261
 Immuta | Product Engineering Intern | College Park, MD | https://jobs.lever.co/immuta/bf3c9d23-8da9-4a11-adf6-ecb7bce82ad4/apply
@@ -250,16 +265,25 @@ Infleqtion | Quantum Software Intern - Quantum Software | Chicago, IL | https://
 Integrate | Software Engineer Intern | Seattle, WA | https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3/application
 Intel | Software Research Intern - PhD 🎓 | Hillsboro, OR | https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314
 Intel | System Software Engineer PhD Intern - Intel Foundry - LTD CMT Litho Tools 🎓 | Hillsboro, OR | https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457
+Intercontinental Exchange | Integration Intern | Jacksonville, FL | https://careers-ice.icims.com/jobs/14071/job
 Intercontinental Exchange | Integration Intern | Jacksonville, FL | https://ice.jibeapply.com/jobs/14071
+Intercontinental Exchange | Regulatory Products Intern | NYC | https://careers-ice.icims.com/jobs/14101/job
 Intercontinental Exchange | Regulatory Products Intern | NYC | https://ice.jibeapply.com/jobs/14101
+Intercontinental Exchange | Software Developer Intern | Jacksonville, FL | https://careers-ice.icims.com/jobs/14076/job
+Intercontinental Exchange | Software Engineer Intern - Java | Jacksonville, FL | https://careers-ice.icims.com/jobs/14078/job
 Intercontinental Exchange | Software Engineer Intern - Java | Jacksonville, FL | https://ice.jibeapply.com/jobs/14078
+Intercontinental Exchange | Software Engineer Intern | Jacksonville, FL | https://careers-ice.icims.com/jobs/14075/job
 Intercontinental Exchange | Software Engineer Intern | Jacksonville, FL | https://ice.jibeapply.com/jobs/14077
+Intercontinental Exchange | Software Engineer Intern | NYC | https://careers-ice.icims.com/jobs/14105/job
 Intercontinental Exchange | Software Engineer Intern | NYC | https://ice.jibeapply.com/jobs/14105
+Intercontinental Exchange | Software Engineering Intern | Jacksonville, FL | https://careers-ice.icims.com/jobs/14077/job
 Intercontinental Exchange | Software Engineering Intern | Jacksonville, FL | https://ice.jibeapply.com/jobs/14075
+Intercontinental Exchange | Trading System Development Intern | NYC | https://careers-ice.icims.com/jobs/14102/job
 Intercontinental Exchange | Trading System Development Intern | NYC | https://ice.jibeapply.com/jobs/14102
 Intuit | Marketing Intern - AI Tooling for Marketing Efficiency | SF Mountain View, CA | https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552
 Intuit | Software Engineer Intern - Cybersecurity | Mountain View, CA | https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616
 Inversion Space | AI & Internal Tools Software Engineer Intern | Playa Vista, LA | https://job-boards.greenhouse.io/inversionspace/jobs/4745076005
+Iridium Communications | Software Engineering Intern | Tempe, AZ McLean, VA | https://careers-iridium.icims.com/jobs/5136/job
 JM Family | AI Center of Excellence Delivery Team Intern | Deerfield Beach, FL | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Center-of-Excellence--COE--Delivery-Team-Intern_JR105176
 JM Family | Software Engineer Intern | Deerfield Beach, FL | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158
 JM Family | Software Engineer Intern | Deerfield Beach, FL | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182
@@ -276,6 +300,7 @@ LSEG | Software Engineer Intern | NYC | https://lseg.wd3.myworkdayjobs.com/Gradu
 LabCorp | Full-Stack Life Sciences Software Engineer Co-op | Durham, NC Burlington, NC | https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083
 Lawrence Livermore National Laboratory (LLNL) | Defense Science and Technology Intern | Livermore, CA | https://jobs.smartrecruiters.com/LLNL/3743990015740565
 Leidos | Software Engineering & AI Intern | Remote in USA Shiloh, IL Odenton, MD | https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220
+Lennox International | IoT Intern 🎓 | Richardson, TX | https://uscareers-lennox.icims.com/jobs/54893/job
 Leonardo | Software Engineer Intern | Edinburgh, UK | https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Software-Engineer_R0033869-1
 Leonardo | Software Engineer Intern | Newcastle upon Tyne, UK | https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Summer-Placement-Software-Engineer_R0033874
 Leonardo | Software Engineer Placement Intern | Basildon, UK | https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282
@@ -355,7 +380,10 @@ Patreon | Software Engineer Intern | SF NYC | https://jobs.ashbyhq.com/patreon/7
 PayPal | Mobile Engineer Intern | 5 locations Austin, TX San Jose, CA Chicago, IL Omaha, NE Scottsdale, AZ | https://paypal.eightfold.ai/careers/job/274922982818
 PayPal | Software Engineer Intern | 5 locations Austin, TX San Jose, CA Chicago, IL Omaha, NE Scottsdale, AZ | https://paypal.eightfold.ai/careers/job/274922982814
 Peraton | Software Developer Intern | Topeka, KS | https://peraton.jibeapply.com/jobs/172061
+Peraton | Software Development Intern | Topeka, KS | https://careers-peraton.icims.com/jobs/172061/job
+Peraton | Software Engineer Intern | Blacksburg, VA Herndon, VA | https://careers-peraton.icims.com/jobs/169665/job
 Peraton | Software Engineer Intern | Blacksburg, VA Herndon, VA | https://peraton.jibeapply.com/jobs/169665
+Peraton | Software Engineering Co-op | San Diego, CA | https://careers-peraton.icims.com/jobs/171547/job
 Peraton | Software Engineering Co-op | San Diego, CA | https://peraton.jibeapply.com/jobs/171547
 Perpay | Software Engineer Intern | Philadelphia, PA | https://job-boards.greenhouse.io/perpay/jobs/4076988007
 Philips | AI & Analytics Analyst Intern | Nashville, TN | https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012
@@ -446,11 +474,13 @@ ServiceNow | Software Engineer Intern 🎓 | 4 locations Santa Clara, CA West Pa
 Shield AI | Software Engineer Intern | San Diego, CA | https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036/application
 Shield AI | Software Engineer Intern | San Diego, CA | https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/db04c516-d21a-449c-8bfd-1cf830eafb5a/application
 Shield AI | Software Engineer Intern | San Diego, CA | https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply
+Shure | Application Software Engineer Intern | Niles, IL | https://careersus-shure.icims.com/jobs/4956/job
 Sierra Nevada Corporation | Software Engineer Intern | Southern Pines, NC | https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031229
 Sierra Nevada Corporation | Software Engineer Intern | Southern Pines, NC | https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230
 Sigma Computing | Software Engineer Intern - Summer 2027 | SF NYC | https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003
 Sigma Computing | Software Engineer Intern | NYC | https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003
 Signifyd | Engineering Intern | Belfast, UK | https://job-boards.greenhouse.io/signifyd95/jobs/8240551
+SimVentions | Software Development Intern | Fredericksburg, VA | https://careers-simventions.icims.com/jobs/1631/job
 SimVentions | Software Development Intern | Fredericksburg, VA | https://simventions.jibeapply.com/jobs/1631
 Skydio | Frontend Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application
 Skydio | Mobile Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application
@@ -511,9 +541,8 @@ Visa | Software Engineer Intern | Austin, TX | https://visa.wd5.myworkdayjobs.co
 Visa | Software Engineer Intern | Austin, TX | https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1
 Visa | Software Engineer Intern | Austin, TX | https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W
 Visa | Software Engineer Intern | Austin, TX | https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W
-Visa | Software Engineer Intern | Denver, CO | https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1
-Visa | Software Engineer Intern | Denver, CO | https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W
 Voyager Technologies | Software Engineer Intern | Long Beach, CA | https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009
+W.R. Berkley | Software Developer Intern - Java | Urbandale, IA | https://careers-berkley.icims.com/jobs/14437/job
 WTW | Software Developer Intern | Reigate, UK | https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435
 Walmart | Software Engineer 2 Intern | Bentonville, AR Bellevue, WA Sunnyvale, CA | https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1
 Wawa | Information Technology Development Intern | Media, PA | https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392
@@ -535,6 +564,7 @@ Wellmark | Software Engineer Intern | Des Moines, IA | https://jobs.smartrecruit
 Wells Fargo | Software Engineer Intern | London, UK | https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/Technology-Internship-Program_R-581607
 Westinghouse Electric Company | Software Engineering Intern | Warrendale, PA | https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Software-Engineering-OR/1442826200/
 William Blair | Agentic AI Development Intern | Chicago, IL | https://www.williamblair.com/Careers/job-description
+Wolf & Company | AI & Automation Intern | Boston, MA | https://career-portal-wolfandco.icims.com/jobs/1599/job
 Workday | Software Application Development Engineer Intern | Pleasanton, CA | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811
 Workday | Software Engineer Intern | Pleasanton, CA | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810
 Workshop | Software Engineer Intern | Omaha, NE | https://job-boards.greenhouse.io/workshop/jobs/5237900007
