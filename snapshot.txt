@@ -245,8 +245,6 @@ Highmark Health | AI Services and Platforms Software Engineer Intern | 51 locati
 Highmark Health | Applied Gen AI/Data Scientist Graduate Intern | 51 locations New Mexico Washington Kansas Pennsylvania North Dakota Oregon Delaware Iowa California Washington, DC Vermont Wyoming Connecticut Texas Montana Florida New Hampshire Nevada South Carolina South Dakota Georgia Arizona Mississippi Tennessee Virginia Arkansas Minnesota Colorado Nebraska Rhode Island Utah Kentucky West Virginia NYC Maryland Hawaii Wisconsin Maine Massachusetts North Carolina Oklahoma Missouri Ohio New Jersey Indiana Louisiana Alaska Michigan Illinois Alabama Idaho | https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007
 Highmark Health | Provider Delivery Software Engineer Intern | Remote in USA | https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Provider-Delivery-Software-Engineer-enGen-Undergraduate-Intern_J290026
 Highmark Health | Software Engineer Graduate Intern | 50 locations New Mexico Washington Kansas Pennsylvania North Dakota Oregon Delaware Iowa California Washington, DC Vermont Wyoming Connecticut Texas Montana Florida New Hampshire Nevada South Carolina South Dakota Georgia Arizona Mississippi Tennessee Virginia Arkansas Minnesota Colorado Nebraska Rhode Island Utah Kentucky West Virginia NYC Maryland Hawaii Wisconsin Maine Massachusetts North Carolina Oklahoma Ohio New Jersey Indiana Louisiana Alaska Michigan Illinois Alabama Idaho | https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Graduate-Intern_J289845
-Highmark Health | Software Engineer Intern | Pennsylvania | https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812
-Highmark Health | Software Engineer Undergraduate Intern | Pennsylvania | https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J290027
 Hive Financial Systems | Software Engineer Intern | Atlanta, GA | https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274887007
 Hiya | Engineer Intern | London, UK | https://jobs.ashbyhq.com/hiya/046212dd-41e3-46e7-a8ba-48cff5a7f947/application
 Honeywell | Software Engineer Co-op | Pittsford, NY | https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158088
@@ -287,6 +285,7 @@ Iridium Communications | Software Engineering Intern | Tempe, AZ McLean, VA | ht
 JM Family | AI Center of Excellence Delivery Team Intern | Deerfield Beach, FL | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Center-of-Excellence--COE--Delivery-Team-Intern_JR105176
 JM Family | Software Engineer Intern | Deerfield Beach, FL | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158
 JM Family | Software Engineer Intern | Deerfield Beach, FL | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182
+JM Family | Software Engineer Intern | Deerfield Beach, FL | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199
 Jain Global | Compliance Technology Intern | NYC | https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607
 Javelin Global Commodities | Software Engineering Intern | London, UK | https://apply.workable.com/javelin-global-commodities/j/CAF64E75BF/apply
 K2 Space | Simulation Software Engineering Intern | LA | https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008
@@ -409,7 +408,6 @@ Qube Research & Technologies | Technology Intern | Chicago, IL NYC | https://job
 Qumulo | Software Development Engineer Intern | Seattle, WA | https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183/application
 RAVE Aerospace | Software Engineer Intern | Laramie, WY | https://apply.workable.com/raveaerospace/j/739753C003/apply
 RTX | Software Engineer Co-op | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347
-RTX | Software Engineer Co-op | Marlborough, MA Tewksbury, MA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371
 RTX | Software Engineer Intern | Aurora, CO | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520
 RTX | Software Engineer Intern | West Valley City, UT | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446
 RTX | Systems Co-op | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835
@@ -428,7 +426,6 @@ Riot Games | Software Engineer Intern | LA | https://www.riotgames.com/en/work-w
 Rippling | Full Stack Software Engineer Intern | Seattle, WA SF NYC | https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262
 Rippling | Software Engineer Intern - Backend Focused | Seattle, WA SF NYC | https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba
 Riverlane | Software Engineering Intern | Cambridge, UK | https://www.riverlane.com/jobs
-Robert Bosch Venture Capital | Business Digitalisation & AI Automation Intern | Denham, UK | https://jobs.smartrecruiters.com/BoschGroup/744000154478885
 Rockwell Automation | AI Software Engineer Intern | Mayfield Heights, OH Milwaukee, WI | https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980
 Rockwell Automation | AI Software Engineer Intern | Mayfield Heights, OH Milwaukee, WI | https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1
 Rockwell Automation | AI Software Engineering Co-op - 6 months - 8 months | Mayfield Heights, OH Milwaukee, WI | https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982
@@ -519,6 +516,7 @@ TruStage | Information Technology Development and Infrastructure Intern | Madiso
 Two Sigma | Software Engineering Intern - Summer 2027 | NYC | https://twosigma.avature.net/careers/JobDetail/14016
 Tyler Technologies | Software Developer Intern | Orono, ME | https://jobs.jobvite.com/tylertech/job/ouQXAfwB
 Tyler Technologies | Software Development Intern - Summer 2027 | Plano, TX | https://jobs.jobvite.com/tylertech/job/oMAPAfwv
+Tyler Technologies | Software Development Intern - Summer 2027 | Yarmouth, ME Orono, ME Falmouth, ME | https://jobs.jobvite.com/tylertech/job/oxAPAfwg
 Tyler Technologies | Software Development Intern | Lawrenceville, GA | https://jobs.jobvite.com/tylertech/job/oAVOAfwD
 Tyler Technologies | Software Development Intern | Troy, MI Overland Park, KS | https://jobs.jobvite.com/tylertech/job/oQFRAfwG
 Udig | Software Engineer Intern | Nashville, TN Richmond, VA | https://udig.com/careers/job-listing/
@@ -570,7 +568,6 @@ Workday | Software Engineer Intern | Pleasanton, CA | https://workday.wd5.mywork
 Workshop | Software Engineer Intern | Omaha, NE | https://job-boards.greenhouse.io/workshop/jobs/5237900007
 Xcimer Energy | Computational and Software Engineering Intern | Denver, CO | https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911/apply
 Zebra Technologies | Intern - AI | Lincolnshire, IL | https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639
-Zebra Technologies | Mechanical Engineer Intern | Holtsville, NY | https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627
 Zebra Technologies | Software Engineer Intern - AI Features & Product Convergence | Kennesaw, GA | https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636
 Zebra Technologies | Software Engineer Intern - US 🎓 | Holtsville, NY | https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103626
 Zebra Technologies | Software Engineer Intern | Holtsville, NY | https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103638
