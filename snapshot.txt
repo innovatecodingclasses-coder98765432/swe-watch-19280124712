@@ -352,7 +352,6 @@ PayPal | Mobile Engineer Intern | 5 locations Austin, TX San Jose, CA Chicago, I
 PayPal | Software Engineer Intern | 5 locations Austin, TX San Jose, CA Chicago, IL Omaha, NE Scottsdale, AZ | https://paypal.eightfold.ai/careers/job/274922982814
 Peraton | Software Developer Intern | Topeka, KS | https://peraton.jibeapply.com/jobs/172061
 Peraton | Software Development Intern | Topeka, KS | https://careers-peraton.icims.com/jobs/172061/job
-Peraton | Software Engineer Intern | Blacksburg, VA Herndon, VA | https://careers-peraton.icims.com/jobs/169665/job
 Peraton | Software Engineering Co-op | San Diego, CA | https://careers-peraton.icims.com/jobs/171547/job
 Peraton | Software Engineering Co-op | San Diego, CA | https://peraton.jibeapply.com/jobs/171547
 Perpay | Software Engineer Intern | Philadelphia, PA | https://job-boards.greenhouse.io/perpay/jobs/4076988007
@@ -362,8 +361,6 @@ Pinterest | Software Engineer Intern | SF Remote in USA | https://www.pinterestc
 Point72 | Software Engineer Intern | NYC | https://boards.greenhouse.io/point72/jobs/8885733002
 Procter & Gamble | IT Technical Specialist Intern | Newcastle upon Tyne, UK | https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/IT-Technical-Specialist-Industrial-Placement-2027_R000160302
 Procter & Gamble | R&D Intern - AI Research Engineer | Mason, OH | https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371
-Publicis Groupe | Software Engineer Intern | Chicago, IL | https://publicisgroupe.jibeapply.com/jobs/173032
-Publicis Groupe | Software Engineer Intern | Irving, TX | https://publicisgroupe.jibeapply.com/jobs/173034
 Pure Storage | Software Engineer Intern | Santa Clara, CA | https://job-boards.greenhouse.io/purestorage/jobs/8249749
 Q2 | Software Engineer Intern | Austin, TX | https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794
 Q2 | Software Engineer Intern | Cary, NC | https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798
