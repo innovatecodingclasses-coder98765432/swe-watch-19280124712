@@ -305,9 +305,6 @@ NVIDIA | Math Libraries Intern | Canada Santa Clara, CA United States | https://
 NVIDIA | PhD Research Intern - Programming Systems 🎓 | Santa Clara, CA | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379
 NVIDIA | Sparse Linear Algebra Libraries Intern 🎓 | Santa Clara, CA | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429
 National Life | IT Application Development Intern | Montpelier, VT Addison, TX | https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4402184009
-Navy Federal | Associate Intern - Lending Automation Technology & Solutions | Pensacola, FL Vienna, VA | https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32359
-Navy Federal | Payments AI Engineer Intern 🎓 | Pensacola, FL Vienna, VA | https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400
-Navy Federal | Security Workflow Engineer Intern | Vienna, VA | https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382
 Nelnet | IT Software Engineer Intern | Lincoln, NE | https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198
 Netflix | Software Engineer Intern | LA Los Gatos, CA | https://explore.jobs.netflix.net/careers/job/790318904468
 Newell Brands | Sales AI & Analytics Developer Intern | Huntersville, NC | https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/
