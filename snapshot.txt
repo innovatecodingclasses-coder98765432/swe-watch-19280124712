@@ -9,8 +9,6 @@ AeroVironment | Software Engineer Intern | Melbourne, FL | https://avav.wd1.mywo
 Affirm | IT Engineer Intern - Early Careers | SF | https://job-boards.greenhouse.io/affirm/jobs/8011375003
 Affirm | Software Engineer Intern - Machine Learning | SF | https://job-boards.greenhouse.io/affirm/jobs/8008645003
 Affirm | Software Engineer Intern - Summer 2027 | SF | https://job-boards.greenhouse.io/affirm/jobs/8011590003
-Alaska Air Group | Software Engineer Intern | SeaTac, WA | https://corporatejobs-alaskaair.icims.com/jobs/21277/job
-Alaska Air Group | VR Development Intern | Renton, WA | https://corporatejobs-alaskaair.icims.com/jobs/21281/job
 Allstate | Software Engineer Intern | North Carolina | https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266
 Amazon | Database Engineer Intern | Seattle, WA East Palo Alto, CA | https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027
 Amazon | Machine Learning Systems Software Development Engineer Intern - Annapurna Labs | Toronto, ON, Canada | https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027
@@ -21,7 +19,6 @@ Amazon | Software Engineer Intern - AWS Database | United States | https://amazo
 Amazon | Software Engineer Intern - Machine Learning/Automated Reasoning | 9 locations Boston, MA Seattle, WA Austin, TX Irvine, CA Arlington County, Arlington, VA NYC Bellevue, WA Sunnyvale, CA San Diego, CA | https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027
 Amazon | Software Engineer Intern | 4 locations Seattle, WA Jessup, MD Arlington County, Arlington, VA Denver, CO | https://amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc
 Amazon | Software Engineer Intern | Redmond, WA | https://amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa
-American Express | AI Engineer Intern - Enterprise Technology Services 🎓 | Toronto, ON, Canada | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552
 American Express | Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services | Sunnyvale, CA | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722
 Amplify | Software Engineer Intern | Remote in USA | https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa/application
 AnaVation | Computer Science Intern - Summer 2027 | Chantilly, VA | https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply
@@ -428,9 +425,7 @@ T-Mobile | AI Engineering Intern | Bellevue, WA | https://tmobile.wd1.myworkdayj
 T-Mobile | Software Engineer Intern | Atlanta, GA | https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650
 T-Mobile | Software Engineer Intern | Bellevue, WA | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768
 T-Mobile | Software Engineer Intern | Bellevue, WA | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917
-T-Mobile | Software Engineer Intern | NYC | https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886
 T-Mobile | Software Engineer Intern | Overland Park, KS | https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739
-T-Mobile | Software Engineer Intern | Philadelphia, PA | https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882
 T-Mobile | Software Engineering Intern | Atlanta, GA | https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652
 T-Mobile | Software Engineering Intern | Overland Park, KS | https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734
 T-Mobile | T-Ads Software Engineer Intern | Philadelphia, PA | https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234
@@ -505,7 +500,6 @@ Workday | Software Application Development Engineer Intern | Pleasanton, CA | ht
 Workday | Software Engineer Intern | Pleasanton, CA | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810
 Workshop | Software Engineer Intern | Omaha, NE | https://job-boards.greenhouse.io/workshop/jobs/5237900007
 Xcimer Energy | Computational and Software Engineering Intern | Denver, CO | https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911/apply
-Zebra Technologies | Software Engineer Intern | Holtsville, NY | https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657
 Zillow | Software Development Engineer Intern | Seattle, WA Remote in USA | https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630
 Zipline | Change Management Intern - Summer 2027 | South SF | https://www.zipline.com/open-roles/7991435003
 Zoox | Software Engineer Intern - Software Platforms & Product | Foster City, CA | https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply
