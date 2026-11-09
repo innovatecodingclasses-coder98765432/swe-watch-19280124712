@@ -59,8 +59,8 @@ Burns Engineering | Software Engineer Intern | Pittsburgh, PA | https://www.burn
 CACI | AI Prompt Engineer Intern | Ashburn, VA | https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1
 CACI | Software Development Intern | Ashburn, VA | https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051
 CACI | Software Engineer Intern - Summer 2027 | Remote in USA Sterling, VA Denver, CO | https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999
-CACI | Software Engineer Intern - Summer 2027 | Sarasota, FL | https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618
 CACI | Software Engineer Intern | Omaha, NE | https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776
+CIBC | Associate Technology Leadership Advancement Program Intern 🎓 | Toronto, ON, Canada | https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate-Technology-Leadership-Advancement-Program---Summer-2027_2623078-1
 CVS Health | Innovation & Technology Internship - Software Engineering: Data & Intelligence | NYC | https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114
 CVS Health | Innovation & Technology Software Engineering: Data & Intelligence Intern 🎓 | NYC | https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Graduate_R1081128
 CVS Health | Innovation & Technology Software Engineering: Platform & Applications Intern 🎓 | 4 locations Dallas, TX Scottsdale, AZ Hartford, CT Woonsocket, RI | https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation---Technology-Internship-Software-Engineering--Platform---Applications--Summer-2027-Grad_R1081216
@@ -74,6 +74,7 @@ Capula | Technology Intern | London, UK | https://apply.workable.com/capula-inve
 Category Labs | Research Intern | NYC | https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application
 Charter Manufacturing | Digital Integration Intern | Mequon, WI | https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129
 Church & Dwight | AI Developer Co-op - Graduate Program 🎓 | Ewing Township, NJ | https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686
+Citi | Summer Analyst Intern - Application Development | London, UK | https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Technology---Application-Development--Summer-Analyst--United-Kingdom---London--2027_261007037
 Citi | Technology Analyst Intern - Application Development | Jacksonville, FL | https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418
 Citi | Technology Analyst Intern - Application Development | Mississauga, ON, Canada | https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301
 Citi | Technology Placement Analyst Intern - Application Development | Belfast, UK | https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology---Application-Development--Placement-Analyst--Belfast-2027_261002927
@@ -164,8 +165,9 @@ Gecko Robotics | Full Stack Software Engineer Intern | NYC | https://jobs.ashbyh
 General Dynamics Information Technology | AI Network Engineering Intern | Bossier City, LA | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2
 General Dynamics Information Technology | AI/ML Software Development and Engineering Intern | Bossier City, LA | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939
 General Dynamics Information Technology | Generative AI Software Development Intern | Bossier City, LA | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1
-General Dynamics Information Technology | Software Developer Intern | Egg Harbor Township, NJ | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643
 General Dynamics Information Technology | Software Development Intern | Bossier City, LA | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2
+General Dynamics Mission Systems | Full-Stack Application Development Intern | Chantilly, VA Pittsfield, MA Scottsdale, AZ | https://careers-gdms.icims.com/jobs/75971/job
+General Dynamics Mission Systems | Full-Stack Software Engineer Intern | Chantilly, VA Pittsfield, MA Scottsdale, AZ | https://careers-gdms.icims.com/jobs/75970/job
 General Dynamics Mission Systems | Software Engineer Intern - CWL | Manassas, VA | https://careers-gdms.icims.com/jobs/75346/job
 General Dynamics Mission Systems | Software Engineering Intern | Lakewood, OH | https://careers-gdms.icims.com/jobs/75131/job
 General Dynamics Mission Systems | Software Engineering Intern | Manassas, VA | https://careers-gdms.icims.com/jobs/75128/job
@@ -241,6 +243,7 @@ Intercontinental Exchange | Trading System Development Intern | NYC | https://ic
 Intuit | Marketing Intern - AI Tooling for Marketing Efficiency | SF Mountain View, CA | https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552
 Intuit | Software Engineer Intern - Cybersecurity | Mountain View, CA | https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616
 Inversion Space | AI & Internal Tools Software Engineer Intern | Playa Vista, LA | https://job-boards.greenhouse.io/inversionspace/jobs/4745076005
+Iridium Communications | Software Engineering Intern | Tempe, AZ McLean, VA | https://careers-iridium.icims.com/jobs/5136/job
 JM Family | AI Center of Excellence Delivery Team Intern | Deerfield Beach, FL | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Center-of-Excellence--COE--Delivery-Team-Intern_JR105176
 JM Family | Software Engineer Intern | Deerfield Beach, FL | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182
 JM Family | Software Engineer Intern | Deerfield Beach, FL | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199
@@ -248,14 +251,12 @@ Javelin Global Commodities | Software Engineering Intern | London, UK | https://
 KLA Corporation | Software Engineer Intern - C++ - Linux | Milpitas, CA | https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878
 KLA Corporation | Software Engineer Intern | Austin, TX | https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Engineering-Intern_2642004
 KLA Corporation | Software Engineer Intern | Austin, TX | https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1
-Klaviyo | Software Engineer Intern - Summer 2027 | Boston, MA | https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003
 L.L.Bean | Software Developer Intern | Freeport, ME | https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1
 LSEG | Engineering Intern | Nottingham, UK | https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Engineering-Summer-Internship-Programme_R0124221
 LSEG | Software Engineer Intern | London, UK | https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Software-Engineer_R0124267
 LSEG | Software Engineer Intern | NYC | https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1
 LabCorp | Full-Stack Life Sciences Software Engineer Co-op | Durham, NC Burlington, NC | https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083
 Lawrence Livermore National Laboratory (LLNL) | Defense Science and Technology Intern | Livermore, CA | https://jobs.smartrecruiters.com/LLNL/3743990015740565
-Leidos | Software Engineering & AI Intern | Remote in USA Shiloh, IL Odenton, MD | https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220
 Lennox International | IoT Intern 🎓 | Richardson, TX | https://uscareers-lennox.icims.com/jobs/54893/job
 Leonardo | Software Engineer Intern | Edinburgh, UK | https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Software-Engineer_R0033869-1
 Leonardo | Software Engineer Intern | Newcastle upon Tyne, UK | https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Summer-Placement-Software-Engineer_R0033874
@@ -318,7 +319,6 @@ Pacific Life | Software Engineering Intern | Newport Beach, CA | https://pacific
 Papa John's | Digital Development Intern | Atlanta, GA | https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155
 Parallel Wireless | PHY Software Engineer Intern | Bristol, UK | https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426/apply
 ParetoHealth | Software Engineer Intern | Philadelphia, PA | https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006
-Parsons | Software Engineer Intern | Huntsville, AL | https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299
 Patreon | Software Engineer Intern | NYC | https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application
 Patreon | Software Engineer Intern | SF NYC | https://jobs.ashbyhq.com/patreon/71f644bc-0873-4d62-a599-bd64405d6587/application
 PayPal | Mobile Engineer Intern | 5 locations Austin, TX San Jose, CA Chicago, IL Omaha, NE Scottsdale, AZ | https://paypal.eightfold.ai/careers/job/274922982818
@@ -358,7 +358,6 @@ Resideo | Mobile Software Engineer Intern | Austin, TX | https://ehtl.fa.us6.ora
 Riot Games | Software Engineer Intern | LA | https://www.riotgames.com/en/work-with-us/job/8222014
 Rippling | Full Stack Software Engineer Intern | Seattle, WA SF NYC | https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262
 Rippling | Software Engineer Intern - Backend Focused | Seattle, WA SF NYC | https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba
-Riverside Research | Software Applications Intern | Fairborn, OH | https://careers-riversideresearch.icims.com/jobs/4461/job
 Rockwell Automation | AI Software Engineer Intern | Mayfield Heights, OH Milwaukee, WI | https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980
 Rockwell Automation | AI Software Engineer Intern | Mayfield Heights, OH Milwaukee, WI | https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1
 Rockwell Automation | AI Software Engineering Co-op - 6 months - 8 months | Mayfield Heights, OH Milwaukee, WI | https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982
