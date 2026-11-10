@@ -27,7 +27,6 @@ Anduril | Business Operations Engineer Intern | Ashville, OH Costa Mesa, CA | ht
 Anduril | Software Engineer Intern | London, UK | https://boards.greenhouse.io/andurilindustries/jobs/5255902007
 Aon | IT / AI Engineer Intern | Chicago, IL | https://jobs.aon.com/jobs/110099
 Arc | Software Engineer Intern | Torrance, CA | https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008
-Arch Capital Group | Originations Portal IT Intern | Greensboro, NC | https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135
 Arconic | Software Developer Intern | Davenport, IA | https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233
 Armadin | Frontend Engineer Intern - Member of Technical Staff | Palo Alto, CA | https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application
 Arondite | Software Engineer Intern | London, UK | https://apply.workable.com/arondite/j/D3211449EF/apply
@@ -220,7 +219,6 @@ Hive Financial Systems | Software Engineer Intern | Atlanta, GA | https://job-bo
 Hiya | Engineer Intern | London, UK | https://jobs.ashbyhq.com/hiya/046212dd-41e3-46e7-a8ba-48cff5a7f947/application
 Honeywell | Software Engineer Co-op | Pittsford, NY | https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158088
 Honeywell | Software Engineering Co-op | United States | https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957
-Humana | Technology Intern - Society of Women Engineers Conference | Louisville, KY | https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027---Society-of-Women-Engineers-Conference-2026_R-433228
 Huntington Ingalls Industries | Computer Engineering Intern | Pascagoula, MS | https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/
 IDEMIA | Engineering Intern | Reston, VA | https://uscareers-idemia.icims.com/jobs/8647/job
 IDEMIA | Software Engineer Intern | Reston, VA | https://uscareers-idemia.icims.com/jobs/8650/job
@@ -257,6 +255,7 @@ Javelin Global Commodities | Software Engineering Intern | London, UK | https://
 KLA Corporation | Software Engineer Intern - C++ - Linux | Milpitas, CA | https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878
 KLA Corporation | Software Engineer Intern | Austin, TX | https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Engineering-Intern_2642004
 KLA Corporation | Software Engineer Intern | Austin, TX | https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1
+Klaviyo | AI Engineer Intern | Boston, MA | https://jobs.ashbyhq.com/f40d14d9-07f4-403d-802b-37453deccf0a/d1752b32-eebe-4edd-9e51-3ef06a3b75a2/application
 L.L.Bean | Software Developer Intern | Freeport, ME | https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1
 LSEG | Engineering Intern | Nottingham, UK | https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Engineering-Summer-Internship-Programme_R0124221
 LSEG | Software Engineer Intern | London, UK | https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Software-Engineer_R0124267
@@ -314,7 +313,6 @@ Northrop Grumman | Software Engineer Intern | Colorado Springs, CO | https://ngc
 Northrop Grumman | Software Engineer Intern | Colorado Springs, CO | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803
 Notion | Software Engineer Intern - Frontend | NYC | https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413/application
 Notion | Software Engineer Intern - iOS | NYC | https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947/application
-Nutanix | Software Engineer Intern | Cambridge, UK | https://jobs.jobvite.com/nutanix/job/otr1Afwf
 Obsidian Entertainment | Gameplay Engineer Intern | Irvine, CA | https://obsidian.applytojob.com/apply/zxhj1ePGcR/Gameplay-Engineer-2027-Summer-Internship
 OneEthos | Research and Development Intern | Remote in USA | https://job-boards.greenhouse.io/oneethos/jobs/4459193009
 Overland AI | Software Engineering Intern | Seattle, WA | https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e
@@ -435,9 +433,7 @@ T-Mobile | Software Engineer Intern | Atlanta, GA | https://tmobile.wd1.myworkda
 T-Mobile | Software Engineer Intern | Bellevue, WA | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768
 T-Mobile | Software Engineer Intern | Bellevue, WA | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917
 T-Mobile | Software Engineer Intern | Overland Park, KS | https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739
-T-Mobile | Software Engineering Intern | Atlanta, GA | https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652
 T-Mobile | Software Engineering Intern | Overland Park, KS | https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734
-T-Mobile | T-Ads Software Engineer Intern | Philadelphia, PA | https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234
 TD Bank | Technology Intern | Belfast, UK | https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518241
 TD Bank | Technology Intern | London, UK | https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239
 TELUS Digital | Software Engineering Intern Co-op | Vancouver, BC, Canada | https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2/application
@@ -463,6 +459,7 @@ Tinder | Backend Engineer Intern | Palo Alto, CA LA | https://jobs.lever.co/matc
 Tinder | iOS Engineer Intern | Palo Alto, CA LA | https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply
 Tower Research Capital | Software Developer Intern | Montreal, QC, Canada | https://www.tower-research.com/open-positions/
 Tria Federal | Growth Operations Intern | Arlington County, Arlington, VA | https://triafed.com/jobs/
+Trilogy Health Services | Information Systems Developer of AI and Automated Solutions Intern | Louisville, KY | https://jobs.trilogyhs.com/jobs/214624
 Tyler Technologies | Software Developer Intern | Orono, ME | https://jobs.jobvite.com/tylertech/job/ouQXAfwB
 Tyler Technologies | Software Development Intern - Summer 2027 | Plano, TX | https://jobs.jobvite.com/tylertech/job/oMAPAfwv
 Tyler Technologies | Software Development Intern | Lawrenceville, GA | https://jobs.jobvite.com/tylertech/job/oAVOAfwD
@@ -498,7 +495,6 @@ Wellmark | Software Engineer Intern - AI Platform Team | Des Moines, IA | https:
 Wellmark | Software Engineer Intern - Metadata Enablement Team | Des Moines, IA | https://jobs.smartrecruiters.com/WellmarkInc/744000152679699
 Wellmark | Software Engineer Intern - Technology Health Plan | Des Moines, IA | https://jobs.smartrecruiters.com/WellmarkInc/744000156043218
 Wellmark | Software Engineer Intern - Technology Healthcare Innovation | Des Moines, IA | https://jobs.smartrecruiters.com/WellmarkInc/744000150732768
-Wellmark | Software Engineer Intern | Des Moines, IA | https://jobs.smartrecruiters.com/WellmarkInc/744000148915793
 Wellmark | Software Engineer Intern | Des Moines, IA | https://jobs.smartrecruiters.com/WellmarkInc/744000149684819
 Wells Fargo | Software Engineer Intern | London, UK | https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/Technology-Internship-Program_R-581607
 Westinghouse Electric Company | Software Engineering Intern | Warrendale, PA | https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Software-Engineering-OR/1442826200/
