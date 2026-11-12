@@ -31,7 +31,6 @@ Arconic | Software Developer Intern | Davenport, IA | https://hdnn.fa.us6.oracle
 Armadin | Frontend Engineer Intern - Member of Technical Staff | Palo Alto, CA | https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application
 Arondite | Software Engineer Intern | London, UK | https://apply.workable.com/arondite/j/D3211449EF/apply
 Arrowstreet Capital | Software Engineer Intern | Boston, MA | https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561
-Art of Problem Solving | Software Engineer Intern | San Diego, CA | https://artofproblemsolving.com/careers/job/8199296003
 AspenTech | Software Development Intern | Medina, MN | https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456
 Assurant | Software Engineer Intern | Miami, FL Chicago, IL Atlanta, GA | https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1
 Astranis | Backend Software Engineer Intern - Summer 2027 | SF | https://job-boards.greenhouse.io/astranis/jobs/4705214006
@@ -162,7 +161,6 @@ Formulary Financial | Software Engineer Intern | NYC | https://jobs.ashbyhq.com/
 G-Research | Software Engineer Intern | London, UK | https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineering-Intern_R3746
 GCM Grosvenor | Software Engineer Intern | Chicago, IL | https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003
 GM financial | Software Development Engineer Intern | Arlington, TX | https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795
-GM financial | Software Development Engineer Intern | Arlington, TX | https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260818
 Garda Capital Partners | Software Engineer Intern - C# | Wayzata, MN | https://job-boards.greenhouse.io/gardacp/jobs/6238021004
 Gearset | Software Engineer Intern | Cambridge, UK | https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f/application
 Gecko Robotics | Full Stack Software Engineer Intern | NYC | https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082/application
@@ -304,6 +302,13 @@ Nelnet | IT Software Engineer Intern | Lincoln, NE | https://nelnet.wd1.myworkda
 Netflix | Software Engineer Intern | LA Los Gatos, CA | https://explore.jobs.netflix.net/careers/job/790318904468
 Newell Brands | Sales AI & Analytics Developer Intern | Huntersville, NC | https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/
 Nex | Software Engineer Intern - Sports & Fitness - Game Development | San Jose, CA | https://job-boards.greenhouse.io/nex/jobs/5421056008
+Nintendo | Software Engineer Intern - Audio | Redmond, WA | https://careers.nintendo.com/
+Nintendo | Software Engineer Intern - CPU Debugger - NTD | Redmond, WA | https://careers.nintendo.com/
+Nintendo | Software Engineer Intern - CPU Profiler | Redmond, WA | https://careers.nintendo.com/
+Nintendo | Software Engineer Intern - Connectivity | Redmond, WA | https://careers.nintendo.com/
+Nintendo | Software Engineer Intern - Graphics | Redmond, WA | https://careers.nintendo.com/
+Nintendo | Software Engineer Intern - Performance Tools | Redmond, WA | https://careers.nintendo.com/
+Nintendo | Software Engineer Intern - Platform Security | Redmond, WA | https://careers.nintendo.com/
 Nissan Global | AI Agent Architect Intern | Farmington Hills, MI | https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Farmington-Hills-Michigan---United-States-of-America/AI-Agent-Architect---Summer-2027---Farmington-Hills--MI_R00214218
 Nissan Global | EA & Cloud Intern | Franklin, TN | https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214
 Nissan Global | Financial AI Engineer Intern | Franklin, TN | https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241
@@ -353,6 +358,7 @@ REGENT | Mission Software Engineering Intern 🎓 | North Kingstown, RI | https:
 RTX | Aftermarket & Sustainment Engineering Methods Engineering Intern | East Hartford, CT | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aftermarket---Sustainment-Engineering-Methods-Engineering-Intern--Summer-2027--Onsite-_01887864
 RTX | Software Engineer Intern | Cedar Rapids, IA | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineering-Intern--Summer-2027-_01888055
 RTX | Software Engineer Intern | Richardson, TX | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049
+RTX | Software Engineer Intern | West Valley City, UT | https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446-1
 Radiance Technologies | Modeling Engineer Intern - Analytics - Simulation Sciences | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102439
 Radiance Technologies | Modeling Engineer Intern - Analytics and Simulation Sciences | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102438
 Radiance Technologies | Modeling Engineer Intern - Analytics, Simulation Sciences, Mass | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1
@@ -411,6 +417,7 @@ Scout Motors | Digital Products Intern | Charlotte, NC | https://job-boards.gree
 ServiceNow | AI Engineering Associate Software Engineer Intern | 4 locations Santa Clara, CA West Palm Beach, FL Kirkland, WA San Diego, CA | https://jobs.smartrecruiters.com/ServiceNow/744000155345889
 ServiceNow | Software Engineer Intern 🎓 | 4 locations Santa Clara, CA West Palm Beach, FL Kirkland, WA San Diego, CA | https://jobs.smartrecruiters.com/ServiceNow/744000155345689
 Shield AI | Engineer 2 New Grad - Multiple Teams | Washington, DC | https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff/apply
+Shield AI | Engineer 2 New Grad - Software - Autonomy Capabilities | United States | https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/24de5a65-86ce-4269-ad26-0a3e85b42eec/application
 Shield AI | Engineer 2 New Grad - Software - Autonomy Capabilities | United States | https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application
 Shield AI | Software Engineer Co-op Intern | 4 locations Seattle, WA Washington, DC Dallas, TX San Diego, CA | https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949/apply
 Shield AI | Software Engineer Intern Co-op | Dallas, TX | https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2/application
@@ -438,7 +445,6 @@ Synchrony Financial | Digital Technology Center Intern | Stamford, CT | https://
 T-Mobile | AI Engineering Intern | Bellevue, WA | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765
 T-Mobile | AI Engineering Intern | Bellevue, WA | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381198
 T-Mobile | Software Engineer Intern - T-Ads | Philadelphia, PA | https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219
-T-Mobile | Software Engineer Intern | Atlanta, GA | https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650
 T-Mobile | Software Engineer Intern | Bellevue, WA | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768
 T-Mobile | Software Engineer Intern | Bellevue, WA | https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917
 T-Mobile | Software Engineer Intern | Overland Park, KS | https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739
@@ -463,6 +469,7 @@ The New York Times | Interactive News Engineer Intern | NYC | https://job-boards
 The New York Times | iOS Engineer Intern | NYC | https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005
 The Toro Company | Cloud Software Developer Intern | Frederick, CO | https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498
 Thrivent | Application Engineer Intern - Investments | Minneapolis, MN | https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2
+TikTok | Software Engineer Intern - TikTok Search 🎓 | San Jose, CA | https://lifeattiktok.com/search/7704696088079010053
 TikTok | Software Engineer Intern 🎓 | San Jose, CA | https://lifeattiktok.com/search/7705012688944810245
 Tinder | Android Engineer Intern | LA | https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d/apply
 Tinder | Backend Engineer Intern | Palo Alto, CA LA | https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply
