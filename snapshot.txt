@@ -55,7 +55,6 @@ Booz Allen | Systems Engineer Intern - Summer Games | Detroit, MI | https://bah.
 Booz Allen | Systems Engineer Intern | Albuquerque, NM | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games--Systems-Engineer-Intern---Albuquerque--NM_R0252337
 Booz Allen | Systems Engineer Intern | Dayton, OH | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games--Systems-Engineer-Intern---Dayton--OH_R0252342
 Boston Consulting Group | Forward Deployed AI Engineer Intern 🎓 | 4 locations Boston, MA LA Chicago, IL NYC | https://careers.bcg.com/global/en/job/59702
-Brex | Software Engineer Intern | SF | https://www.brex.com/careers/8936403002
 Burns Engineering | Software Engineer Intern | Pittsburgh, PA | https://www.burns-group.com/careers/current-openings/
 CACI | AI Prompt Engineer Intern | Ashburn, VA | https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1
 CACI | Software Development Intern | Ashburn, VA | https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051
@@ -366,7 +365,6 @@ Radiance Technologies | Modeling Engineer Intern - Analytics - Simulation Scienc
 Radiance Technologies | Modeling Engineer Intern - Analytics and Simulation Sciences | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102438
 Radiance Technologies | Modeling Engineer Intern - Analytics, Simulation Sciences, Mass | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1
 Radiance Technologies | Modeling Engineer Intern - Analytics, Simulation Sciences, Mass | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102441
-Radiance Technologies | Software Engineer Intern | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102563
 Radiance Technologies | Software Engineer Intern | Dayton, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102443
 Relay | Software Engineer Intern - Device Team | Raleigh, NC | https://job-boards.greenhouse.io/relaypro/jobs/8180836
 Riot Games | Technical Game Design Intern - League of Legends and Teamfight Tactics | LA | https://www.riotgames.com/en/work-with-us/job/8356525
@@ -411,7 +409,6 @@ SOTI | Software Developer Intern - Server | Mississauga, ON, Canada | https://so
 SOTI | Software Developer Intern | Mississauga, ON, Canada | https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650
 SOTI | Software Developer Intern | Mississauga, ON, Canada | https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611
 SOTI | Software Developer Intern | Mississauga, ON, Canada | https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677
-SailPoint | Software Engineer Intern - Platform Engines | Remote in UK | https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164
 Salesforce | Software Engineer Intern | SF Bellevue, WA | https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1
 Salesforce | Software Engineer Intern | SF Bellevue, WA | https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911
 Scale AI | Software Engineer Intern - Summer 2027 | London, UK | https://job-boards.greenhouse.io/scaleai/jobs/4730846005
@@ -424,9 +421,7 @@ Shield AI | Engineer 2 New Grad - Software - Autonomy Capabilities | United Stat
 Shield AI | Software Engineer Co-op Intern | 4 locations Seattle, WA Washington, DC Dallas, TX San Diego, CA | https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949/apply
 Shield AI | Software Engineer Intern Co-op | Dallas, TX | https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2/application
 Shield AI | Software Engineer Intern Co-op | Dallas, TX | https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2/application
-Shield AI | Software Engineer Intern | San Diego, CA | https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036/application
 Shield AI | Software Engineer Intern | San Diego, CA | https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/db04c516-d21a-449c-8bfd-1cf830eafb5a/application
-Shield AI | Software Engineer Intern | San Diego, CA | https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036/application
 Shield AI | Software Engineer Intern | San Diego, CA | https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application
 Sierra Nevada Corporation | Software Engineer Intern | Southern Pines, NC | https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031229
 Sierra Nevada Corporation | Software Engineer Intern | Southern Pines, NC | https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230
@@ -473,7 +468,6 @@ Tinder | Android Engineer Intern | LA | https://jobs.lever.co/matchgroup/f0e2949
 Tinder | Backend Engineer Intern | Palo Alto, CA LA | https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply
 Tinder | iOS Engineer Intern | Palo Alto, CA LA | https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply
 Tower Research Capital | Software Developer Intern | Montreal, QC, Canada | https://www.tower-research.com/open-positions/
-Tria Federal | Growth Operations Intern | Arlington County, Arlington, VA | https://triafed.com/jobs/
 Trilogy Health Services | Information Systems Developer of AI and Automated Solutions Intern | Louisville, KY | https://jobs.trilogyhs.com/jobs/214624
 Tyler Technologies | Software Developer Intern | Orono, ME | https://jobs.jobvite.com/tylertech/job/ouQXAfwB
 Tyler Technologies | Software Development Intern - Summer 2027 | Plano, TX | https://jobs.jobvite.com/tylertech/job/oMAPAfwv
