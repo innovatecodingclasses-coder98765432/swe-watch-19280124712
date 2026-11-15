@@ -39,6 +39,7 @@ Bedrock Robotics | Software Engineer Intern - Fleet Platform | NYC | https://job
 Biodesix | AI Research & Development Intern | Louisville, CO | https://www.biodesix.com/careers/current-openings
 Biodesix | Software Development Intern | Louisville, CO | https://www.biodesix.com/careers/current-openings
 Blackhawk Network Holdings | Technology Intern | Coppell, TX | https://careers-blackhawknetwork.icims.com/jobs/26866/job
+Blizzard Entertainment | Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering | Irvine, CA | https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350
 Booz Allen | Software Developer Intern - University - Summer Games | Dayton, OH | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345
 Booz Allen | Software Developer Intern | Albuquerque, NM | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games-Software-Developer-Intern---Albuquerque--NM_R0252335
 Booz Allen | Software Developer Intern | Lexington, MA | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Software-Developer-Intern---Lexington--MA_R0252274
@@ -159,6 +160,7 @@ General Motors | AI/ML Engineer Intern - Autonomous Vehicles | Seattle, WA Sunny
 General Motors | Autonomous Driving Software Engineer Intern | Sunnyvale, CA | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064
 General Motors | Software Engineer Intern - Digital Product: Software Engineering | 4 locations Austin, TX Milford, MI Mountain View, CA Warren, MI | https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546
 Genesis Molecular AI | Software Engineer Intern | San Mateo, CA NYC | https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99/application
+Genesys | Web Software Developer Intern - WFM | Toronto, ON, Canada | https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3
 Genius AI | Engineering Intern | NYC | https://jobs.ashbyhq.com/geniusai/06198681-5c9d-40fa-aa68-ac92b65227c4/application
 Google | Forward Deployed Engineer Intern | London, UK | https://www.google.com/about/careers/applications/jobs/results/135156989620560582
 Google | Forward Deployed Engineer Intern | NYC Sunnyvale, CA | https://www.google.com/about/careers/applications/jobs/results/75665705386549958
@@ -221,7 +223,6 @@ Intercontinental Exchange | Trading System Development Intern | NYC | https://ic
 Intuit | Marketing Intern - AI Tooling for Marketing Efficiency | SF Mountain View, CA | https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552
 Inversion Space | AI & Internal Tools Software Engineer Intern | Playa Vista, LA | https://job-boards.greenhouse.io/inversionspace/jobs/4745076005
 Iridium Communications | Software Engineering Intern | Tempe, AZ McLean, VA | https://careers-iridium.icims.com/jobs/5136/job
-JM Family | Software Engineer Intern | Deerfield Beach, FL | https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199
 JMP Statistical Discovery | C++ Software Development Intern | Cary, NC | https://jmp-sas.icims.com/jobs/46960/job
 Javelin Global Commodities | Software Engineering Intern | London, UK | https://apply.workable.com/javelin-global-commodities/j/CAF64E75BF/apply
 KLA Corporation | Software Engineer Intern - C++ - Linux | Milpitas, CA | https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878
