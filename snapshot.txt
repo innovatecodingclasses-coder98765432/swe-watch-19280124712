@@ -96,7 +96,6 @@ CrowdStrike | Intelligence Launch Intern | London, UK Reading, UK | https://crow
 DP World | Application Analyst Intern | Itasca, IL | https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400
 Databricks | Software Engineer Intern | 4 locations SF Bellevue, WA Mountain View, CA Vancouver, BC, Canada | https://boards.greenhouse.io/embed/job_app
 Databricks | Software Engineer Intern | London, UK | https://boards.greenhouse.io/embed/job_app
-Decagon | Engineering Intern | SF | https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b/application
 Deeplocal | Creative Technology Intern | Pittsburgh, PA | https://job-boards.greenhouse.io/deeplocal/jobs/8360330
 DoorDash | Operations Research Intern 🎓 | Sunnyvale, CA | https://job-boards.greenhouse.io/doordashusa/jobs/8273965
 DoorDash | Software Engineer Intern | SF Sunnyvale, CA | https://job-boards.greenhouse.io/doordashusa/jobs/8263774
@@ -325,7 +324,6 @@ Radiance Technologies | Modeling Engineer Intern - Analytics and Simulation Scie
 Radiance Technologies | Modeling Engineer Intern - Analytics, Simulation Sciences, Mass | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1
 Radiance Technologies | Modeling Engineer Intern - Analytics, Simulation Sciences, Mass | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102441
 Radiance Technologies | Software Engineer Intern | Dayton, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102443
-Relay | Software Engineer Intern - Device Team | Raleigh, NC | https://job-boards.greenhouse.io/relaypro/jobs/8180836
 Rippling | Full Stack Software Engineer Intern | Seattle, WA SF NYC | https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262
 Rippling | Software Engineer Intern - Backend Focused | Seattle, WA SF NYC | https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba
 Riverside Research | Software Applications Intern | Fairborn, OH | https://careers-riversideresearch.icims.com/jobs/4461/job
@@ -384,6 +382,7 @@ Skydio | Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/sky
 Smith+Nephew | Robotics Software Engineer Intern | Pittsburgh, PA | https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482
 Staples | Software Engineer Intern - Marketplace Platform 🎓 | Framingham, MA | https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77076
 Staples | Software Engineer Intern - SDS e-Commerce Team | Framingham, MA | https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133
+Steel | Software Engineer Intern | Toronto, ON, Canada | https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application
 Stripe | Software Engineer Intern | Seattle, WA SF | https://stripe.com/jobs/search
 Synchrony Financial | Digital Technology Center Intern | Stamford, CT | https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661
 T-Mobile | Software Engineer Intern - T-Ads | Philadelphia, PA | https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219
@@ -415,7 +414,6 @@ Tria Federal | Growth Operations Intern | Arlington County, Arlington, VA | http
 Trilogy Health Services | Information Systems Developer of AI and Automated Solutions Intern | Louisville, KY | https://jobs.trilogyhs.com/jobs/214624
 Tyler Technologies | Software Developer Intern | Orono, ME | https://jobs.jobvite.com/tylertech/job/ouQXAfwB
 Tyler Technologies | Software Development Intern - Summer 2027 | Plano, TX | https://jobs.jobvite.com/tylertech/job/oMAPAfwv
-Tyler Technologies | Software Development Intern - Summer 2027 | Yarmouth, ME Orono, ME Falmouth, ME | https://jobs.jobvite.com/tylertech/job/oxAPAfwg
 Tyler Technologies | Software Development Intern | Lawrenceville, GA | https://jobs.jobvite.com/tylertech/job/oAVOAfwD
 Tyler Technologies | Software Development Intern | Troy, MI Overland Park, KS | https://jobs.jobvite.com/tylertech/job/oQFRAfwG
 Udig | Software Engineer Intern | Nashville, TN Richmond, VA | https://udig.com/careers/job-listing/
@@ -441,7 +439,6 @@ W.R. Berkley | Software Developer Intern - Java | Urbandale, IA | https://career
 WTW | Software Developer Intern | Reigate, UK | https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435
 Waymo | Depot Automation Intern 🎓 | SF | https://careers.withwaymo.com/jobs
 Waymo | Intern 🎓 | Mountain View, CA | https://careers.withwaymo.com/jobs
-Waymo | Quantitative Software Engineer Intern 🎓 | SF Mountain View, CA | https://careers.withwaymo.com/jobs
 Waymo | Scenes Intern | Mountain View, CA | https://careers.withwaymo.com/jobs
 Waymo | Software Engineer Intern - MS/PhD 🎓 | Mountain View, CA | https://careers.withwaymo.com/jobs
 Waymo | Software Engineer Intern - Simulation Evaluation ML Model 🎓 | Mountain View, CA | https://careers.withwaymo.com/jobs
