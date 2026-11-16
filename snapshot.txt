@@ -73,7 +73,6 @@ Category Labs | Research Intern | NYC | https://jobs.ashbyhq.com/category-labs/2
 Charter Manufacturing | Digital Integration Intern | Mequon, WI | https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129
 Chatham Financial | Software Engineer Intern | Denver, CO | https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Denver/XMLNAME-2027-Software-Engineering-Intern_R-100349
 Chatham Financial | Software Engineer Intern | Kennett Square, PA | https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348
-Church & Dwight | AI Developer Co-op - Graduate Program 🎓 | Ewing Township, NJ | https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686
 Citi | Summer Analyst Intern - Application Development | London, UK | https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Technology---Application-Development--Summer-Analyst--United-Kingdom---London--2027_261007037
 Citi | Technology Analyst Intern - Application Development | Jacksonville, FL | https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418
 Citi | Technology Analyst Intern - Application Development | Mississauga, ON, Canada | https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301
@@ -340,11 +339,7 @@ Rothesay | Software Engineer Intern | London, UK | https://job-boards.greenhouse
 Royal Bank of Canada | Developer Intern - RBC Amplify | Montreal, QC, Canada | https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1
 Royal Bank of Canada | Developer Intern | Calgary, AB, Canada | https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1
 Royal Bank of Canada | Developer Intern | Calgary, AB, Canada | https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202
-Royal Bank of Canada | Developer Intern | Montreal, QC, Canada | https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206
-Royal Bank of Canada | Developer Intern | Toronto, ON, Canada | https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114-1
 Royal Bank of Canada | Developer Intern | Toronto, ON, Canada | https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1
-Royal Bank of Canada | Developer Intern | Toronto, ON, Canada | https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114
-Royal Bank of Canada | Developer Intern | Toronto, ON, Canada | https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193
 Royal Bank of Canada | Developer Intern | Vancouver, BC, Canada | https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199
 Royal Bank of Canada | Developer Intern | Vancouver, BC, Canada | https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199-2
 Ryan | Application Development Intern - Application Development | Burlington, VT | https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Burlington/Summer-2027-Intern--Application-Development_R0020810-1
@@ -379,7 +374,6 @@ Skydio | Frontend Software Engineer Intern | San Mateo, CA | https://jobs.ashbyh
 Skydio | Middleware Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application
 Skydio | Mobile Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application
 Skydio | Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application
-Smith+Nephew | Robotics Software Engineer Intern | Pittsburgh, PA | https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482
 Staples | Software Engineer Intern - Marketplace Platform 🎓 | Framingham, MA | https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77076
 Staples | Software Engineer Intern - SDS e-Commerce Team | Framingham, MA | https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133
 Steel | Software Engineer Intern | Toronto, ON, Canada | https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application
@@ -419,7 +413,6 @@ Tyler Technologies | Software Development Intern | Troy, MI Overland Park, KS | 
 Udig | Software Engineer Intern | Nashville, TN Richmond, VA | https://udig.com/careers/job-listing/
 UiPath | Software Engineer Intern | Bellevue, WA | https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04/application
 Uline | Software Developer Intern | 5 locations Waukegan, IL Milwaukee, WI Glenview, IL Pleasant Prairie, WI Kenosha, WI | https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537
-Vanguard | Co-op - Multiple Teams | Dallas, TX | https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/DallasFt-Worth-TX/XMLNAME-2027-Spring-Summer-Co-op-Opportunities---Dallas_182410
 Vanguard | College to Corporate IT Intern - Application Development | Malvern, PA | https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757
 Vanguard | College to Corporate Investment Systems Intern | Malvern, PA | https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782
 Vanguard | IT Intern Application Development | Charlotte, NC | https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781
