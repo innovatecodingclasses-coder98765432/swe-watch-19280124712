@@ -12,7 +12,6 @@ Allstate | Software Engineer Intern | North Carolina | https://allstate.wd5.mywo
 Amazon | Database Engineer Intern | Seattle, WA East Palo Alto, CA | https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027
 Amazon | Software Developer Intern | 4 locations London, UK Edinburgh, UK Bristol, UK Cambridge, UK | https://amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom
 Amazon | Software Development Engineer Intern - Summer 2027 | Vancouver, BC, Canada | https://amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can
-Amazon | Software Development Engineer Intern - Summer | Seattle, WA Arlington County, Arlington, VA | https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa
 Amazon | Software Engineer Intern - AWS Database | United States | https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us
 Amazon | Software Engineer Intern - Machine Learning/Automated Reasoning | 9 locations Boston, MA Seattle, WA Austin, TX Irvine, CA Arlington County, Arlington, VA NYC Bellevue, WA Sunnyvale, CA San Diego, CA | https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027
 Amazon | Software Engineer Intern | 4 locations Seattle, WA Jessup, MD Arlington County, Arlington, VA Denver, CO | https://amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc
@@ -59,7 +58,6 @@ CVS Health | Innovation & Technology Internship - Software Engineering: Data & I
 CVS Health | Innovation & Technology Software Engineering: Data & Intelligence Intern 🎓 | NYC | https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Graduate_R1081128
 CVS Health | Innovation & Technology Software Engineering: Platform & Applications Intern 🎓 | 4 locations Dallas, TX Scottsdale, AZ Hartford, CT Woonsocket, RI | https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation---Technology-Internship-Software-Engineering--Platform---Applications--Summer-2027-Grad_R1081216
 CVS Health | Software Engineer Intern - Platform & Applications | 4 locations Dallas, TX Scottsdale, AZ Hartford, CT Woonsocket, RI | https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193
-Cadence Solutions | Software Engineer Intern | Remote in USA | https://job-boards.greenhouse.io/solutions/jobs/4711210006
 Cambridge Consultants | Cloud Software Engineer Intern | United Kingdom | https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4988184101
 Cantor Fitzgerald | Technology Summer Internship - Development | London, UK | https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250537
 CapTech Consulting | Consulting Software Engineer Intern | Richmond, VA | https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115
@@ -298,7 +296,6 @@ Peraton | Software Developer Intern | Topeka, KS | https://peraton.jibeapply.com
 Peraton | Software Development Intern | Topeka, KS | https://careers-peraton.icims.com/jobs/172061/job
 Peraton | Software Engineering Co-op | San Diego, CA | https://careers-peraton.icims.com/jobs/171547/job
 Peraton | Software Engineering Co-op | San Diego, CA | https://peraton.jibeapply.com/jobs/171547
-Philips | AI & Analytics Analyst Intern | Nashville, TN | https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012
 Pinterest | Software Engineer Intern | SF Remote in USA | https://www.pinterestcareers.com/jobs/
 Point72 | Software Engineer Intern | NYC | https://boards.greenhouse.io/point72/jobs/8885733002
 Procter & Gamble | IT Technical Specialist Intern | Newcastle upon Tyne, UK | https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/IT-Technical-Specialist-Industrial-Placement-2027_R000160302
@@ -361,7 +358,6 @@ Shield AI | Software Engineer Intern | San Diego, CA | https://jobs.ashbyhq.com/
 Shield AI | Software Engineer Intern | San Diego, CA | https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application
 Shopify | Software Engineer Intern | Montreal, QC, Canada Toronto, ON, Canada Ottawa, ON, Canada | https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a
 Sierra Nevada Corporation | Software Engineer Intern | Southern Pines, NC | https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031229
-Sierra Nevada Corporation | Software Engineer Intern | Southern Pines, NC | https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230
 Sigma Computing | Software Engineer Intern - Summer 2027 | SF NYC | https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003
 Sigma Computing | Software Engineer Intern | NYC | https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003
 Signifyd | Engineering Intern | Belfast, UK | https://job-boards.greenhouse.io/signifyd95/jobs/8240551
@@ -369,18 +365,16 @@ Skydio | Frontend Software Engineer Intern | San Mateo, CA | https://jobs.ashbyh
 Skydio | Middleware Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application
 Skydio | Mobile Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application
 Skydio | Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application
+Soros Fund Management | Trading Intern - Middle and Back Office Dev | NYC | https://job-boards.greenhouse.io/familyoffice/jobs/8202862003
 Staples | Software Engineer Intern - Marketplace Platform 🎓 | Framingham, MA | https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77076
 Staples | Software Engineer Intern - SDS e-Commerce Team | Framingham, MA | https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133
 Steel | Software Engineer Intern | Toronto, ON, Canada | https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application
 Stripe | Software Engineer Intern | Seattle, WA SF | https://stripe.com/jobs/search
 Synchrony Financial | Digital Technology Center Intern | Stamford, CT | https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661
-T-Mobile | Software Engineer Intern - T-Ads | Philadelphia, PA | https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219
-T-Mobile | Software Engineer Intern | Philadelphia, PA | https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225
 TC Energy | Intelligent Operations Technology Intern | Spokane, WA | https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Spokane-Washington/Intern--Intelligent-Operations-Technology_JR-10919
 TD Bank | Technology Intern | Belfast, UK | https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518241
 TD Bank | Technology Intern | London, UK | https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239
 TELUS Digital | Software Engineering Intern Co-op | Vancouver, BC, Canada | https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2/application
-TRC Companies | Software Engineer Intern | Calgary, AB, Canada | https://careers.trccompanies.com/jobs/26840
 Thales | Software Engineering Apprentice | Cheadle, UK | https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Apprentice_R0337863
 The Aerospace Corporation | Software Engineering Intern - Software Tools and Assurance 🎓 | El Segundo, CA | https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753
 The Federal Reserve System | Computer Science and Software Engineering Intern | Chicago, IL | https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637
