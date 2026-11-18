@@ -8,6 +8,7 @@ Addepar | Software Engineer Intern | NYC | https://job-boards.greenhouse.io/adde
 Adobe | AI & Architecture Intern | San Jose, CA | https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998
 Affirm | IT Engineer Intern - Early Careers | SF | https://job-boards.greenhouse.io/affirm/jobs/8011375003
 Affirm | Software Engineer Intern - Summer 2027 | SF | https://job-boards.greenhouse.io/affirm/jobs/8011590003
+Airbnb | Software Engineer Intern | SF | https://careers.airbnb.com/positions/8360478
 Allstate | Software Engineer Intern | North Carolina | https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266
 Amazon | Software Developer Intern | 4 locations London, UK Edinburgh, UK Bristol, UK Cambridge, UK | https://amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom
 Amazon | Software Engineer Intern - AWS Database | United States | https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us
@@ -118,7 +119,6 @@ Electronic Arts | Software Engineer Tools Intern | Birmingham, UK | https://jobs
 Enovation Controls | Manufacturing Software Engineer Intern | Tulsa, OK | https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416
 Entegris | Filtration Portfolio Automation Intern | Billerica, MA | https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Filtration-Portfolio-Automation-Intern_REQ-15840
 Epic Games | Engine Programmer Intern | Cary, NC | https://epicgames.com/careers/jobs/6202659004
-Epic Games | Tools Programmer Intern | Cary, NC | https://epicgames.com/careers/jobs/6200355004
 Ernst & Young | Tax Intern - Other Tax - Americas Tax Technology Group | 4 locations Nashville, TN Dallas, TX Chicago, IL Atlanta, GA | https://eyglobal.yello.co/jobs/yUI0hOKgEZ86mkIsV-EUdw
 Expedia Group | Mobile Engineer Intern | London, UK | https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545
 Expedia Group | Mobile Engineer Intern | Seattle, WA Austin, TX San Jose, CA | https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306
@@ -155,11 +155,9 @@ Genesys | Web Software Developer Intern - WFM | Toronto, ON, Canada | https://ge
 Genius AI | Engineering Intern | NYC | https://jobs.ashbyhq.com/geniusai/06198681-5c9d-40fa-aa68-ac92b65227c4/application
 Google | Forward Deployed Engineer Intern | NYC Sunnyvale, CA | https://www.google.com/about/careers/applications/jobs/results/75665705386549958
 Graphcore | Software Engineer Intern - AI Compute Libraries & Performance | Bristol, UK | https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902325002
-Graphcore | Software Engineer Intern - AI Compute Libraries & Performance | Bristol, UK | https://job-boards.greenhouse.io/graphcore/jobs/8894868002
 Graphcore | Software Engineer Intern - Drivers and Utilities | Bristol, UK | https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902141002
 Graphcore | Software Engineer Intern - Drivers and Utilities | Bristol, UK | https://job-boards.greenhouse.io/graphcore/jobs/8894376002
 Great American Insurance Company | Claims Lab Developer Intern | Cincinnati, OH | https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803
-Great American Insurance Company | Content Publishing Developer Intern | Cincinnati, OH | https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Content-Publishing-Developer-Intern---Summer-2027_R9813
 Great American Insurance Company | Data Application Engineer Intern | Cincinnati, OH | https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Application-Development-Intern---Summer-2027_R9796
 Great American Insurance Company | DevOps Developer Intern | Cincinnati, OH | https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826
 Great American Insurance Company | Extreme Programming Engineer Intern | Cincinnati, OH | https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Extreme-Programming-Engineer-Intern---Summer-2027_R9821
@@ -344,6 +342,8 @@ SOTI | Software Developer Intern | Mississauga, ON, Canada | https://soti.wd3.my
 SOTI | Software Developer Intern | Mississauga, ON, Canada | https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677
 Salesforce | Software Engineer Intern | SF Bellevue, WA | https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1
 Salesforce | Software Engineer Intern | SF Bellevue, WA | https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911
+Sallie Mae | Software Engineer Intern | Indianapolis, IN | https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633
+Sallie Mae | Software Engineer Intern | Indianapolis, IN | https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623
 Scout Motors | Digital Products Intern | Charlotte, NC | https://job-boards.greenhouse.io/scoutmotors/jobs/5287137007
 ServiceNow | AI Engineering Associate Software Engineer Intern | 4 locations Santa Clara, CA West Palm Beach, FL Kirkland, WA San Diego, CA | https://jobs.smartrecruiters.com/ServiceNow/744000155345889
 ServiceNow | Associate Forward Deployed Solution Engineer Intern | Santa Clara, CA NYC | https://jobs.smartrecruiters.com/ServiceNow/744000161936128
