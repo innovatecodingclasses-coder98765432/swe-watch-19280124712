@@ -140,7 +140,6 @@ General Dynamics Mission Systems | Full-Stack Application Development Intern | C
 General Dynamics Mission Systems | Full-Stack Software Engineer Intern | Chantilly, VA Pittsfield, MA Scottsdale, AZ | https://careers-gdms.icims.com/jobs/75970/job
 General Dynamics Mission Systems | Software Engineer Intern - CWL | Manassas, VA | https://careers-gdms.icims.com/jobs/75346/job
 General Dynamics Mission Systems | Software Engineer Intern | Manassas, VA | https://careers-gdms.icims.com/jobs/79755/job
-General Dynamics Mission Systems | Software Engineering Intern | Manassas, VA | https://careers-gdms.icims.com/jobs/75128/job
 General Dynamics Mission Systems | Software/Systems Engineering Intern | Middletown, RI | https://careers-gdms.icims.com/jobs/75808/job
 General Motors | AI/ML Engineer Intern - Autonomous Vehicles | Seattle, WA Sunnyvale, CA | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439
 General Motors | Autonomous Driving Software Engineer Intern | Sunnyvale, CA | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064
@@ -225,7 +224,6 @@ Marvell | AI-Native Development Platform Engineer Intern | Santa Clara, CA | htt
 Marvell | AI-Native Development Platform Engineer Intern | Santa Clara, CA | https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848
 Matillion | Computer Science Intern - Software Engineering with AI | Manchester, UK | https://jobs.lever.co/matillion/72564dd8-fed7-4fc5-9b16-8c7a2cfd3f22/apply
 Mayo Clinic | Graduate Engineer Intern - Software Development | Rochester, MN | https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190
-McDonald's | Global Tech Infrastructure & Operations Intern | Chicago, IL | https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/
 Merck | Future Talent Program Co-op - Patient Data Learning 🎓 | Cambridge, MA | https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526
 MetLife | Global Technology Intern | 4 locations Tampa, FL Hanover, NJ Cary, NC NYC | https://metlife.avature.net/en_US/ml/JobDetail/20701
 Microsoft | Software Engineer Intern | Redmond, WA | https://apply.careers.microsoft.com/careers/job/1970393557037859
@@ -236,9 +234,7 @@ Motorola | Software Engineer Intern - Summer 2027 | Plantation, FL | https://mot
 Muon Space | Ground Software Engineer Intern | San Jose, CA | https://job-boards.greenhouse.io/muonspace/jobs/5266679007
 Muon Space | Software Engineer Intern - Information Systems | San Jose, CA | https://job-boards.greenhouse.io/muonspace/jobs/5293973007
 NBCUniversal | Software Engineer Intern | Universal City, LA | https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529
-NVIDIA | AI Compiler and Kernel Intern | Austin, TX | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1
 NVIDIA | Compiler Software Engineer Intern | Redmond, WA | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607
-NVIDIA | Math Libraries Intern | Canada Santa Clara, CA United States | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449
 NVIDIA | PhD Research Intern - Programming Systems 🎓 | Santa Clara, CA | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379
 NVIDIA | Sparse Linear Algebra Libraries Intern 🎓 | Santa Clara, CA | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429
 NVIDIA | Systems Research Intern - Observability 🎓 | Canada Santa Clara, CA United States | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644
@@ -341,7 +337,6 @@ Skydio | Frontend Software Engineer Intern | San Mateo, CA | https://jobs.ashbyh
 Skydio | Middleware Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application
 Skydio | Mobile Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application
 Skydio | Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application
-Staples | Software Engineer Intern - Marketplace Platform 🎓 | Framingham, MA | https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77076
 Staples | Software Engineer Intern - SDS e-Commerce Team | Framingham, MA | https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133
 Steel | Software Engineer Intern | Toronto, ON, Canada | https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application
 Stripe | Software Engineer Intern | Seattle, WA SF | https://stripe.com/jobs/search
