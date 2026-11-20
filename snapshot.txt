@@ -29,7 +29,6 @@ Arrowstreet Capital | Software Engineer Intern | Boston, MA | https://arrowstree
 Assurant | Software Engineer Intern | Miami, FL Chicago, IL Atlanta, GA | https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1
 Astranis | Backend Software Engineer Intern - Summer 2027 | SF | https://job-boards.greenhouse.io/astranis/jobs/4705214006
 Astranis | Software Engineer Enterprise Systems Intern - Summer 2027 | SF | https://job-boards.greenhouse.io/astranis/jobs/4705610006
-AutoZone | Information Technology Intern | Memphis, TN | https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451
 Baird | Automation & AI Solutions Intern | Milwaukee, WI | https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R20261262-1
 Barrios | Data and Computer Engineering/Computer Science Intern | Houston, TX | https://careers-barrios.icims.com/jobs/2897/job
 Bedrock Robotics | Safety Engineer Intern - Agentic Safety Case Assessment | SF | https://jobs.ashbyhq.com/bedrock-robotics/cb06dc4f-3e78-4546-897d-b39ba12a9178/application
@@ -54,6 +53,10 @@ Burns Engineering | Software Engineer Intern | Pittsburgh, PA | https://www.burn
 CACI | AI Prompt Engineer Intern | Ashburn, VA | https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1
 CACI | Software Development Intern | Ashburn, VA | https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051
 CACI | Software Engineer Intern | Omaha, NE | https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776
+CAS | Cheminformatics Scientist Intern | Columbus, OH | https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail
+CAS | Technology Intern - Application Technology | Columbus, OH | https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail
+CAS | Technology Intern - Databases | Columbus, OH | https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail
+CAS | Technology Intern - Software Engineering | Columbus, OH | https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail
 CVS Health | Innovation & Technology Internship - Software Engineering: Data & Intelligence | NYC | https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114
 CVS Health | Innovation & Technology Software Engineering: Data & Intelligence Intern 🎓 | NYC | https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Graduate_R1081128
 CVS Health | Software Engineer Intern - Platform & Applications | 4 locations Dallas, TX Scottsdale, AZ Hartford, CT Woonsocket, RI | https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193
@@ -131,11 +134,9 @@ Formlabs | API & Automation Intern | Somerville, MA | https://careers.formlabs.c
 Formlabs | Manufacturing Test Software Intern - Manufacturing | Somerville, MA | https://careers.formlabs.com/job/8374598/apply/
 Formulary Financial | Software Engineer Intern | NYC | https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application
 GCM Grosvenor | Software Engineer Intern | Chicago, IL | https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003
-GM financial | Software Development Engineer Intern | Arlington, TX | https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260943
 Garda Capital Partners | Software Engineer Intern - C# | Wayzata, MN | https://job-boards.greenhouse.io/gardacp/jobs/6238021004
 General Dynamics Information Technology | AI/ML Business Intelligence Development Intern | Bossier City, LA | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935
 General Dynamics Information Technology | AI/ML Software Development and Engineering Intern | Bossier City, LA | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939
-General Dynamics Information Technology | Software Development Intern | Bossier City, LA | https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2
 General Dynamics Mission Systems | Full-Stack Application Development Intern | Chantilly, VA Pittsfield, MA Scottsdale, AZ | https://careers-gdms.icims.com/jobs/75971/job
 General Dynamics Mission Systems | Full-Stack Software Engineer Intern | Chantilly, VA Pittsfield, MA Scottsdale, AZ | https://careers-gdms.icims.com/jobs/75970/job
 General Dynamics Mission Systems | Software Engineer Intern - CWL | Manassas, VA | https://careers-gdms.icims.com/jobs/75346/job
@@ -169,6 +170,8 @@ Healthpeak Properties | Forward Deployed Software Engineer Intern | Irvine, CA |
 Healthpeak Properties | Forward Deployed Software Engineer Intern | NYC | https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship
 Highmark Health | Software Engineer Graduate Intern | 50 locations New Mexico Washington Kansas Pennsylvania North Dakota Oregon Delaware Iowa California Washington, DC Vermont Wyoming Connecticut Texas Montana Florida New Hampshire Nevada South Carolina South Dakota Georgia Arizona Mississippi Tennessee Virginia Arkansas Minnesota Colorado Nebraska Rhode Island Utah Kentucky West Virginia NYC Maryland Hawaii Wisconsin Maine Massachusetts North Carolina Oklahoma Ohio New Jersey Indiana Louisiana Alaska Michigan Illinois Alabama Idaho | https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Graduate-Intern_J289845
 Hive Financial Systems | Software Engineer Intern | Atlanta, GA | https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274887007
+Honeywell Aerospace | Software Engineer Intern | United States | https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119718
+Honeywell Aerospace | Software Engineer Intern | United States | https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119821
 Honeywell | Software Engineering Co-op | United States | https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957
 Hunt Oil Company | Application Developer Intern | Dallas, TX | https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1104
 IDEMIA | Software Engineer Intern | Reston, VA | https://uscareers-idemia.icims.com/jobs/8650/job
@@ -224,6 +227,7 @@ Marvell | AI-Native Development Platform Engineer Intern | Santa Clara, CA | htt
 Marvell | AI-Native Development Platform Engineer Intern | Santa Clara, CA | https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848
 Matillion | Computer Science Intern - Software Engineering with AI | Manchester, UK | https://jobs.lever.co/matillion/72564dd8-fed7-4fc5-9b16-8c7a2cfd3f22/apply
 Mayo Clinic | Graduate Engineer Intern - Software Development | Rochester, MN | https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190
+Melaleuca | Software Development Intern | Idaho Falls, ID | https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail
 Merck | Future Talent Program Co-op - Patient Data Learning 🎓 | Cambridge, MA | https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526
 MetLife | Global Technology Intern | 4 locations Tampa, FL Hanover, NJ Cary, NC NYC | https://metlife.avature.net/en_US/ml/JobDetail/20701
 Microsoft | Software Engineer Intern | Redmond, WA | https://apply.careers.microsoft.com/careers/job/1970393557037859
@@ -398,5 +402,6 @@ Workday | Software Application Development Engineer Intern | Pleasanton, CA | ht
 Workday | Software Engineer Intern | Pleasanton, CA | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810
 Zoox | Software Engineer Intern - Software Platforms & Product | Foster City, CA | https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply
 Zoox | Software Engineer Intern - Software Systems | Foster City, CA | https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply
+iA | Software Development Engineer Intern | Binghamton, NY | https://workforcenow.adp.com/job
 onsemi | Manufacturing AI Engineering Intern | Hopewell Junction, NY | https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642
 xAI | Software Engineer Intern/Co-op | Palo Alto, CA | https://job-boards.greenhouse.io/xai/jobs/5255111007
