@@ -29,8 +29,6 @@ Arconic | Software Developer Intern | Davenport, IA | https://hdnn.fa.us6.oracle
 Armadin | Frontend Engineer Intern - Member of Technical Staff | Palo Alto, CA | https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application
 Arrowstreet Capital | Software Engineer Intern | Boston, MA | https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561
 Assurant | Software Engineer Intern | Miami, FL Chicago, IL Atlanta, GA | https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1
-Astranis | Backend Software Engineer Intern - Summer 2027 | SF | https://job-boards.greenhouse.io/astranis/jobs/4705214006
-Astranis | Software Engineer Enterprise Systems Intern - Summer 2027 | SF | https://job-boards.greenhouse.io/astranis/jobs/4705610006
 Axon | Software Engineer Intern | London, UK | https://job-boards.greenhouse.io/axontalentcommunity/jobs/8159006003
 Baird | Automation & AI Solutions Intern | Milwaukee, WI | https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R20261262-1
 Barrios | Data and Computer Engineering/Computer Science Intern | Houston, TX | https://careers-barrios.icims.com/jobs/2897/job
@@ -64,7 +62,6 @@ CVS Health | Innovation & Technology Software Engineering: Data & Intelligence I
 CVS Health | Software Engineer Intern - Platform & Applications | 4 locations Dallas, TX Scottsdale, AZ Hartford, CT Woonsocket, RI | https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193
 Cambridge Consultants | Cloud Software Engineer Intern | United Kingdom | https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4988184101
 Cantor Fitzgerald | Technology Summer Internship - Development | London, UK | https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250537
-Capital Group | Global Technology Summer Associate Intern | Irvine, CA | https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798
 Capstone Investment Advisors | Tech Execution Intern | NYC | https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8882130002
 Capula | Technology Intern | London, UK | https://apply.workable.com/capula-investment-management-ltd/j/96EBCF5617/apply
 Cardinal Health | Technology Intern | Dublin, OH | https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Technology-Internship--Summer-2027-_20189610-1
@@ -317,7 +314,6 @@ Salesforce | Software Engineer Intern | SF Bellevue, WA | https://salesforce.wd1
 Salesforce | Software Engineer Intern | SF Bellevue, WA | https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911
 Scout Motors | Digital Products Intern | Charlotte, NC | https://job-boards.greenhouse.io/scoutmotors/jobs/5287137007
 ServiceNow | AI Engineering Associate Software Engineer Intern | 4 locations Santa Clara, CA West Palm Beach, FL Kirkland, WA San Diego, CA | https://jobs.smartrecruiters.com/ServiceNow/744000155345889
-ServiceNow | Associate Forward Deployed Solution Engineer Intern | Santa Clara, CA NYC | https://jobs.smartrecruiters.com/ServiceNow/744000161936128
 ServiceNow | Forward Deployed Solution Engineer Intern 🎓 | Santa Clara, CA NYC | https://jobs.smartrecruiters.com/ServiceNow/744000161936020
 ServiceNow | Security Software Engineer Intern 🎓 | Kirkland, WA | https://jobs.smartrecruiters.com/ServiceNow/744000162827365
 ServiceNow | Software Engineer Intern 🎓 | 4 locations Santa Clara, CA West Palm Beach, FL Kirkland, WA San Diego, CA | https://jobs.smartrecruiters.com/ServiceNow/744000155345689
@@ -345,7 +341,6 @@ Symbotic | Software Engineer Intern - Front-End | Austin, TX | https://symbotic.
 Synchrony Financial | Digital Technology Center Intern | Stamford, CT | https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661
 TC Energy | Intelligent Operations Technology Intern | Spokane, WA | https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Spokane-Washington/Intern--Intelligent-Operations-Technology_JR-10919
 TD Bank | Technology Intern | Belfast, UK | https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518241
-TD Bank | Technology Intern | London, UK | https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239
 TELUS Digital | Software Engineering Intern Co-op | Vancouver, BC, Canada | https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2/application
 Thales | Software Engineering Apprentice | Cheadle, UK | https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Apprentice_R0337863
 The Aerospace Corporation | Software Engineering Intern - Software Tools and Assurance 🎓 | El Segundo, CA | https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753
@@ -388,7 +383,6 @@ Wellmark | Software Engineer Intern - AI Platform Team | Des Moines, IA | https:
 Wellmark | Software Engineer Intern - Technology Health Plan | Des Moines, IA | https://jobs.smartrecruiters.com/WellmarkInc/744000156043218
 Werner Electric Supply | AI Intern | Appleton, WI | https://recruiting2.ultipro.com/WER1000WERE/JobBoard/9cc9fbca-288f-4c69-99d7-b81d31b89844/OpportunityDetail
 Woodward Governor | AI Intern | Niles, IL Fort Collins, CO | https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291
-Workday | Software Application Development Engineer Intern | Pleasanton, CA | https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811
 Zoox | Software Engineer Intern - Software Platforms & Product | Foster City, CA | https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply
 Zoox | Software Engineer Intern - Software Systems | Foster City, CA | https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply
 iA | Software Development Engineer Intern | Binghamton, NY | https://workforcenow.adp.com/job
