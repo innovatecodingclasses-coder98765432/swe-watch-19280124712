@@ -171,7 +171,6 @@ Hunt Oil Company | Application Developer Intern | Dallas, TX | https://fa-eqcd-s
 IDEMIA | Software Engineer Intern | Reston, VA | https://uscareers-idemia.icims.com/jobs/8650/job
 Illinois Tool Works | Software Engineer Intern - Application Software | Eden Prairie, MN | https://careers.itw.com/global/en/job/JR10491
 Illinois Tool Works | Software Engineer Intern - Application Software | Eden Prairie, MN | https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Summer-2027-Software-Engineer-Intern--Application-Software-_JR10491-1
-Illinois Tool Works | Software Engineer Intern | Eden Prairie, MN | https://careers.itw.com/global/en/job/JR10261
 Illinois Tool Works | Software Engineer Intern | United States | https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Software-Engineering-Intern_JR10261
 Impulse Space | Enterprise Software Engineer Intern | Redondo Beach, CA | https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579
 Infleqtion | Quantum Software Intern - Quantum Software | Chicago, IL | https://apply.workable.com/coldquanta/j/EB77DE8198/apply
@@ -279,13 +278,7 @@ Qualcomm | Applied AI Engineering Intern - Hardware Systems | Vancouver, BC, Can
 Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | https://qualcomm.eightfold.ai/careers/job/446721615591
 Qualcomm | GPU Compiler Development Intern - Interim Engineering Intern - HW | Markham, ON, Canada | https://qualcomm.eightfold.ai/careers/job/446722198182
 Quest Analytics | Software Engineer Intern - C# - ASP.NET | Overland Park, KS | https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply
-Qumulo | Software Development Engineer Intern | Seattle, WA | https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183/application
 REGENT | Mission Software Engineering Intern 🎓 | North Kingstown, RI | https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application
-Radiance Technologies | Modeling Engineer Intern - Analytics - Simulation Sciences | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102439
-Radiance Technologies | Modeling Engineer Intern - Analytics and Simulation Sciences | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102438
-Radiance Technologies | Modeling Engineer Intern - Analytics, Simulation Sciences, Mass | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1
-Radiance Technologies | Modeling Engineer Intern - Analytics, Simulation Sciences, Mass | Beavercreek, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102441
-Radiance Technologies | Software Engineer Intern | Dayton, OH | https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102443
 Ralliant | Software Engineer Intern | Beaverton, OR | https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153
 Ralliant | Software Engineering Intern - AI Building | Beaverton, OR | https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11324
 Reliable Robotics | Displays Software Engineer Intern | Mountain View, CA | https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application
@@ -311,6 +304,7 @@ SOTI | Software Developer Intern | Mississauga, ON, Canada | https://soti.wd3.my
 SOTI | Software Developer Intern | Mississauga, ON, Canada | https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677
 Salesforce | Software Engineer Intern | SF Bellevue, WA | https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1
 Salesforce | Software Engineer Intern | SF Bellevue, WA | https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911
+Sallie Mae | Software Engineer Intern | Newark, DE | https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Software-Engineering-Intern_R26_000688
 Scout Motors | Digital Products Intern | Charlotte, NC | https://job-boards.greenhouse.io/scoutmotors/jobs/5287137007
 ServiceNow | AI Engineering Associate Software Engineer Intern | 4 locations Santa Clara, CA West Palm Beach, FL Kirkland, WA San Diego, CA | https://jobs.smartrecruiters.com/ServiceNow/744000155345889
 ServiceNow | Forward Deployed Solution Engineer Intern 🎓 | Santa Clara, CA NYC | https://jobs.smartrecruiters.com/ServiceNow/744000161936020
@@ -323,6 +317,7 @@ Shield AI | Software Engineer Intern Co-op | Dallas, TX | https://jobs.ashbyhq.c
 Shield AI | Software Engineer Intern | San Diego, CA | https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/db04c516-d21a-449c-8bfd-1cf830eafb5a/application
 Shield AI | Software Engineer Intern | San Diego, CA | https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application
 Shopify | Software Engineer Intern | Montreal, QC, Canada Toronto, ON, Canada Ottawa, ON, Canada | https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a
+Sierra Space | Software Engineering Intern - Software Engineering | 5 locations Madison, WI Centennial, CO Durham, NC Louisville, CO Broomfield, CO | https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Software-Engineering_R26560-1
 Sigma Computing | Software Engineer Intern - Summer 2027 | SF NYC | https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003
 Sigma Computing | Software Engineer Intern | NYC | https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003
 Skydio | Frontend Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application
@@ -337,7 +332,6 @@ Staples | Software Engineer Intern - SDS e-Commerce Team | Framingham, MA | http
 Steel | Software Engineer Intern | Toronto, ON, Canada | https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application
 Stripe | Software Engineer Intern | Seattle, WA SF | https://stripe.com/jobs/search
 Symbotic | Software Engineer Intern - Front-End | Austin, TX | https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1
-Synchrony Financial | Digital Technology Center Intern | Stamford, CT | https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661
 TC Energy | Intelligent Operations Technology Intern | Spokane, WA | https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Spokane-Washington/Intern--Intelligent-Operations-Technology_JR-10919
 TD Bank | Technology Intern | Belfast, UK | https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518241
 TELUS Digital | Software Engineering Intern Co-op | Vancouver, BC, Canada | https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2/application
@@ -374,7 +368,6 @@ Vital Lyfe | Software Engineer Intern | Torrance, CA | https://jobs.ashbyhq.com/
 Voyager Technologies | Software Engineer Intern | Long Beach, CA | https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009
 WTW | Software Developer Intern | Reigate, UK | https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435
 Waymo | Depot Automation Intern 🎓 | SF | https://careers.withwaymo.com/jobs
-Waymo | Software Engineer Intern - MS/PhD 🎓 | Mountain View, CA | https://careers.withwaymo.com/jobs
 Waymo | Software Engineer Intern 🎓 | SF | https://careers.withwaymo.com/jobs
 Waymo | Software Engineering Intern - MS/PhD - Sys Intel & ML 🎓 | Mountain View, CA | https://careers.withwaymo.com/jobs
 Waymo | Systems Engineer Intern - Autonomous Vehicle Networks & Diagnostics 🎓 | Mountain View, CA | https://careers.withwaymo.com/jobs
