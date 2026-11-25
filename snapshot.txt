@@ -315,7 +315,6 @@ Skydio | Middleware Software Engineer Intern | San Mateo, CA | https://jobs.ashb
 Skydio | Mobile Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application
 Skydio | Software Engineer Intern | San Mateo, CA | https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application
 Southwest Power Pool | Operations Developer Intern | Little Rock, AR | https://recruiting2.ultipro.com/SOU1052SPPI/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail
-Staples | Software Engineer Intern - SDS e-Commerce Team | Framingham, MA | https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133
 Steel | Software Engineer Intern | Toronto, ON, Canada | https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application
 Strava | Software Engineer Intern - Android - Subscriptions | SF | https://jobs.ashbyhq.com/Strava/02999001-164a-45c2-a763-03dedf458f0c/application
 Strava | Software Engineer Intern - Server - Comms | SF | https://jobs.ashbyhq.com/Strava/96968b02-dde9-4e0d-b6a8-d2363f550126/application
@@ -347,7 +346,6 @@ Vanguard | College to Corporate IT Intern - Application Development | Malvern, P
 Vanguard | College to Corporate Investment Systems Intern | Malvern, PA | https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782
 Vanguard | IT Intern Application Development | Charlotte, NC | https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781
 Varda Space | Mission Operations Intern - Summer 2027 | El Segundo, CA | https://job-boards.greenhouse.io/vardaspace/jobs/8010682003
-Veolia | Manufacturing Software Engineer Intern | Boulder, CO | https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969
 Vertiv | AI Intern | Westerville, OH Fort Lauderdale, FL Huntsville, AL | https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620
 Vertiv | AI Intern | Westerville, OH Fort Lauderdale, FL Huntsville, AL | https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286621
 Veterans United | Software Engineer Intern | Missouri | https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249
@@ -358,6 +356,7 @@ Visa | Software Engineer Intern | Reading, UK | https://visa.wd5.myworkdayjobs.c
 Vital Lyfe | Software Engineer Intern | Torrance, CA | https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942/application
 Voyager Technologies | Software Engineer Intern | Long Beach, CA | https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009
 WTW | Software Developer Intern | Reigate, UK | https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435
+Waters | IT Digital Intern | Milford, MA | https://uscareers-waters.icims.com/jobs/30387/job
 Waymo | Depot Automation Intern 🎓 | SF | https://careers.withwaymo.com/jobs
 Waymo | Software Engineer Intern 🎓 | SF | https://careers.withwaymo.com/jobs
 Wellmark | Software Engineer Intern - AI Platform Team | Des Moines, IA | https://jobs.smartrecruiters.com/WellmarkInc/744000159260670
