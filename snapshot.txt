@@ -31,6 +31,7 @@ Arc | Software Engineer Intern | Torrance, CA | https://job-boards.greenhouse.io
 Armadin | Frontend Engineer Intern - Member of Technical Staff | Palo Alto, CA | https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application
 Arrowstreet Capital | Software Engineer Intern | Boston, MA | https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561
 Assurant | Software Engineer Intern | Miami, FL Chicago, IL Atlanta, GA | https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1
+Atoms | Software Engineer Intern | 5 locations Seattle, WA SF LA NYC Mountain View, CA | https://job-boards.greenhouse.io/cssmerge/jobs/8963704002
 Axon | Software Engineer Intern | London, UK | https://job-boards.greenhouse.io/axontalentcommunity/jobs/8159006003
 Baird | Automation & AI Solutions Intern | Milwaukee, WI | https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R20261262-1
 Bandwidth | Software Engineer Intern | Raleigh, NC | https://job-boards.greenhouse.io/bandwidth/jobs/8414426
@@ -171,6 +172,7 @@ Honeywell Aerospace | Software Engineer Intern | United States | https://icfcjb.
 Honeywell Aerospace | Software Engineer Intern | United States | https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119821
 Honeywell | Software Engineering Co-op | United States | https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957
 Hunt Oil Company | Application Developer Intern | Dallas, TX | https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1104
+ICONIQ Capital | Engineering Intern | SF | https://job-boards.greenhouse.io/iconiqhandshake/jobs/8394060
 IDEMIA | Software Engineer Intern | Reston, VA | https://uscareers-idemia.icims.com/jobs/8650/job
 ISO New England | Market Analysis Tool Intern - Market Analysis Tool 🎓 | Holyoke, MA | https://job-boards.greenhouse.io/studentinternships/jobs/4456528009
 Illinois Tool Works | Software Engineer Intern - Application Software | Eden Prairie, MN | https://careers.itw.com/global/en/job/JR10491
@@ -257,6 +259,7 @@ Obsidian Entertainment | Gameplay Engineer Intern | Irvine, CA | https://obsidia
 OneEthos | Research and Development Intern | Remote in USA | https://job-boards.greenhouse.io/oneethos/jobs/4459193009
 OpenSesame | Software Engineer Intern | Remote in USA | https://boards.greenhouse.io/opensesame/jobs/8418272
 Overland AI | Software Engineering Intern | Seattle, WA | https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e
+PQShield | Software Engineer Intern | Oxford, UK | https://pqshield.com/careers/apply/5049820101
 PTC | Arena Engineering Intern | San Mateo, CA | https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Mateo-CA/Arena-Engineering-Intern_JR112955
 PTC | Creo Core Geometry Intern | Boston, MA | https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Core-Geometry-Intern--Summer-2027-_JR112959
 PTC | Creo Graphics Engineering Intern | Boston, MA | https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Graphics-Engineering-Intern--Summer-2027-_JR112970
@@ -335,7 +338,6 @@ TC Energy | Intelligent Operations Technology Intern | Spokane, WA | https://tce
 TD Bank | Technology Intern | Belfast, UK | https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518241
 TELUS Digital | Software Engineering Intern Co-op | Vancouver, BC, Canada | https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2/application
 Thales | Software Engineering Apprentice | Cheadle, UK | https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Apprentice_R0337863
-The Aerospace Corporation | Software Engineering Intern - Software Tools and Assurance 🎓 | El Segundo, CA | https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753
 The Federal Reserve System | Computer Science and Software Engineering Intern | Chicago, IL | https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637
 The Marzetti Company | AI Solutions Intern - Human Resources | Columbus, OH | https://careers.marzetticompany.com/jobs/8128
 Thrivent | Application Engineer Intern - Investments | Minneapolis, MN | https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2
@@ -360,7 +362,6 @@ Veeva Systems | Software Engineer Intern | Boston, MA | https://jobs.lever.co/ve
 Veeva Systems | Software Engineer Intern | Pleasanton, CA | https://jobs.lever.co/veeva/f277bc52-1dd6-4447-ac3b-a6127e625ec7/apply
 Vertiv | AI Intern | Westerville, OH Fort Lauderdale, FL Huntsville, AL | https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620
 Vertiv | AI Intern | Westerville, OH Fort Lauderdale, FL Huntsville, AL | https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286621
-Veterans United | Software Engineer Intern | Missouri | https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249
 Visa | Software Engineer Intern | Cambridge, UK | https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1
 Visa | Software Engineer Intern | Cambridge, UK | https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W
 Visa | Software Engineer Intern | Reading, UK | https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W
