@@ -218,7 +218,6 @@ Lucid Motors | ADAS Platform Tools Intern 🎓 | Newark, CA | https://lucidmotor
 Lucid Motors | Infotainment Software Intern | Newark, CA | https://lucidmotors.com/careers/search/5290921007
 Lumbermen's | Software Developer Intern | Grand Rapids, MI | https://job-boards.greenhouse.io/lumbermens/jobs/5474346008
 Macy's | Software Engineer Intern | Johns Creek, GA | https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91780
-ManTech | C++ Developer Intern | Lexington Park, MD | https://mantech.avature.net/en_US/careers/JobDetail/67268
 Manulife Financial | Software Engineer Intern | Waterloo, ON, Canada | https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686-1
 Marvell | AI-Native Development Platform Engineer Intern | Santa Clara, CA | https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1
 Marvell | AI-Native Development Platform Engineer Intern | Santa Clara, CA | https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848
@@ -292,11 +291,7 @@ Ralliant | Software Engineer Intern | Beaverton, OR | https://ibwujb.fa.ocs.orac
 Ralliant | Software Engineering Intern - AI Building | Beaverton, OR | https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11324
 Reliable Robotics | Displays Software Engineer Intern | Mountain View, CA | https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application
 Roblox | Software Engineer Intern - Engine | Vancouver, BC, Canada | https://careers.roblox.com/jobs/8386080
-Roku | AI Engineering Intern | Cambridge, UK | https://www.weareroku.com/jobs/8345947
-Roku | AI Engineering Intern | Manchester, UK | https://www.weareroku.com/jobs/8345954
 Roku | Software Engineer Intern - AI Engineering | San Jose, CA | https://www.weareroku.com/jobs/8258241
-Roku | Software Engineer Intern | Cambridge, UK | https://www.weareroku.com/jobs/8345963
-Roku | Software Engineer Intern | Manchester, UK | https://www.weareroku.com/jobs/8345967
 Ryan | Software Engineer Intern | North York, ON, Canada | https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Summer-2027-Intern--Software-Engineering_R0020806-1
 SAS | Data Scientist Intern 🎓 | Cary, NC | https://careers-sas.icims.com/jobs/42786/job
 SAS | Optimization Intern 🎓 | Cary, NC | https://careers-sas.icims.com/jobs/42754/job
